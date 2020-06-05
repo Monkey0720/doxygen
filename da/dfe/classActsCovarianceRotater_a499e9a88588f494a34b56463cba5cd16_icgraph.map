@@ -1,0 +1,4 @@
+<map id="ActsCovarianceRotater::rotateActsCovToSvtxTrack" name="ActsCovarianceRotater::rotateActsCovToSvtxTrack">
+<area shape="rect" id="node2" href="$d1/d49/classPHActsTrkFitter.html#a225e444a0897e3134d015638be074006" title="Convert the acts track fit result to an svtx track." alt="" coords="259,5,467,49"/>
+<area shape="rect" id="node3" href="$d1/d49/classPHActsTrkFitter.html#ae131c42164fb6bd25da8240e5eedda7f" title="Process each event by calling the fitter." alt="" coords="515,13,696,41"/>
+</map>

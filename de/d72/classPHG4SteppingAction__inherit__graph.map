@@ -1,0 +1,32 @@
+<map id="PHG4SteppingAction" name="PHG4SteppingAction">
+<area shape="rect" id="node2" href="$df/d88/classAllSiliconTrackerSteppingAction.html" title="AllSiliconTrackerStepping\lAction" alt="" coords="243,5,436,49"/>
+<area shape="rect" id="node3" href="$d1/dc5/classBeamLineMagnetSteppingAction.html" title="BeamLineMagnetSteppingAction" alt="" coords="219,73,460,101"/>
+<area shape="rect" id="node4" href="$dc/d34/classBeastMagnetSteppingAction.html" title="BeastMagnetSteppingAction" alt="" coords="233,125,445,153"/>
+<area shape="rect" id="node5" href="$de/d7a/classG4Example01SteppingAction.html" title="G4Example01SteppingAction" alt="" coords="230,177,449,205"/>
+<area shape="rect" id="node6" href="$d7/d09/classG4Example02SteppingAction.html" title="G4Example02SteppingAction" alt="" coords="230,229,449,257"/>
+<area shape="rect" id="node7" href="$d2/df9/classG4Example03SteppingAction.html" title="G4Example03SteppingAction" alt="" coords="230,281,449,309"/>
+<area shape="rect" id="node8" href="$d7/d9e/classG4JLeicBeamLineMagnetSteppingAction.html" title="G4JLeicBeamLineMagnetStepping\lAction" alt="" coords="215,333,464,377"/>
+<area shape="rect" id="node9" href="$d3/d1c/classG4JLeicDIRCSteppingAction.html" title="G4JLeicDIRCSteppingAction" alt="" coords="237,401,442,429"/>
+<area shape="rect" id="node10" href="$da/d63/classG4JLeicVTXSteppingAction.html" title="G4JLeicVTXSteppingAction" alt="" coords="239,453,439,481"/>
+<area shape="rect" id="node11" href="$dc/d40/classG4LBLVtxSteppingAction.html" title="G4LBLVtxSteppingAction" alt="" coords="245,505,433,533"/>
+<area shape="rect" id="node12" href="$d2/d73/classG4LmonSteppingAction.html" title="G4LmonSteppingAction" alt="" coords="249,557,429,585"/>
+<area shape="rect" id="node13" href="$d1/da2/classPHG4BlockSteppingAction.html" title="PHG4BlockSteppingAction" alt="" coords="241,609,438,637"/>
+<area shape="rect" id="node14" href="$df/d6e/classPHG4CEmcTestBeamSteppingAction.html" title="PHG4CEmcTestBeamStepping\lAction" alt="" coords="228,661,451,705"/>
+<area shape="rect" id="node15" href="$d4/d7a/classPHG4ConeSteppingAction.html" title="PHG4ConeSteppingAction" alt="" coords="241,729,437,757"/>
+<area shape="rect" id="node16" href="$da/ded/classPHG4CrystalCalorimeterSteppingAction.html" title="PHG4CrystalCalorimeterStepping\lAction" alt="" coords="217,781,462,825"/>
+<area shape="rect" id="node17" href="$da/d58/classPHG4CylinderSteppingAction.html" title="PHG4CylinderSteppingAction" alt="" coords="231,849,448,877"/>
+<area shape="rect" id="node18" href="$da/deb/classPHG4EnvelopeSteppingAction.html" title="PHG4EnvelopeSteppingAction" alt="" coords="227,901,451,929"/>
+<area shape="rect" id="node19" href="$dd/d6a/classPHG4ForwardEcalSteppingAction.html" title="PHG4ForwardEcalSteppingAction" alt="" coords="218,953,461,981"/>
+<area shape="rect" id="node20" href="$d1/d5a/classPHG4ForwardHcalSteppingAction.html" title="PHG4ForwardHcalSteppingAction" alt="" coords="217,1005,462,1033"/>
+<area shape="rect" id="node21" href="$d0/ded/classPHG4FPbScSteppingAction.html" title="PHG4FPbScSteppingAction" alt="" coords="239,1057,440,1085"/>
+<area shape="rect" id="node22" href="$db/d97/classPHG4HcalSteppingAction.html" title="PHG4HcalSteppingAction" alt="" coords="244,1109,435,1137"/>
+<area shape="rect" id="node23" href="$df/dec/classPHG4InnerHcalSteppingAction.html" title="PHG4InnerHcalSteppingAction" alt="" coords="227,1161,452,1189"/>
+<area shape="rect" id="node24" href="$d4/d7a/classPHG4InttSteppingAction.html" title="PHG4InttSteppingAction" alt="" coords="247,1213,431,1241"/>
+<area shape="rect" id="node25" href="$d3/df6/classPHG4mRICHSteppingAction.html" title="PHG4mRICHSteppingAction" alt="" coords="236,1265,443,1293"/>
+<area shape="rect" id="node26" href="$d1/d77/classPHG4MvtxSteppingAction.html" title="PHG4MvtxSteppingAction" alt="" coords="243,1317,436,1345"/>
+<area shape="rect" id="node27" href="$d3/d77/classPHG4OuterHcalSteppingAction.html" title="PHG4OuterHcalSteppingAction" alt="" coords="225,1369,454,1397"/>
+<area shape="rect" id="node28" href="$d4/d8c/classPHG4PSTOFSteppingAction.html" title="PHG4PSTOFSteppingAction" alt="" coords="237,1421,441,1449"/>
+<area shape="rect" id="node29" href="$d9/df3/classPHG4SectorSteppingAction.html" title="PHG4SectorSteppingAction" alt="" coords="237,1473,441,1501"/>
+<area shape="rect" id="node30" href="$de/dea/classPHG4SpacalSteppingAction.html" title="PHG4SpacalSteppingAction" alt="" coords="236,1525,443,1553"/>
+<area shape="rect" id="node31" href="$dc/d04/classPHG4TpcSteppingAction.html" title="PHG4TpcSteppingAction" alt="" coords="247,1577,432,1605"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="GPUTPCTrackParam::Rotate" name="GPUTPCTrackParam::Rotate">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="319,5,429,33"/>
+<area shape="rect" id="node4" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="352,57,396,85"/>
+<area shape="rect" id="node5" href="$d4/d60/classGPUTPCTrackParam.html#a4b66856dccf7d372da03b8620f151da6" title="GPUTPCTrackParam::DzDs" alt="" coords="275,109,473,137"/>
+<area shape="rect" id="node7" href="$d4/d60/classGPUTPCTrackParam.html#abd70f63eee16a4313601e170b5073612" title="GPUTPCTrackParam::GetCosPhi" alt="" coords="259,161,489,189"/>
+<area shape="rect" id="node8" href="$d4/d60/classGPUTPCTrackParam.html#ab999cb5fde7bf1a6722d7b2991c7e4f2" title="GPUTPCTrackParam::SinPhi" alt="" coords="546,187,749,215"/>
+<area shape="rect" id="node10" href="$d4/d60/classGPUTPCTrackParam.html#ab58848889eee0d630ccfddf8e486eb64" title="GPUTPCTrackParam::QPt" alt="" coords="281,265,467,293"/>
+<area shape="rect" id="node12" href="$d4/d60/classGPUTPCTrackParam.html#a2f7fdd45ddf6251ab1695f5e1bd53b11" title="GPUTPCTrackParam::SetDzDs" alt="" coords="265,317,483,345"/>
+<area shape="rect" id="node14" href="$d4/d60/classGPUTPCTrackParam.html#af26aa1c63307dbb2222f09cbb9664c0d" title="GPUTPCTrackParam::SetQPt" alt="" coords="269,369,479,397"/>
+<area shape="rect" id="node16" href="$d4/d60/classGPUTPCTrackParam.html#a0bc0e6627fad9cdb639c051b46818673" title="GPUTPCTrackParam::SetSign\lCosPhi" alt="" coords="267,421,481,465"/>
+<area shape="rect" id="node17" href="$d4/d60/classGPUTPCTrackParam.html#a7372069e152058de5324082d33f13d1d" title="GPUTPCTrackParam::SetSinPhi" alt="" coords="261,489,487,517"/>
+<area shape="rect" id="node19" href="$d4/d60/classGPUTPCTrackParam.html#ab075cd6bfe0125da9c6dbf2ea145ad2a" title="GPUTPCTrackParam::SetX" alt="" coords="277,541,471,569"/>
+<area shape="rect" id="node21" href="$d4/d60/classGPUTPCTrackParam.html#af5e7e5ba1541757fd562e2985f166296" title="GPUTPCTrackParam::SetY" alt="" coords="277,593,471,621"/>
+<area shape="rect" id="node23" href="$d4/d60/classGPUTPCTrackParam.html#a7826bf74f3c1f54eac6300e8991b97f5" title="GPUTPCTrackParam::X" alt="" coords="288,649,460,677"/>
+<area shape="rect" id="node25" href="$d4/d60/classGPUTPCTrackParam.html#ad2beefed9de1d003dc2ef4fb4e570ad3" title="GPUTPCTrackParam::Y" alt="" coords="289,701,459,729"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="559,5,735,33"/>
+<area shape="rect" id="node6" href="$d3/dbf/classGPUTPCBaseTrackParam.html#a0ebcee5a776f32e8dfc25b1b3a4a1987" title="GPUTPCBaseTrackParam\l::DzDs" alt="" coords="554,101,741,145"/>
+<area shape="rect" id="node9" href="$d3/dbf/classGPUTPCBaseTrackParam.html#a55024cab5ff7847d2c33e644c1394657" title="GPUTPCBaseTrackParam\l::SinPhi" alt="" coords="805,179,992,223"/>
+<area shape="rect" id="node11" href="$d3/dbf/classGPUTPCBaseTrackParam.html#ad94185617b6167b4dfcf9547961895f3" title="GPUTPCBaseTrackParam::QPt" alt="" coords="537,257,757,285"/>
+<area shape="rect" id="node13" href="$d3/dbf/classGPUTPCBaseTrackParam.html#a41cfc34f3e5c1edcede8aefcbe75b9d4" title="GPUTPCBaseTrackParam\l::SetDzDs" alt="" coords="554,309,741,353"/>
+<area shape="rect" id="node15" href="$d3/dbf/classGPUTPCBaseTrackParam.html#ab38055e5d5fef48124cd978a5d731734" title="GPUTPCBaseTrackParam\l::SetQPt" alt="" coords="554,377,741,421"/>
+<area shape="rect" id="node18" href="$d3/dbf/classGPUTPCBaseTrackParam.html#a7e9006bfe1d7d4d8d876eb4a4ada026c" title="GPUTPCBaseTrackParam\l::SetSinPhi" alt="" coords="554,449,741,493"/>
+<area shape="rect" id="node20" href="$d3/dbf/classGPUTPCBaseTrackParam.html#a92b3c3e895118fdbc0e6aa2065f3aec2" title="GPUTPCBaseTrackParam\l::SetX" alt="" coords="554,517,741,561"/>
+<area shape="rect" id="node22" href="$d3/dbf/classGPUTPCBaseTrackParam.html#acb5c5e7da4856b3a5b0e13aabf20a8d0" title="GPUTPCBaseTrackParam\l::SetY" alt="" coords="554,585,741,629"/>
+<area shape="rect" id="node24" href="$d3/dbf/classGPUTPCBaseTrackParam.html#ac57749169af8c984ef3ebb820183b3b6" title="GPUTPCBaseTrackParam::X" alt="" coords="545,653,749,681"/>
+<area shape="rect" id="node26" href="$d3/dbf/classGPUTPCBaseTrackParam.html#ac6a732638c2b29de60b2c66504b5b3b3" title="GPUTPCBaseTrackParam::Y" alt="" coords="545,705,749,733"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GPUTPCBaseTrackParam::GetSinPhi" name="GPUTPCBaseTrackParam::GetSinPhi">
+<area shape="rect" id="node2" href="$d4/d60/classGPUTPCTrackParam.html#a9e6343a1785e87f04bb240a31b5967b1" title="GPUTPCTrackParam::GetSinPhi" alt="" coords="240,84,467,112"/>
+<area shape="rect" id="node3" href="$d4/d60/classGPUTPCTrackParam.html#a95928c289f2f8b400a972a2f401ef15d" title="GPUTPCTrackParam::GetS" alt="" coords="546,5,741,33"/>
+<area shape="rect" id="node4" href="$d4/d60/classGPUTPCTrackParam.html#abd0a5cf5fa4e93b6f1eb06e16ef23fd5" title="GPUTPCTrackParam::GetDCAPoint" alt="" coords="820,32,1069,60"/>
+<area shape="rect" id="node5" href="$d4/d60/classGPUTPCTrackParam.html#a136a92dedb0238c9d0af651c584874ad" title="GPUTPCTrackParam::Print" alt="" coords="547,109,740,137"/>
+<area shape="rect" id="node6" href="$d1/d08/classPHCASeeding.html#af376b7d45ef271961bb0a2fc4a24631a" title="PHCASeeding::FindSeedsLayerSkip" alt="" coords="515,161,772,189"/>
+<area shape="rect" id="node7" href="$d1/d08/classPHCASeeding.html#aaa4eca2abbf1065bb9b48de9cb683494" title="PHCASeeding::Process" alt="" coords="858,161,1031,189"/>
+</map>

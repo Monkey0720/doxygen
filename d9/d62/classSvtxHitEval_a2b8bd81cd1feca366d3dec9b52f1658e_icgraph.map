@@ -1,0 +1,13 @@
+<map id="SvtxHitEval::next_event" name="SvtxHitEval::next_event">
+<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#a0f23d4c63d0e893560d423db7e02578d" title="SvtxClusterEval::next\l_event" alt="" coords="237,65,404,109"/>
+<area shape="rect" id="node3" href="$df/dad/classSvtxTrackEval.html#aff069c6fdb0f6d80147b65a98878d90f" title="SvtxTrackEval::next\l_event" alt="" coords="452,65,607,109"/>
+<area shape="rect" id="node4" href="$d4/d21/classSvtxVertexEval.html#ad872cdf8407f2f483af522aed6786a40" title="SvtxVertexEval::next\l_event" alt="" coords="655,65,817,109"/>
+<area shape="rect" id="node5" href="$d3/ded/classSvtxEvalStack.html#a8a929a1f521c9e8596ecb1ca108281cf" title="SvtxEvalStack::next\l_event" alt="" coords="865,65,1021,109"/>
+<area shape="rect" id="node6" href="$d0/da9/classAnaTutorial.html#a54c32a62e705c4464d9652e91c7d46fa" title="Methods for grabbing the data." alt="" coords="1071,13,1243,41"/>
+<area shape="rect" id="node8" href="$d3/d22/classJetTruthEval.html#ac29b8d18ee116903ed233388eb253256" title="reinitialize the eval for a new event" alt="" coords="1086,65,1229,109"/>
+<area shape="rect" id="node12" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1069,133,1245,177"/>
+<area shape="rect" id="node7" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="1307,5,1467,49"/>
+<area shape="rect" id="node9" href="$dd/d75/classJetRecoEval.html#ae02e058aa7f403d5853482b5d06c01c9" title="reinitialize the eval for a new event" alt="" coords="1293,73,1480,101"/>
+<area shape="rect" id="node10" href="$dd/df3/classJetEvalStack.html#ab85ba05ab4fea5909c8faa238ba5f8e6" title="JetEvalStack::next\l_event" alt="" coords="1528,65,1673,109"/>
+<area shape="rect" id="node11" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="1721,65,1887,109"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="FairRunSim::Instance" name="FairRunSim::Instance">
+<area shape="rect" id="node2" href="$d8/def/classFairMCApplication.html#a565af65a59983ef8286b763d7759ae5f" title="FairMCApplication::\lAddIons" alt="" coords="257,339,408,383"/>
+<area shape="rect" id="node3" href="$d8/def/classFairMCApplication.html#a0cd070e45f8a2cc3c7fc242fd556b2f5" title="FairMCApplication::\lAddParticles" alt="" coords="257,407,408,451"/>
+<area shape="rect" id="node4" href="$d7/d91/g3Config_8C.html#aa58262e3cde23ab66e49f3acde7bec14" title="Config" alt="" coords="301,475,365,503"/>
+<area shape="rect" id="node19" href="$df/d09/classEicMagneticFieldFromGradients.html#a7685ae8849fee38f7acd41678fb7992f" title="EicMagneticFieldFromGradients\l::CreateYokeVolumes" alt="" coords="216,625,449,669"/>
+<area shape="rect" id="node20" href="$df/d09/classEicMagneticField.html#ae89b975925dd9b6b6f8c26e53ab75e45" title="EicMagneticField::Create\lYokeVolumes" alt="" coords="239,693,427,737"/>
+<area shape="rect" id="node22" href="$d8/def/classFairMCApplication.html#a43c3923ae3bdacb4193d70f3bab05b0e" title="FairMCApplication::\lFinishRun" alt="" coords="257,813,408,857"/>
+<area shape="rect" id="node23" href="$d8/def/classFairMCApplication.html#a790690ef6a9d79727d4478417719be6b" title="FairMCApplication::\lRunMC" alt="" coords="535,813,686,857"/>
+<area shape="rect" id="node28" href="$d8/def/classFairMCApplication.html#af68192f3647a533c3fd9f59128982d58" title="FairMCApplication::\lStopRun" alt="" coords="535,881,686,925"/>
+<area shape="rect" id="node30" href="$d8/def/classFairMCApplication.html#ae6ed46ec48c80c4db0483b98052e6a1a" title="FairMCApplication::\lInitGeometry" alt="" coords="257,933,408,977"/>
+<area shape="rect" id="node31" href="$dd/d78/classPndDipoleMap.html#a9fb9fd645d91b3603b8a7e9884300454" title="PndDipoleMap::PndDipoleMap" alt="" coords="221,1001,445,1029"/>
+<area shape="rect" id="node32" href="$d2/da7/classPndTransMap.html#aa7c0f91943a8d078c8e5ef5a327be641" title="PndTransMap::PndTransMap" alt="" coords="228,1053,437,1081"/>
+<area shape="rect" id="node33" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="255,1105,411,1149"/>
+<area shape="rect" id="node34" href="$d8/def/classFairMCApplication.html#a804ba086e52f4330b90c34566c1e0544" title="FairMCApplication::\lSetParTask" alt="" coords="257,1173,408,1217"/>
+<area shape="rect" id="node38" href="$db/d62/classEicMCApplication.html#a159ceb428e89f712b67c5b3de18a5782" title="EicMCApplication::Stepping" alt="" coords="229,1241,436,1269"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#aaa4a3e55a710f78e81d0e6b403913de9" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="517,5,705,49"/>
+<area shape="rect" id="node6" href="$de/d9b/namespaceFW_1_1Generic.html#ae44d0ffd2d79b410537700d640ed9177" title="FW::Generic::buildDetector" alt="" coords="508,73,713,101"/>
+<area shape="rect" id="node7" href="$d7/dc0/classFWE_1_1VertexFindingAlgorithm.html#ab3301a6496e1063fd94be134301a6bb4" title="Algorithm that receives all selected tracks from an event and finds and fits its vertices." alt="" coords="501,125,720,169"/>
+<area shape="rect" id="node8" href="$d9/dc3/classFWE_1_1VertexFitAlgorithm.html#a26478f3134d50a55c00cde82da893487" title="Algorithm that receives a set of tracks belonging to a common vertex and fits the associated vertex t..." alt="" coords="518,193,703,237"/>
+<area shape="rect" id="node9" href="$d4/d95/structActs_1_1Test_1_1LayerCreatorFixture.html#ab4dfa3c42b001a86b42df9a5c578b13c" title="Acts::Test::LayerCreator\lFixture::LayerCreatorFixture" alt="" coords="506,261,715,305"/>
+<area shape="rect" id="node10" href="$d7/d45/SolenoidFieldBenchmark_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="583,329,638,357"/>
+<area shape="rect" id="node11" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#a072177b919ad98143c25c8d331e9d4ff" title="Acts::IntegrationTest\l::makeFieldMap" alt="" coords="530,381,691,425"/>
+<area shape="rect" id="node12" href="$d3/d32/PropagationExampleBase_8cpp.html#a547a2dbde1cd0681a15d22bdfaa29b07" title="propagationExample" alt="" coords="529,449,692,477"/>
+<area shape="rect" id="node14" href="$d6/d55/namespaceFW_1_1Options.html#ada1146046b8be4bfad8fe43d1c470acc" title="FW::Options::readFatrasConfig" alt="" coords="497,501,724,529"/>
+<area shape="rect" id="node15" href="$dd/dbc/classFairRunSim.html#ada734ab11808411cb486f02fc020097c" title="FairRunSim::SetPythiaDecayer" alt="" coords="497,553,724,581"/>
+<area shape="rect" id="node16" href="$dd/dbc/classFairRunSim.html#ac81b06c1c9110dc64bc9200f5d05ff8c" title="FairRunSim::SetUserConfig" alt="" coords="510,605,711,633"/>
+<area shape="rect" id="node17" href="$dd/dbc/classFairRunSim.html#a465f27d5af45bd3791abd0bc43164fc4" title="FairRunSim::SetUserDecay" alt="" coords="510,657,711,685"/>
+<area shape="rect" id="node18" href="$dd/d76/namespaceFW_1_1BField.html#a6eef31d1b2b73d821aa67db243d28f03" title="FW::BField::writeField" alt="" coords="528,709,693,737"/>
+<area shape="rect" id="node13" href="$df/d8a/AlignedPropagationExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="820,449,875,477"/>
+<area shape="rect" id="node21" href="$de/d5a/pCDR-2018_2b0rp_2simulation_8C.html#ad5b0fb3dd6076d50cf0edc4f4288423a" title="simulation" alt="" coords="565,761,657,789"/>
+<area shape="rect" id="node24" href="$dd/dbc/classFairRunSim.html#a406ff7a01a1686af46c1c85f8ac9a32d" title="FairRunSim::Run" alt="" coords="971,845,1101,873"/>
+<area shape="rect" id="node25" href="$d3/d61/classEicRunSim.html#ac3dc4b7912f3a0d7c501a203617fe508" title="EicRunSim::RunCoreStart" alt="" coords="1149,864,1341,892"/>
+<area shape="rect" id="node26" href="$d3/d61/classEicRunSim.html#a9f9cc62b3a055d135358f264709c6b7e" title="EicRunSim::Run" alt="" coords="1389,864,1516,892"/>
+<area shape="rect" id="node27" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="1564,891,1656,919"/>
+<area shape="rect" id="node29" href="$d8/def/classFairMCApplication.html#ac5d6ec0eb105cedb5870d8febe788847" title="FairMCApplication::\lGeneratePrimaries" alt="" coords="772,881,923,925"/>
+<area shape="rect" id="node35" href="$d8/def/classFairMCApplication.html#a314d55dd24e9e44a65c7f216860edaa9" title="FairMCApplication::\lAddTask" alt="" coords="535,1061,686,1105"/>
+<area shape="rect" id="node36" href="$dd/dbc/classFairRunSim.html#ad054abd046776cbc896d264a4e62376f" title="FairRunSim::Init" alt="" coords="783,953,911,981"/>
+<area shape="rect" id="node37" href="$d3/d61/classEicRunSim.html#a8753bc74b79c1b5c0c3dce2419672271" title="EicRunSim::Init" alt="" coords="974,916,1098,944"/>
+</map>

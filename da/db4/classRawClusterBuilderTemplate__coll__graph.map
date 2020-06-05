@@ -1,0 +1,14 @@
+<map id="RawClusterBuilderTemplate" name="RawClusterBuilderTemplate">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="1157,245,1258,273"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="796,245,900,273"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="453,245,542,273"/>
+<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html" title="BEmcRec" alt="" coords="806,126,890,154"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="131,237,273,281"/>
+<area shape="rect" id="node10" href="$d9/d04/classEmcCluster.html" title="EmcCluster" alt="" coords="1158,57,1257,85"/>
+<area shape="rect" id="node8" href="$d4/d8e/structTowerGeom.html" title="TowerGeom" alt="" coords="151,127,253,155"/>
+<area shape="rect" id="node11" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,165,81,193"/>
+<area shape="rect" id="node15" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="160,357,244,385"/>
+<area shape="rect" id="node13" href="$dd/daa/classEmcModule.html" title="EmcModule" alt="" coords="152,61,252,89"/>
+<area shape="rect" id="node14" href="$d6/d12/classRawClusterContainer.html" title="RawClusterContainer" alt="" coords="1125,357,1289,385"/>
+<area shape="rect" id="node17" href="$d2/d4e/classRawCluster.html" title="RawCluster" alt="" coords="448,357,547,385"/>
+</map>

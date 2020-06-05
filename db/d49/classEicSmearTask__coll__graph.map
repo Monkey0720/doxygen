@@ -1,0 +1,15 @@
+<map id="EicSmearTask" name="EicSmearTask">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="153,729,228,757"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="145,637,237,665"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="39,513,145,541"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="18,405,166,449"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,313,179,341"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="37,221,147,249"/>
+<area shape="rect" id="node10" href="$d2/d7d/classSmear_1_1Detector.html" title="Smear::Detector" alt="" coords="525,729,659,757"/>
+<area shape="rect" id="node11" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="553,413,629,441"/>
+<area shape="rect" id="node13" href="$d1/d9f/classSmear_1_1Smearer.html" title="Smear::Smearer" alt="" coords="659,513,791,541"/>
+<area shape="rect" id="node20" href="$da/d91/classerhic_1_1VirtualEventFactory.html" title="erhic::VirtualEventFactory" alt="" coords="375,575,571,603"/>
+<area shape="rect" id="node14" href="$d2/d55/classSmear_1_1Acceptance.html" title="Smear::Acceptance" alt="" coords="653,413,805,441"/>
+<area shape="rect" id="node16" href="$de/d88/classSmear_1_1Acceptance_1_1Zone.html" title="Smear::Acceptance::Zone" alt="" coords="531,221,727,249"/>
+<area shape="rect" id="node18" href="$d2/d06/classSmear_1_1Acceptance_1_1CustomCut.html" title="Smear::Acceptance::\lCustomCut" alt="" coords="549,5,709,49"/>
+</map>

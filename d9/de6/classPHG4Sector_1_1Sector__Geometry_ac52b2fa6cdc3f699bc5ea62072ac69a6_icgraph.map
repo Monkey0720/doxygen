@@ -1,0 +1,12 @@
+<map id="PHG4Sector::Sector_Geometry::set_max_polar_angle" name="PHG4Sector::Sector_Geometry::set_max_polar_angle">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="643,5,756,33"/>
+<area shape="rect" id="node4" href="$dc/dbd/classPHG4Sector_1_1PHG4SectorConstructor.html#ad533f2d88dc4ef5ed7dde6639a076c41" title="PHG4Sector::PHG4SectorConstructor\l::Construct_Sectors" alt="" coords="300,57,571,101"/>
+<area shape="rect" id="node6" href="$d8/d50/G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="389,125,482,153"/>
+<area shape="rect" id="node7" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="650,177,749,205"/>
+<area shape="rect" id="node8" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="361,229,509,257"/>
+<area shape="rect" id="node10" href="$de/d55/G4__GEM__EIC_8C.html#a5c9797b8007dda401ba2b3949d5647eb" title="make_LANL_FST_station" alt="" coords="344,281,527,309"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="828,152,908,180"/>
+<area shape="rect" id="node5" href="$d5/d5e/classPHG4SectorDetector.html#a45d81b008ca7291a850ae4b6002b0648" title="construct" alt="" coords="619,57,780,101"/>
+<area shape="rect" id="node9" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="649,229,749,257"/>
+<area shape="rect" id="node11" href="$de/d55/G4__GEM__EIC_8C.html#a7be3dff0a6b7e1a41e670fcb9341b22b" title="FGEMSetup" alt="" coords="650,281,749,309"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PHG4CylinderCellGeom::get_phibin" name="PHG4CylinderCellGeom::get_phibin">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#a6594ca430b1b489a3c637f88d1e46c41" title="SvtxEvaluator::G4ClusterSize" alt="" coords="233,13,452,41"/>
+<area shape="rect" id="node5" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a8947e8dcf5c35c405459a6d14b83ec23" title="PHG4TpcPadPlaneReadout\l::populate_rectangular\l_phibins" alt="" coords="242,65,443,125"/>
+<area shape="rect" id="node7" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="242,149,443,193"/>
+<area shape="rect" id="node8" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="257,217,429,261"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="507,5,695,49"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="749,5,925,49"/>
+<area shape="rect" id="node6" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="500,111,701,155"/>
+</map>

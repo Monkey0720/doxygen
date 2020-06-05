@@ -1,0 +1,51 @@
+<map id="recoConsts::instance" name="recoConsts::instance">
+<area shape="rect" id="node2" href="$d1/d13/classPHG4PhenixDetector.html#a7ced94537389e83dbea5c2024ec617c5" title="this is called by geant to actually construct all detectors" alt="" coords="250,164,413,208"/>
+<area shape="rect" id="node3" href="$d3/d96/classFun4AllHistoManager.html#a61c2043c62739de451de3f9287832a08" title="Fun4AllHistoManager\l::dumpHistos" alt="" coords="249,232,414,276"/>
+<area shape="rect" id="node12" href="$da/d29/classFun4AllServer.html#ab7263450319ca1d5029209fde26a7af8" title="Fun4AllServer::End" alt="" coords="531,980,681,1008"/>
+<area shape="rect" id="node13" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="796,460,949,488"/>
+<area shape="rect" id="node14" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="780,512,965,540"/>
+<area shape="rect" id="node15" href="$df/d51/Fun4All__ExportGeom_8C.html#a582925c51bad38d562cf19e71211adfd" title="get geometry from DST file and output TGeoManager ROOT files or other formats of geometry files..." alt="" coords="791,564,954,592"/>
+<area shape="rect" id="node16" href="$de/d55/Fun4All__G4__block_8C.html#a6a063a649a0dd3318a517d5af98430dd" title="Fun4All_G4_block" alt="" coords="803,616,943,644"/>
+<area shape="rect" id="node17" href="$d2/dee/Fun4All__G4__Cylinder_8C.html#a271dc4f10f6f77107705e0efef0c97e5" title="Fun4All_G4_Cylinder" alt="" coords="792,668,953,696"/>
+<area shape="rect" id="node18" href="$da/d02/Fun4All__G4__EICDetector_8C.html#afbe82cefa1d1fd031d9a8586b7bb68c6" title="Fun4All_G4_EICDetector" alt="" coords="780,720,965,748"/>
+<area shape="rect" id="node19" href="$d5/d7d/Fun4All__G4__Example01_8C.html#ab61e640155444e40e5ff32fe50125b4d" title="Fun4All_G4_Example01" alt="" coords="783,772,963,800"/>
+<area shape="rect" id="node20" href="$df/ddd/Fun4All__G4__Example02_8C.html#a828c51f9608f078106cef9343df49316" title="Fun4All_G4_Example02" alt="" coords="783,824,963,852"/>
+<area shape="rect" id="node21" href="$d1/dc4/Fun4All__G4__Example03_8C.html#a6519821c64f56c74d049579392dfac3f" title="Fun4All_G4_Example03" alt="" coords="783,876,963,904"/>
+<area shape="rect" id="node22" href="$da/de9/Fun4All__G4__FAIR__barrel__only_8C.html#ad17d6575f5ac06812f55b6cef25e64ba" title="Fun4All_G4_FAIR_barrel_only" alt="" coords="765,928,980,956"/>
+<area shape="rect" id="node23" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="790,980,955,1008"/>
+<area shape="rect" id="node24" href="$dc/d3f/Fun4All__G4__Geantino_8C.html#a2a4c70246a9a6288b367a2fa7c1d1087" title="Fun4All_G4_Geantino" alt="" coords="790,1032,955,1060"/>
+<area shape="rect" id="node25" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a66e8fc0b01ee0a8e805c7b99c4698974" title="Fun4All_G4_JLeic" alt="" coords="805,1084,940,1112"/>
+<area shape="rect" id="node26" href="$d9/d1f/Fun4All__G4__Lmon_8C.html#a4f09ca292c4b3a82ce38b19ac3858d74" title="Fun4All_G4_Lmon" alt="" coords="802,1136,943,1164"/>
+<area shape="rect" id="node27" href="$dd/d8d/Fun4All__G4__Magnet_8C.html#a375961511ba614ba387343e652ab0202" title="Fun4All_G4_Magnet" alt="" coords="795,1188,950,1216"/>
+<area shape="rect" id="node28" href="$d9/d8f/Fun4All__G4__Momentum_8C.html#afbd7a4eecd7792e9216ce80b5514123e" title="Fun4All_G4_Momentum" alt="" coords="783,1240,963,1268"/>
+<area shape="rect" id="node29" href="$d1/d54/Fun4All__G4__MyDetector_8C.html#a42ff88b75bd8510ae12cc9757b9a693b" title="Fun4All_G4_MyDetector" alt="" coords="781,1292,964,1320"/>
+<area shape="rect" id="node30" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="792,1344,953,1372"/>
+<area shape="rect" id="node31" href="$d1/d9c/Fun4All__G4__Write__Dst_8C.html#a97c6c9ea797219c94a95ae2fe4bc79c3" title="Fun4All_G4_Write_Dst" alt="" coords="788,1396,957,1424"/>
+<area shape="rect" id="node32" href="$d9/d0f/Fun4All__ImportGeom_8C.html#a3388968a8dae60e9eb62b1126f747b6a" title="Read in a Geometry file, and output DST and ROOT TGeo files." alt="" coords="791,1448,954,1476"/>
+<area shape="rect" id="node33" href="$d1/d29/Fun4All__Read__Dst_8C.html#ae153a0407033e203422cedf7e2ce5b3b" title="Fun4All_Read_Dst" alt="" coords="802,1500,943,1528"/>
+<area shape="rect" id="node34" href="$d6/dc1/MakeTree_8C.html#a53b8088628309d5abb10a7aaf0d33b7a" title="MakeTree" alt="" coords="830,1552,915,1580"/>
+<area shape="rect" id="node35" href="$de/dcb/RunBoth_8C.html#a953c430173a95963886161f24b97640c" title="RunBoth" alt="" coords="833,1604,912,1632"/>
+<area shape="rect" id="node36" href="$db/d1f/classFun4AllOscarInputManager.html#a6fbe420ea4972e895f4061bb94ab9d77" title="Fun4AllOscarInputManager\l::fileopen" alt="" coords="229,1895,434,1939"/>
+<area shape="rect" id="node37" href="$d6/d6f/classFun4AllHepMCInputManager.html#aaf891596a876957d656c23ea03b39f1a" title="Fun4AllHepMCInputManager\l::fileopen" alt="" coords="224,1963,439,2007"/>
+<area shape="rect" id="node38" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="771,1792,974,1820"/>
+<area shape="rect" id="node39" href="$d2/da1/classPHGeomUtility.html#a84ee9f9eaf686f5c98ddc1af089ae248" title="Verbosity for geometry IO like, TGeoMangers." alt="" coords="224,2031,439,2059"/>
+<area shape="rect" id="node40" href="$d6/dc8/classFun4AllPrdfOutputManager.html#ad566fdc55f40cf311853ae42fa8cba1c" title="Fun4AllPrdfOutputManager\l::InitPrdfManager" alt="" coords="229,2083,433,2127"/>
+<area shape="rect" id="node41" href="$d0/d78/classPHG4Reco.html#a9d8228ce8682c19cd6be2f6b44ec847b" title="PHG4Reco::InitRun" alt="" coords="533,1844,679,1872"/>
+<area shape="rect" id="node42" href="$dd/d1f/classPHRandomSeed.html#a2bde8781fe8b52f6f01d4160139f4f55" title="PHRandomSeed::InitSeed" alt="" coords="235,2151,428,2179"/>
+<area shape="rect" id="node43" href="$d6/deb/PHGeom__DSTInspection_8C.html#a004a4f91a64bef884a2708f11f6094ec" title="PHGeom_DSTInspection" alt="" coords="781,1697,964,1725"/>
+<area shape="rect" id="node44" href="$db/d6c/classHepMCNodeReader.html#aa71e336f1ee6610de412c61a1de37470" title="HepMCNodeReader::process\l_event" alt="" coords="225,2203,438,2247"/>
+<area shape="rect" id="node45" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="243,2271,419,2315"/>
+<area shape="rect" id="node46" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="533,1135,679,1163"/>
+<area shape="rect" id="node47" href="$da/d29/classFun4AllServer.html#af1002b9170308da078c0e14a5ac4b514" title="Fun4AllServer::setRun" alt="" coords="246,1132,417,1160"/>
+<area shape="rect" id="node48" href="$df/d43/classFun4AllDummyInputManager.html#a3863cb07576f56e8e514ae272b322679" title="Fun4AllDummyInputManager\l::setSyncManager" alt="" coords="222,2339,441,2383"/>
+<area shape="rect" id="node49" href="$d2/da1/classPHGeomUtility.html#ab5bab1c037b85be537f586e6972c3973" title="Verbosity for geometry IO like, TGeoMangers." alt="" coords="225,2407,438,2435"/>
+<area shape="rect" id="node50" href="$da/d29/classFun4AllServer.html#ae508c2fa05d45ca09e101a4db9a9807d" title="Fun4AllServer::~Fun4AllServer" alt="" coords="216,2459,447,2487"/>
+<area shape="rect" id="node4" href="$d9/d2f/classG4RawTowerTTree.html#a67df6d7987ce69b6adaeae0ef46f7053" title="Called at the end of all processing." alt="" coords="517,213,695,241"/>
+<area shape="rect" id="node5" href="$db/d3d/classG4ScintillatorTowerTTree.html#a67e8f799dcf0ea59f6a36d9fc1f0b61c" title="Called at the end of all processing." alt="" coords="495,265,717,293"/>
+<area shape="rect" id="node6" href="$de/d31/classG4ScintillatorSlatTTree.html#a3f357637e30f0ccea328a61f59efc2ec" title="Called at the end of all processing." alt="" coords="501,317,711,345"/>
+<area shape="rect" id="node7" href="$d2/d1c/classG4HitTTree.html#a5a339bb6759892af2cfbdf2ef2a47e60" title="Called at the end of all processing." alt="" coords="541,369,671,397"/>
+<area shape="rect" id="node8" href="$dd/d0c/classCaloAna.html#a2dfde85ee58d7d8543b74d0ce426e309" title="end of run method" alt="" coords="550,5,662,33"/>
+<area shape="rect" id="node9" href="$d7/d71/classG4EdepNtuple.html#ac5133792693282fdd1938cfd26c9ce60" title="end of run method" alt="" coords="529,57,683,85"/>
+<area shape="rect" id="node10" href="$d1/ddd/classG4SnglNtuple.html#af0cd6b6ada60b23bba7901cfef6240eb" title="end of run method" alt="" coords="531,109,681,137"/>
+<area shape="rect" id="node11" href="$dc/d81/classG4TowerNtuple.html#ac786a5e17a714c39747294b30b6d799c" title="end of run method" alt="" coords="527,161,685,189"/>
+</map>

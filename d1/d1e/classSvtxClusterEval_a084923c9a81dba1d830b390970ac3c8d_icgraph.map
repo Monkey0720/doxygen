@@ -1,0 +1,6 @@
+<map id="SvtxClusterEval::all_clusters_from" name="SvtxClusterEval::all_clusters_from">
+<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#a9091398a04a3d0bafff1f96be89c84b2" title="SvtxClusterEval::best\l_cluster_from" alt="" coords="205,5,372,49"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="440,56,628,100"/>
+<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="420,124,648,152"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="696,87,872,131"/>
+</map>

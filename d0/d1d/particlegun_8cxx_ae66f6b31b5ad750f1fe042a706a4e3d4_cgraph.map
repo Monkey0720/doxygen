@@ -1,0 +1,40 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d1/df9/deprecated_2smearBeAST_8cxx.html#a0f3992d44c2ac478dc42e55f3fa086a9" title="BuildBeAST" alt="" coords="150,133,250,161"/>
+<area shape="rect" id="node3" href="$d9/dad/ePHENIXDetector_8cpp.html#a16889860da1aaacc4cd6ba3527f7b700" title="BuildEphoenix" alt="" coords="141,241,259,269"/>
+<area shape="rect" id="node9" href="$d1/d9b/smearHandBook_8cxx.html#a5525c20c5e89fd69cbc7f2dd049c5798" title="BuildHandBookDetector" alt="" coords="108,293,292,321"/>
+<area shape="rect" id="node13" href="$d6/dcd/PerfectDetector_8cxx.html#aec1224c06641184c59e35f8be451e2dd" title="BuildPerfectDetector" alt="" coords="119,345,281,373"/>
+<area shape="rect" id="node14" href="$d7/d9e/ZEUSDetector_8cpp.html#a0298bdf94e2a0e328046aaa8bd2f992f" title="BuildZeus" alt="" coords="155,185,245,213"/>
+<area shape="rect" id="node17" href="$db/d5d/test__style_8C.html#a5dcd1d1376a077de14f84bb875207fb2" title="leg" alt="" coords="179,397,221,425"/>
+<area shape="rect" id="node18" href="$d0/d1d/particlegun_8cxx.html#a2b53e063573b72b0d2cb27d89d2b70c9" title="PrintSmearStats" alt="" coords="135,449,265,477"/>
+<area shape="rect" id="node19" href="$d0/d1d/particlegun_8cxx.html#ac7821bf4c6f46efb89009edde18e7b97" title="Process" alt="" coords="164,520,236,548"/>
+<area shape="rect" id="node39" href="$df/d6b/title_8f.html#aa5c036d373cd37c00f0892e713b39988" title="title" alt="" coords="176,572,224,600"/>
+<area shape="rect" id="node4" href="$d2/d7d/classSmear_1_1Detector.html#a24002b3325179692dcf687c9ac6ef4f4" title="Smear::Detector::AddDevice" alt="" coords="351,245,564,273"/>
+<area shape="rect" id="node6" href="$d2/d55/classSmear_1_1Acceptance.html#a77ce79bbc82ad642fc2da89768b1a064" title="Smear::Acceptance::\lAddZone" alt="" coords="377,109,537,153"/>
+<area shape="rect" id="node7" href="$d2/d4a/classEPhenixMomentum.html#a3221f4ff0709ffe46ff64326d8f419d8" title="EPhenixMomentum::etaToTheta" alt="" coords="340,297,575,325"/>
+<area shape="rect" id="node8" href="$d2/d7d/classSmear_1_1Detector.html#a5b428e506b13f0d13c8604f3906339da" title="Smear::Detector::SetEvent\lKinematicsCalculator" alt="" coords="356,177,559,221"/>
+<area shape="rect" id="node5" href="$d1/d9f/classSmear_1_1Smearer.html#ab7f0eb6bd118335376b94d622c2f74f5" title="Smear::Smearer::Clone" alt="" coords="626,213,805,241"/>
+<area shape="rect" id="node10" href="$d2/d55/classSmear_1_1Acceptance.html#a903b3145e29d584e59d8c558edb0afd3" title="Smear::Acceptance::\lSetCharge" alt="" coords="377,349,537,393"/>
+<area shape="rect" id="node11" href="$d2/d55/classSmear_1_1Acceptance.html#a411867b7fb1f954336ce788a4fee977d" title="Smear::Acceptance::\lSetGenre" alt="" coords="377,417,537,461"/>
+<area shape="rect" id="node12" href="$d1/d9b/smearHandBook_8cxx.html#ac8fda9b7ace75b22b8e9fe060604014b" title="ThetaFromEta" alt="" coords="399,485,515,513"/>
+<area shape="rect" id="node15" href="$d6/dcd/PerfectDetector_8cxx.html#a555b9ad4254b08f9e4cca7116670ccd4" title="degreesToRadians" alt="" coords="385,57,529,85"/>
+<area shape="rect" id="node16" href="$dc/da6/eSTARDetector_8cpp.html#a04ddaf3375f5f411da34d8a86eb5403b" title="etaToTheta" alt="" coords="409,5,505,33"/>
+<area shape="rect" id="node20" href="$dd/d7e/namespaceActs_1_1Test.html#a2ece2a4f7e271a41a607a812dafc8962" title="Acts::Test::step" alt="" coords="653,793,778,821"/>
+<area shape="rect" id="node21" href="$d0/d1d/particlegun_8cxx.html#ab8b501892680ac538a9aad2af02d198f" title="This function does smearing itself. by calling detector.Smear(not_smeared_prt);." alt="" coords="400,537,515,565"/>
+<area shape="rect" id="node22" href="$df/dba/classSmear_1_1ParticleMCS.html#a9d34701ba88010cba6333637f1580a12" title="Smear::ParticleMCS\l::Get4Vector" alt="" coords="639,589,792,633"/>
+<area shape="rect" id="node23" href="$df/dba/classSmear_1_1ParticleMCS.html#a66cf73806e3361b3a4ef1c8e57d34db1" title="Smear::ParticleMCS\l::GetE" alt="" coords="639,657,792,701"/>
+<area shape="rect" id="node24" href="$df/dba/classSmear_1_1ParticleMCS.html#aff373c10e5f5783d7ea05767e95ee94e" title="Smear::ParticleMCS\l::GetP" alt="" coords="639,725,792,769"/>
+<area shape="rect" id="node25" href="$de/d3c/classerhic_1_1ParticleMCbase.html#af3dbf2a11907f0057b6cfc1af30e5b75" title="erhic::ParticleMCbase\l::Set4Vector" alt="" coords="632,265,799,309"/>
+<area shape="rect" id="node32" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a7d1f67920283b17e4bf61b35ea513c82" title="erhic::ParticleMCbase\l::SetId" alt="" coords="632,333,799,377"/>
+<area shape="rect" id="node33" href="$de/d3c/classerhic_1_1ParticleMCbase.html#adcaf0731e1be1de4965aa780025ba3e1" title="erhic::ParticleMCbase\l::SetIndex" alt="" coords="632,401,799,445"/>
+<area shape="rect" id="node34" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a623b39b03206ecdd44e8e3f14664c342" title="erhic::ParticleMCbase\l::SetStatus" alt="" coords="632,469,799,513"/>
+<area shape="rect" id="node35" href="$d2/d7d/classSmear_1_1Detector.html#a315bbbcca627dab0cee24379642664d8" title="Smear::Detector::Smear" alt="" coords="623,537,808,565"/>
+<area shape="rect" id="node26" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a2aa0d72eeb2d16912348084513d9c78e" title="erhic::ParticleMCbase\l::ComputeDerivedQuantities" alt="" coords="886,232,1101,276"/>
+<area shape="rect" id="node27" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a125e0b24d1d6b1bcf440f3265d4f60a5" title="erhic::ParticleMCbase\l::ComputeEventDependentQuantities" alt="" coords="856,300,1131,344"/>
+<area shape="rect" id="node28" href="$de/d3c/classerhic_1_1ParticleMCbase.html#a5a2d65df0a991dba4645ec2b8da399e0" title="erhic::ParticleMCbase\l::Get4Vector" alt="" coords="1199,329,1366,373"/>
+<area shape="rect" id="node29" href="$d8/d5c/functions_8h.html#a5f645a6689940a1ad8500ba581abeb1e" title="computeHermesPhiH" alt="" coords="1201,397,1364,425"/>
+<area shape="rect" id="node30" href="$dc/db4/classerhic_1_1EventDis.html#a644d1c348131c2909cbb2bb3c78e9040" title="erhic::EventDis::GetW2" alt="" coords="1193,225,1372,253"/>
+<area shape="rect" id="node31" href="$d6/dfb/classerhic_1_1EventMC.html#a03767ae486e1e024696c1166640fd575" title="erhic::EventMC::GetNTracks" alt="" coords="1179,277,1387,305"/>
+<area shape="rect" id="node36" href="$d2/d7d/classSmear_1_1Detector.html#a0ab66e8cbf78f0d65231e711a3ca4a61" title="Smear::Detector::Accept" alt="" coords="900,512,1087,540"/>
+<area shape="rect" id="node38" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="971,564,1015,592"/>
+<area shape="rect" id="node37" href="$d0/d01/classerhic_1_1VirtualParticle.html#a56e48270fb8bb5e7393e9b320b32359e" title="erhic::VirtualParticle\l::GetStatus" alt="" coords="1204,504,1361,548"/>
+</map>

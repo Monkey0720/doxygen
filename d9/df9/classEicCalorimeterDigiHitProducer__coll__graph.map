@@ -1,0 +1,31 @@
+<map id="EicCalorimeterDigiHitProducer" name="EicCalorimeterDigiHitProducer">
+<area shape="rect" id="node2" href="$de/d93/classEicDigiHitProducer.html" title="Base digitization class." alt="" coords="2110,673,2257,701"/>
+<area shape="rect" id="node3" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="1789,97,1864,125"/>
+<area shape="rect" id="node5" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1352,97,1444,125"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="819,100,926,128"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="436,92,584,136"/>
+<area shape="rect" id="node9" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="1346,932,1450,960"/>
+<area shape="rect" id="node13" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="1766,673,1887,701"/>
+<area shape="rect" id="node10" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="67,1035,143,1063"/>
+<area shape="rect" id="node11" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l double \&gt;" alt="" coords="427,193,593,237"/>
+<area shape="rect" id="node16" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="807,656,939,684"/>
+<area shape="rect" id="node17" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="449,632,571,660"/>
+<area shape="rect" id="node20" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="468,684,552,712"/>
+<area shape="rect" id="node22" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="461,1147,559,1175"/>
+<area shape="rect" id="node25" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="792,888,953,916"/>
+<area shape="rect" id="node27" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="409,1027,611,1071"/>
+<area shape="rect" id="node31" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="427,788,593,832"/>
+<area shape="rect" id="node34" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="427,389,593,433"/>
+<area shape="rect" id="node43" href="$da/d3d/classCalorimeterCell.html" title="CalorimeterCell" alt="" coords="1764,1281,1889,1309"/>
+<area shape="rect" id="node45" href="$db/d0a/classCalorimeterCellParent.html" title="CalorimeterCellParent" alt="" coords="788,1281,957,1309"/>
+<area shape="rect" id="node46" href="$d8/d6c/classCalorimeterCellZCoordBin.html" title="CalorimeterCellZCoordBin" alt="" coords="412,1251,608,1279"/>
+<area shape="rect" id="node48" href="$de/d93/classEnergyDeposit.html" title="EnergyDeposit" alt="" coords="637,1339,759,1367"/>
+<area shape="rect" id="node49" href="$d0/d46/classCalorimeterDigiParData.html" title="CalorimeterDigiParData" alt="" coords="783,1473,963,1501"/>
+<area shape="rect" id="node50" href="$de/d36/classCalorimeterSensorGroup.html" title="CalorimeterSensorGroup" alt="" coords="416,1473,604,1501"/>
+<area shape="rect" id="node14" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="1338,645,1458,673"/>
+<area shape="rect" id="node18" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="454,512,566,540"/>
+<area shape="rect" id="node19" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="449,573,571,601"/>
+<area shape="rect" id="node37" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="827,357,918,385"/>
+<area shape="rect" id="node40" title="STL class." alt="" coords="828,1413,917,1441"/>
+<area shape="rect" id="node41" title="STL class." alt="" coords="439,1405,581,1449"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="FW::BField::writeField" name="FW::BField::writeField">
+<area shape="rect" id="node2" href="$d7/d91/g3Config_8C.html#aa58262e3cde23ab66e49f3acde7bec14" title="Config" alt="" coords="283,109,347,137"/>
+<area shape="rect" id="node7" href="$d9/d66/classFW_1_1RootBFieldWriter.html#a378610f086e73668847d02426f909d64" title="Write down an interpolated magnetic field map." alt="" coords="219,243,412,271"/>
+<area shape="rect" id="node3" href="$dd/dbc/classFairRunSim.html#a5ec15ff0cc249b3a195299b6d3acb2a8" title="FairRunSim::GetGeoModel" alt="" coords="467,5,664,33"/>
+<area shape="rect" id="node4" href="$dd/dbc/classFairRunSim.html#a733dc616669bd5e542b5c05f6470c744" title="FairRunSim::Instance" alt="" coords="484,57,647,85"/>
+<area shape="rect" id="node5" href="$d5/dd2/classPndStack.html#af5a638783c0920ca02d1a6ce97772a3a" title="PndStack::SetMinPoints" alt="" coords="476,109,655,137"/>
+<area shape="rect" id="node6" href="$d5/dd2/classPndStack.html#aced4053f774b41193f74566acdc8d462" title="PndStack::StoreSecondaries" alt="" coords="460,161,671,189"/>
+<area shape="rect" id="node8" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="543,213,587,241"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="488,265,643,309"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#ac6f67f5c5ed3c1e890b77d8dac5e4a38" title="Access to the position components of input parameter." alt="" coords="488,333,643,377"/>
+</map>

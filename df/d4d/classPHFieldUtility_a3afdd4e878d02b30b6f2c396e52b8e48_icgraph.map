@@ -1,0 +1,22 @@
+<map id="PHFieldUtility::GetFieldMapNode" name="PHFieldUtility::GetFieldMapNode">
+<area shape="rect" id="node2" href="$dd/d22/classPHTpcTracker.html#af99a97cd23d71da1b0bfd9c9dc1bb578" title="PHTpcTracker::getMagField" alt="" coords="227,117,429,145"/>
+<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#a66fc50f0871fbaf83b21edfa8ae98259" title="PHG4Reco::InitField" alt="" coords="251,169,405,197"/>
+<area shape="rect" id="node16" href="$d0/d22/classPHGenFitTrkProp.html#afd241a99a51303034f264a659ade7c16" title="track propagation" alt="" coords="229,221,427,265"/>
+<area shape="rect" id="node18" href="$db/dc4/classPHGenFitTrackProjection.html#ae2e85a8af68c6564ef33a4b85ecc17bd" title="PHGenFitTrackProjection\l::InitRun" alt="" coords="236,289,420,333"/>
+<area shape="rect" id="node19" href="$d5/daa/classPHRaveVertexing.html#a4b74b109c0056a629fedf577a71dfbeb" title="Initialization Run, called for initialization of a run." alt="" coords="231,357,425,385"/>
+<area shape="rect" id="node20" href="$d9/d91/classPHG4TrackFastSim.html#a17dc5842cbcfb29af50a12af173c82c8" title="Initialization Run, called for initialization of a run." alt="" coords="227,409,429,437"/>
+<area shape="rect" id="node21" href="$de/d25/classPHGenFitTrkFitter.html#a536b356cbf3e4a2dacccd5e0f630f8fe" title="Initialization Run, called for initialization of a run." alt="" coords="255,461,401,505"/>
+<area shape="rect" id="node3" href="$dd/d22/classPHTpcTracker.html#aa579cb8953a6aa2d57a99dc2c2e91df7" title="PHTpcTracker::Process" alt="" coords="481,117,653,145"/>
+<area shape="rect" id="node5" href="$d0/d78/classPHG4Reco.html#a9d8228ce8682c19cd6be2f6b44ec847b" title="PHG4Reco::InitRun" alt="" coords="494,169,641,197"/>
+<area shape="rect" id="node6" href="$d5/d57/fun4all__eic__tutorials_2blob_2master_2MagneticField_2DisplayOn_8C.html#a36f5cc4ebb7cd23dac7e492d5c38fbc0" title="QTGui" alt="" coords="775,57,838,85"/>
+<area shape="rect" id="node7" href="$d5/d57/fun4all__eic__tutorials_2blob_2master_2MagneticField_2DisplayOn_8C.html#a8ac4d6fb78f920957b354f88d6195f54" title="DisplayOn" alt="" coords="761,109,852,137"/>
+<area shape="rect" id="node13" href="$d5/df2/Fun4All__EIC__Generator__Display_8C.html#a276181099936efe81415286b29f36e51" title="Fun4All_EIC_Generator\l_Display" alt="" coords="719,161,895,205"/>
+<area shape="rect" id="node14" href="$d4/dfa/Fun4All__Generator__Display_8C.html#af87924a94b22e18901f0d64805565f09" title="Fun4All_Generator_Display" alt="" coords="705,229,908,257"/>
+<area shape="rect" id="node15" href="$d9/d1d/matscan_8C.html#a98ccbc6135fead542f3c4d1dd6882d63" title="matscan" alt="" coords="767,281,846,309"/>
+<area shape="rect" id="node8" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="972,5,1125,33"/>
+<area shape="rect" id="node9" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="956,57,1141,85"/>
+<area shape="rect" id="node10" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="966,109,1131,137"/>
+<area shape="rect" id="node11" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a66e8fc0b01ee0a8e805c7b99c4698974" title="Fun4All_G4_JLeic" alt="" coords="981,161,1116,189"/>
+<area shape="rect" id="node12" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="968,213,1129,241"/>
+<area shape="rect" id="node17" href="$d0/d22/classPHGenFitTrkProp.html#a42d0f2ddae533d29e577380295a737d3" title="PHGenFitTrkProp::Setup" alt="" coords="477,229,657,257"/>
+</map>

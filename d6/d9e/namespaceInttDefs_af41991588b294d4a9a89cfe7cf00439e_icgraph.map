@@ -1,0 +1,51 @@
+<map id="InttDefs::genHitSetKey" name="InttDefs::genHitSetKey">
+<area shape="rect" id="node2" href="$d6/d9e/namespaceInttDefs.html#ac29c04abf033fc44815ffb9db43aeea5" title="Generate a cluster key from indeces." alt="" coords="518,37,681,65"/>
+<area shape="rect" id="node5" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="513,127,685,155"/>
+<area shape="rect" id="node8" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="517,247,682,275"/>
+<area shape="rect" id="node10" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="243,1020,419,1048"/>
+<area shape="rect" id="node32" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="243,1072,420,1100"/>
+<area shape="rect" id="node33" href="$d6/d3f/namespaceTrkrDefs.html#adc0b8a9c794036b9adb3ff5567636f02" title="TrkrDefs::getHitSetKeyHi" alt="" coords="237,517,425,545"/>
+<area shape="rect" id="node42" href="$d6/d3f/namespaceTrkrDefs.html#a201667d02154da2cdaa4780616ea0c32" title="Get a valid low / hi range for hitsetkey given tracker id &amp; layer." alt="" coords="236,884,427,912"/>
+<area shape="rect" id="node43" href="$da/db1/classMakeActsGeometry.html#af74b4bf4b1279e8a92921bfe162a16c3" title="MakeActsGeometry::getIntt\lHitSetKeyFromCoords" alt="" coords="228,1176,435,1220"/>
+<area shape="rect" id="node46" href="$da/db1/classMakeActsGeometry.html#aaa76791eb3537091abf15be6d1eb58dc" title="Get hitsetkey from TGeoNode for each detector geometry." alt="" coords="228,1244,435,1288"/>
+<area shape="rect" id="node49" href="$d7/df2/classPHActsSourceLinks.html#affc397de4d62bdc3dfe9e6e248805dff" title="Same as above, except for INTT." alt="" coords="521,1371,678,1415"/>
+<area shape="rect" id="node50" href="$dd/deb/classPHG4InttHitReco.html#aeae720fd9e71be360c52c2e58bea5bb5" title="event processing" alt="" coords="234,1312,429,1356"/>
+<area shape="rect" id="node3" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="810,9,983,53"/>
+<area shape="rect" id="node4" href="$d5/d86/classInttClusterizer.html#abd6df1fa3454cf1d42afb35c6d6a0073" title="event processing" alt="" coords="1103,5,1280,49"/>
+<area shape="rect" id="node6" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="789,77,1005,105"/>
+<area shape="rect" id="node7" href="$dc/d12/classMvtxClusterizer.html#a2b88d21ed3595b07eb7f807003ec2843" title="event processing" alt="" coords="1098,73,1285,117"/>
+<area shape="rect" id="node9" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="807,129,987,173"/>
+<area shape="rect" id="node11" href="$d0/d2c/classTrkrClusterContainer.html#a1d8049a1a46c600e4baf190a58745029" title="return all Clusters matching a given detid" alt="" coords="518,1231,681,1275"/>
+<area shape="rect" id="node12" href="$d1/d1e/classSvtxClusterEval.html#a084923c9a81dba1d830b390970ac3c8d" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="821,1067,973,1111"/>
+<area shape="rect" id="node14" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1353,1068,1541,1112"/>
+<area shape="rect" id="node15" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="1077,743,1305,771"/>
+<area shape="rect" id="node16" href="$d0/d22/classPHGenFitTrkProp.html#a67bd83fe6ec05c737ab96b4486df2ecc" title="KalmanTrkProp Call." alt="" coords="790,1751,1003,1795"/>
+<area shape="rect" id="node17" href="$d9/dc0/namespacePHTpcTrackerUtil.html#a3200481d488cc772381f85bdeec0dd93" title="PHTpcTrackerUtil::convert\l_clusters_to_hits" alt="" coords="799,1819,995,1863"/>
+<area shape="rect" id="node18" href="$da/d30/classQAG4SimulationIntt.html#ac83764bf62e096e9bea2d4ebbce6ac6c" title="evaluate clusters" alt="" coords="819,795,975,839"/>
+<area shape="rect" id="node19" href="$d4/d7b/classQAG4SimulationMvtx.html#a38de1d710b7e38e7aeab1c9c2c70b773" title="evaluate clusters" alt="" coords="814,863,979,907"/>
+<area shape="rect" id="node20" href="$d1/d3d/classPHTpcEventExporter.html#ad5d73d9130e632c7c02d2135ff5a5d91" title="PHTpcEventExporter\l::exportEvent" alt="" coords="816,931,977,975"/>
+<area shape="rect" id="node21" href="$d1/d1e/classSvtxClusterEval.html#af0a998145d502066478250d80691f4d5" title="SvtxClusterEval::fill\l_cluster_layer_map" alt="" coords="820,999,973,1043"/>
+<area shape="rect" id="node22" href="$da/df1/classPHRTreeSeeding.html#a302c432e1ce3a4ba3fd7a709b6039eea" title="PHRTreeSeeding::FillTree" alt="" coords="803,1135,990,1163"/>
+<area shape="rect" id="node23" href="$d1/d08/classPHCASeeding.html#ad6b8c71cbacac88f6ac48ecf89a5ebbd" title="PHCASeeding::FillTree" alt="" coords="813,1187,981,1215"/>
+<area shape="rect" id="node24" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="789,1239,1005,1267"/>
+<area shape="rect" id="node25" href="$d5/da2/classPHTruthTrackSeeding.html#ab0ab67b0de3435bad2eeba92a482753c" title="PHTruthTrackSeeding\l::Process" alt="" coords="815,1291,979,1335"/>
+<area shape="rect" id="node26" href="$de/dbf/classQAG4SimulationTracking.html#ac2aeab5238fcf828f70c61b4976b57fe" title="QAG4SimulationTracking\l::process_event" alt="" coords="803,1359,991,1403"/>
+<area shape="rect" id="node27" href="$d7/df2/classPHActsSourceLinks.html#a6f9bd92adb0405e9b210bc1cd199f9dc" title="PHActsSourceLinks::\lprocess_event" alt="" coords="818,1887,975,1931"/>
+<area shape="rect" id="node28" href="$dd/d60/classDumpTrkrClusterContainer.html#a2d4908a1a9a430bfb4921f0768568f27" title="DumpTrkrClusterContainer\l::process_Node" alt="" coords="796,1427,997,1471"/>
+<area shape="rect" id="node29" href="$d2/d8f/classPHInitZVertexing.html#aefdd3d35e9f530093d9dc58a457b1e79" title="PHInitZVertexing::translate\l_input" alt="" coords="795,1495,999,1539"/>
+<area shape="rect" id="node30" href="$d1/d97/classPHPatternReco.html#aceb09e501b427d8fbce29e7790bd19d4" title="PHPatternReco::translate\l_input" alt="" coords="802,1563,991,1607"/>
+<area shape="rect" id="node31" href="$d8/dd4/classPHHoughSeeding.html#a4204cf7d0291bbdbfd0d299e8435512e" title="fetch node pointers" alt="" coords="793,1631,1001,1675"/>
+<area shape="rect" id="node13" href="$d1/d1e/classSvtxClusterEval.html#a9091398a04a3d0bafff1f96be89c84b2" title="SvtxClusterEval::best\l_cluster_from" alt="" coords="1108,1097,1275,1141"/>
+<area shape="rect" id="node34" href="$d5/d76/classTrkrHitSetContainer.html#af493cd474fbf1c12133cc08883a3ad84" title="return all HitSets matching a given detid" alt="" coords="521,425,677,469"/>
+<area shape="rect" id="node35" href="$d9/d62/classSvtxHitEval.html#a6fc7bdf499c6fb305869e48b81150069" title="SvtxHitEval::all_hits_from" alt="" coords="1095,479,1288,507"/>
+<area shape="rect" id="node36" href="$d9/d62/classSvtxHitEval.html#aecddd0a706e859726fa9147eba09afe5" title="SvtxHitEval::all_truth_hits" alt="" coords="799,504,994,532"/>
+<area shape="rect" id="node37" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="797,556,996,600"/>
+<area shape="rect" id="node38" href="$dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a" title="PHG4InttDigitizer::\lDigitizeLadderCells" alt="" coords="821,624,973,668"/>
+<area shape="rect" id="node39" href="$d5/d21/classPHG4MvtxDigitizer.html#a0d6851617a0a95e6cfab450d5e8534b2" title="PHG4MvtxDigitizer::\lDigitizeMvtxLadderCells" alt="" coords="805,197,989,241"/>
+<area shape="rect" id="node40" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="813,265,981,309"/>
+<area shape="rect" id="node41" href="$da/d35/classDumpTrkrHitSetContainer.html#ae41c8e5d93695049077e3fd2b5a0cb60" title="DumpTrkrHitSetContainer\l::process_Node" alt="" coords="799,333,994,377"/>
+<area shape="rect" id="node44" href="$da/db1/classMakeActsGeometry.html#a1a27c0b3d2775dc4b48913ab77a8927a" title="MakeActsGeometry::makeIntt\lMapPairs" alt="" coords="489,1581,710,1625"/>
+<area shape="rect" id="node45" href="$da/db1/classMakeActsGeometry.html#aad73a55543beffeb8ef3f2cb8d893934" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="764,1955,1029,1983"/>
+<area shape="rect" id="node47" href="$da/db1/classMakeActsGeometry.html#a4fd2c0ddf3ddceb36ae2418a310adc63" title="Makes map of TrkrHitSetKey&lt;–&gt;TGeoNode." alt="" coords="483,1935,716,1979"/>
+<area shape="rect" id="node48" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="791,2007,1002,2051"/>
+</map>

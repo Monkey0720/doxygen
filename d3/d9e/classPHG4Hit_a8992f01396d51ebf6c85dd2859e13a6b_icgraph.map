@@ -1,0 +1,12 @@
+<map id="PHG4Hit::get_layer" name="PHG4Hit::get_layer">
+<area shape="rect" id="node2" href="$d9/d62/classSvtxHitEval.html#a3ec6d11b3a8f5bb01816cad5f0ae4756" title="SvtxHitEval::all_hits_from" alt="" coords="213,5,406,33"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="483,93,671,137"/>
+<area shape="rect" id="node5" href="$d4/d30/classPHG4HitContainer.html#a8d14a2d99f5acb20d89828cb23c41ac0" title="PHG4HitContainer::findOr\lAddHit" alt="" coords="212,177,407,221"/>
+<area shape="rect" id="node8" href="$d6/d11/classSvtxEvaluator.html#ad721402a78da571aef6cefac442d0fdf" title="SvtxEvaluator::LayerCluster\lG4Hits" alt="" coords="204,109,415,153"/>
+<area shape="rect" id="node9" href="$d5/dc4/PHG4Hit_8cc.html#afbcbcb188457ac445ab8006d1f886cca" title="operator\&lt;\&lt;" alt="" coords="259,245,360,273"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="463,297,691,325"/>
+<area shape="rect" id="node11" href="$d8/dc7/classMomentumEvaluator.html#a19c5f2c6d74578feea3513322e9f1fe3" title="MomentumEvaluator::\lprocess_event" alt="" coords="224,349,395,393"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="739,192,915,236"/>
+<area shape="rect" id="node6" href="$df/d1b/classPHG4FCalSteppingAction.html#a50bdb3c0092cb374a9f9ce0e13ff0afa" title="PHG4FCalSteppingAction\l::UserSteppingAction" alt="" coords="481,161,672,205"/>
+<area shape="rect" id="node7" href="$d0/ded/classPHG4FPbScSteppingAction.html#a98d2f21e9a364a81d036dc6c34293906" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="476,229,677,273"/>
+</map>

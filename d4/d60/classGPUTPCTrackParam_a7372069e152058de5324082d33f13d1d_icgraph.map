@@ -1,0 +1,6 @@
+<map id="GPUTPCTrackParam::SetSinPhi" name="GPUTPCTrackParam::SetSinPhi">
+<area shape="rect" id="node2" href="$d1/d08/classPHCASeeding.html#af376b7d45ef271961bb0a2fc4a24631a" title="PHCASeeding::FindSeedsLayerSkip" alt="" coords="553,24,811,52"/>
+<area shape="rect" id="node4" href="$d4/d60/classGPUTPCTrackParam.html#ab8f13d83726bd39db53e7b3903431d7a" title="GPUTPCTrackParam::InitParam" alt="" coords="279,24,505,52"/>
+<area shape="rect" id="node5" href="$d4/d60/classGPUTPCTrackParam.html#a0d666c500468a047e85d17a1993b7a59" title="GPUTPCTrackParam::Rotate" alt="" coords="289,76,495,104"/>
+<area shape="rect" id="node3" href="$d1/d08/classPHCASeeding.html#aaa4eca2abbf1065bb9b48de9cb683494" title="PHCASeeding::Process" alt="" coords="859,24,1032,52"/>
+</map>

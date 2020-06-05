@@ -1,0 +1,13 @@
+<map id="PHG4Subsystem::OverlapCheck" name="PHG4Subsystem::OverlapCheck">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="521,56,635,84"/>
+<area shape="rect" id="node4" href="$d8/d50/G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="531,108,625,136"/>
+<area shape="rect" id="node5" href="$d1/d38/G4__EEMC_8C.html#a4d3281225ec2eab91dac27095f61eaa3" title="EEMCSetup" alt="" coords="333,160,431,188"/>
+<area shape="rect" id="node6" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="529,212,627,240"/>
+<area shape="rect" id="node7" href="$d8/dc2/G4__FHCAL_8C.html#ac9e5dc66d440deeaa29ff8e40e58c532" title="FHCALSetup" alt="" coords="329,316,435,344"/>
+<area shape="rect" id="node8" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="308,264,456,292"/>
+<area shape="rect" id="node10" href="$de/d55/G4__GEM__EIC_8C.html#a5c9797b8007dda401ba2b3949d5647eb" title="make_LANL_FST_station" alt="" coords="291,368,473,396"/>
+<area shape="rect" id="node12" href="$df/d24/G4__RICH_8C.html#ad63ce85a564451f75078970a1511d8aa" title="RICHSetup" alt="" coords="335,5,429,33"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="683,160,763,188"/>
+<area shape="rect" id="node9" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="528,264,628,292"/>
+<area shape="rect" id="node11" href="$de/d55/G4__GEM__EIC_8C.html#a7be3dff0a6b7e1a41e670fcb9341b22b" title="FGEMSetup" alt="" coords="529,368,627,396"/>
+</map>

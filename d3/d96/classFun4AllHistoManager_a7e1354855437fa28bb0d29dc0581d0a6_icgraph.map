@@ -1,0 +1,31 @@
+<map id="Fun4AllHistoManager::registerHisto" name="Fun4AllHistoManager::registerHisto">
+<area shape="rect" id="node2" href="$dd/d0c/classAnalyzeSimpleTree.html#ac098049f34e7990e833bbd2ca51d5b82" title="AnalyzeSimpleTree::Init" alt="" coords="234,5,415,33"/>
+<area shape="rect" id="node3" href="$de/d31/classG4ScintillatorSlatTTree.html#afee89755a4eede0d37468842b1cbdedb" title="full initialization" alt="" coords="237,57,412,101"/>
+<area shape="rect" id="node4" href="$db/d3d/classG4ScintillatorTowerTTree.html#af6a917946b779d66de0bafeb6687dd5a" title="full initialization" alt="" coords="231,125,419,169"/>
+<area shape="rect" id="node5" href="$d9/d2f/classG4RawTowerTTree.html#a5fea2e45168742d41020c601f3cd329d" title="full initialization" alt="" coords="237,193,412,221"/>
+<area shape="rect" id="node6" href="$d2/d1c/classG4HitTTree.html#a8c5177113d5be069085fd62add8d03f4" title="full initialization" alt="" coords="261,245,388,273"/>
+<area shape="rect" id="node7" href="$da/d7d/classQAG4SimulationUpsilon.html#a83e9f8e695a72f12c7ccd02326366d4f" title="QAG4SimulationUpsilon\l::Init" alt="" coords="233,297,416,341"/>
+<area shape="rect" id="node8" href="$de/dbf/classQAG4SimulationTracking.html#abb68212e5ecaf6824756c6a3bf378123" title="QAG4SimulationTracking\l::Init" alt="" coords="231,365,419,409"/>
+<area shape="rect" id="node9" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a276946dc4f116dd16c91722d1693b48d" title="QAG4SimulationCalorimeter\l::Init" alt="" coords="479,557,691,601"/>
+<area shape="rect" id="node10" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a756cd27c08e1b44f20dc2636dd5e32dc" title="QAG4SimulationCalorimeter\lSum::Init" alt="" coords="479,809,691,853"/>
+<area shape="rect" id="node11" href="$d0/da9/classAnaTutorial.html#a9bcd0da66c8960b55adabb5d0b551cb2" title="SubsysReco initialize processing method." alt="" coords="259,569,390,597"/>
+<area shape="rect" id="node12" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a137502eb30fedbc21f0e4dece4284863" title="QAG4SimulationCalorimeter\l::Init_Cluster" alt="" coords="219,673,431,717"/>
+<area shape="rect" id="node13" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a312b0f09812dae841f6a9b2e66c54f48" title="QAG4SimulationCalorimeter\lSum::Init_Cluster" alt="" coords="219,809,431,853"/>
+<area shape="rect" id="node14" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a0d1bac5b22df6a22addd81a9684b46a8" title="QAG4SimulationCalorimeter\l::Init_G4Hit" alt="" coords="219,433,431,477"/>
+<area shape="rect" id="node15" href="$d4/d28/classQAG4SimulationJet.html#a71d3afa61febd84616aa9a46f544bdf4" title="QAG4SimulationJet::\lInit_Spectrum" alt="" coords="246,929,403,973"/>
+<area shape="rect" id="node17" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a2334a9feb6a9cdfda4d7c68fd518fb31" title="QAG4SimulationCalorimeter\l::Init_Tower" alt="" coords="219,501,431,545"/>
+<area shape="rect" id="node18" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#ae7f0ccf5da58f2aef7fbae3d115461d5" title="QAG4SimulationCalorimeter\lSum::Init_TrackProj" alt="" coords="219,741,431,785"/>
+<area shape="rect" id="node19" href="$d4/d28/classQAG4SimulationJet.html#a044fc90f5333dabb5588ea6561ceb893" title="QAG4SimulationJet::\lInit_TruthMatching" alt="" coords="246,997,403,1041"/>
+<area shape="rect" id="node20" href="$dc/d86/classTPCIntegratedCharge.html#aa4c12a22e24867e0ba367ee8f6080d55" title="TPCIntegratedCharge\l::InitRun" alt="" coords="241,1065,408,1109"/>
+<area shape="rect" id="node21" href="$da/d27/classTPCDataStreamEmulator.html#ade4f404598ff39b4794df888e9595381" title="TPCDataStreamEmulator\l::InitRun" alt="" coords="229,1133,420,1177"/>
+<area shape="rect" id="node22" href="$dc/dd7/classPHG4ScoringManager.html#a33b23900a69f349f588254381ae35791" title="full initialization" alt="" coords="240,1201,409,1245"/>
+<area shape="rect" id="node23" href="$d5/dee/classTPCFEETestRecov1.html#a11885f91c191e73b2048d0957dadd881" title="TPCFEETestRecov1::InitRun" alt="" coords="222,1269,427,1297"/>
+<area shape="rect" id="node24" href="$da/daf/classJetHepMCLoader.html#afb7b41b5926ecc2871e47f3e8059f72a" title="JetHepMCLoader::InitRun" alt="" coords="230,1321,419,1349"/>
+<area shape="rect" id="node25" href="$d3/d96/classFun4AllHistoManager.html#ad13a9bc82841ea99d349f7b9b5f93177" title="Fun4AllHistoManager\l::makeHisto" alt="" coords="242,1373,407,1417"/>
+<area shape="rect" id="node27" href="$dc/dd7/classPHG4ScoringManager.html#a39091d7b61e10293db093fd15055c459" title="based on G4VScoreWriter::DumpAllQuantitiesToFile()" alt="" coords="227,1441,423,1485"/>
+<area shape="rect" id="node29" href="$d3/d96/classFun4AllHistoManager.html#a9af9dcb3bbd224b1581988bca1244a63" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="242,1509,407,1553"/>
+<area shape="rect" id="node30" href="$da/d29/classFun4AllServer.html#aefb265a71e11287ea38dea3a0f0b9b4f" title="Fun4AllServer::registerHisto" alt="" coords="219,1577,430,1605"/>
+<area shape="rect" id="node16" href="$d4/d28/classQAG4SimulationJet.html#a7738b8c330b20835aa469fdd59c108f8" title="QAG4SimulationJet::Init" alt="" coords="494,972,675,1000"/>
+<area shape="rect" id="node26" href="$da/d29/classFun4AllServer.html#a248740a0e8d771bcabbe44cc08a5a1b6" title="Fun4AllServer::makeHisto" alt="" coords="487,1381,683,1409"/>
+<area shape="rect" id="node28" href="$dc/dd7/classPHG4ScoringManager.html#a47778438ef12d5d1ac27351f701cd6ba" title="end of run method" alt="" coords="483,1449,686,1477"/>
+</map>

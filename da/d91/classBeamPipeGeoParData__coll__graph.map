@@ -1,0 +1,23 @@
+<map id="BeamPipeGeoParData" name="BeamPipeGeoParData">
+<area shape="rect" id="node2" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="2539,713,2660,741"/>
+<area shape="rect" id="node3" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="53,630,129,658"/>
+<area shape="rect" id="node6" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="1543,465,1675,493"/>
+<area shape="rect" id="node7" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="572,453,695,481"/>
+<area shape="rect" id="node10" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="995,524,1079,552"/>
+<area shape="rect" id="node12" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="1560,597,1657,625"/>
+<area shape="rect" id="node14" href="$d1/d24/classGeantVolumeLevel.html" title="GeantVolumeLevel" alt="" coords="771,657,919,685"/>
+<area shape="rect" id="node15" href="$dd/d20/classEicBitMask.html" title="EicBitMask\&lt; UGeantIndex_t \&gt;" alt="" coords="321,665,545,693"/>
+<area shape="rect" id="node17" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="1528,734,1689,762"/>
+<area shape="rect" id="node19" href="$de/d4a/classLogicalVolumeGroupProjection.html" title="LogicalVolumeGroupProjection" alt="" coords="731,777,958,805"/>
+<area shape="rect" id="node20" href="$dd/d20/classEicBitMask.html" title="EicBitMask\&lt; ULogicalIndex_t \&gt;" alt="" coords="317,820,548,848"/>
+<area shape="rect" id="node21" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="1105,838,1307,882"/>
+<area shape="rect" id="node25" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="1367,910,1471,938"/>
+<area shape="rect" id="node26" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="349,993,516,1037"/>
+<area shape="rect" id="node29" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="349,1149,516,1193"/>
+<area shape="rect" id="node35" href="$d1/d64/classBeamPipeElement.html" title="BeamPipeElement" alt="" coords="1133,126,1279,154"/>
+<area shape="rect" id="node37" href="$da/da1/classBeamPipeSection.html" title="BeamPipeSection" alt="" coords="363,136,502,164"/>
+<area shape="rect" id="node4" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="2067,381,2187,409"/>
+<area shape="rect" id="node8" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="1150,290,1262,318"/>
+<area shape="rect" id="node9" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="1145,348,1267,376"/>
+<area shape="rect" id="node32" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="1563,1053,1654,1081"/>
+</map>

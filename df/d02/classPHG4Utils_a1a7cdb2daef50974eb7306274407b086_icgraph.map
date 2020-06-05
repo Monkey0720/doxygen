@@ -1,0 +1,12 @@
+<map id="PHG4Utils::SetColour" name="PHG4Utils::SetColour">
+<area shape="rect" id="node2" href="$d7/dae/classPHG4BlockDisplayAction.html#a76cdc674ecedf5e04a13c5945c144eb3" title="ApplyDisplayAction method." alt="" coords="247,5,433,49"/>
+<area shape="rect" id="node3" href="$d0/d7b/classPHG4CylinderDisplayAction.html#aaf61cc4467460a084979ca2cdc255cad" title="ApplyDisplayAction method." alt="" coords="237,73,443,117"/>
+<area shape="rect" id="node4" href="$d4/d05/classPHG4MvtxDisplayAction.html#aa9c8abd8b3535b9095176557b2a5d3d5" title="ApplyDisplayAction method." alt="" coords="249,141,431,185"/>
+<area shape="rect" id="node5" href="$d0/dc2/classG4Example03DisplayAction.html#af3e3a30e2edb26682be4e4ee7c812828" title="ApplyDisplayAction method." alt="" coords="236,209,444,253"/>
+<area shape="rect" id="node6" href="$d6/d84/classPHG4SectorDisplayAction.html#a42533708f9f63ab8fdf2eea213f0acdd" title="ApplyDisplayAction method." alt="" coords="243,277,437,321"/>
+<area shape="rect" id="node7" href="$d4/d9b/classPHG4SpacalDisplayAction.html#a63d59ec0d977e5e7909b1d7958dd2ed2" title="ApplyDisplayAction method." alt="" coords="242,345,438,389"/>
+<area shape="rect" id="node8" href="$de/ddc/classPHG4BeamlineMagnetDetector.html#a470a5ca8098fe9f8f0bfad6a84e9accb" title="construct" alt="" coords="224,413,456,457"/>
+<area shape="rect" id="node9" href="$de/d1f/classPHG4HcalDetector.html#a371787b994b12df908d56b9804c3af92" title="construct" alt="" coords="220,481,460,509"/>
+<area shape="rect" id="node10" href="$d6/d41/classPHG4ConeDetector.html#a412ef104ac98b1f41ccf1d273b3d7118" title="construct" alt="" coords="217,533,463,561"/>
+<area shape="rect" id="node11" href="$df/d0d/classPHG4GDMLDetector.html#a27c12c35ba1162847852500362c36697" title="PHG4GDMLDetector::SetDisplay\lProperty" alt="" coords="221,585,459,629"/>
+</map>

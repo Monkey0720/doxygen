@@ -1,0 +1,6 @@
+<map id="EicGeoMap::GetInnermostVolumeName" name="EicGeoMap::GetInnermostVolumeName">
+<area shape="rect" id="node2" href="$dd/dac/classEicDetector.html#a52d5d3a030ed4ab74e36989b4a563f73" title="EicDetector::ConstructGeometry" alt="" coords="341,5,581,33"/>
+<area shape="rect" id="node3" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a69502d8d811b7f7fa6189488dda1df73" title="EicCalorimeterDigiHitProducer\l::ExtraInit" alt="" coords="348,57,575,101"/>
+<area shape="rect" id="node4" href="$dd/df6/classEicCalorimeterDigiHitProducer.html#a3205db24ed212337be8ef032e76c392c" title="EicCalorimeterDigiHitProducer\l::HandleHit" alt="" coords="348,125,575,169"/>
+<area shape="rect" id="node5" href="$de/d93/classEicDigiHitProducer.html#a09862b32b794944e02723bdce363a565" title="EicDigiHitProducer\l::Init" alt="" coords="388,193,535,237"/>
+</map>

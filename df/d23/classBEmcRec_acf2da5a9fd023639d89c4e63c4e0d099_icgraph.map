@@ -1,0 +1,8 @@
+<map id="BEmcRec::CorrectShowerDepth" name="BEmcRec::CorrectShowerDepth">
+<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#ac115997c94dd0b83b134d54b052d9031" title="BEmcRec::Tower2Global" alt="" coords="285,84,469,112"/>
+<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a0b58e2ffe50ef779a1a1077b2f440087" title="Returns the EmcCluster position in PHENIX global coord system." alt="" coords="535,5,732,33"/>
+<area shape="rect" id="node5" href="$d5/d08/classBEmcRecEEMC.html#a306a1a2ab736c1587d11999451c77b0c" title="BEmcRecEEMC::CorrectPosition" alt="" coords="517,57,749,85"/>
+<area shape="rect" id="node6" href="$d1/d5c/classBEmcRecFEMC.html#afb09757c359623c9f31d66b62e6a76a1" title="BEmcRecFEMC::CorrectECore" alt="" coords="524,109,743,137"/>
+<area shape="rect" id="node7" href="$d1/d5c/classBEmcRecFEMC.html#aba40d8068dddfe414a615d2123320e10" title="BEmcRecFEMC::CorrectPosition" alt="" coords="518,161,749,189"/>
+<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#a73b89990f83b7dff6006bdca5213cf7d" title="EmcCluster::GetProb" alt="" coords="797,5,959,33"/>
+</map>

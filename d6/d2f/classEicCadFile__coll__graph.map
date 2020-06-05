@@ -1,0 +1,34 @@
+<map id="EicCadFile" name="EicCadFile">
+<area shape="rect" id="node2" href="$db/d44/classEicDummyDetector.html" title="Convenient default inactive detector of qDUMMY type." alt="" coords="2704,1065,2857,1093"/>
+<area shape="rect" id="node3" href="$dd/dac/classEicDetector.html" title="EIC detector." alt="" coords="2426,941,2526,969"/>
+<area shape="rect" id="node20" href="$dc/d39/classEicContFact.html" title="FairRoot&#45;style EIC container factory, whatever it is good for." alt="" coords="2731,987,2831,1015"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFairDetector.html" title="FairDetector" alt="" coords="2162,1470,2266,1498"/>
+<area shape="rect" id="node5" href="$d4/d06/classFairModule.html" title="FairModule" alt="" coords="1740,1470,1835,1498"/>
+<area shape="rect" id="node21" href="$df/db3/classFairContFact.html" title="FairContFact" alt="" coords="1735,1735,1840,1763"/>
+<area shape="rect" id="node25" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="1727,1233,1847,1261"/>
+<area shape="rect" id="node28" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="828,1399,940,1427"/>
+<area shape="rect" id="node29" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="823,1235,945,1263"/>
+<area shape="rect" id="node7" href="$d5/df0/classFairVolumeList.html" title="FairVolumeList" alt="" coords="1009,1199,1129,1227"/>
+<area shape="rect" id="node8" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="456,709,532,737"/>
+<area shape="rect" id="node17" href="$d3/d5a/classEicEnergyMonitor.html" title="EicEnergyMonitor" alt="" coords="814,967,954,995"/>
+<area shape="rect" id="node19" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="1735,327,1839,355"/>
+<area shape="rect" id="node22" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l unsigned \&gt;" alt="" coords="801,47,967,91"/>
+<area shape="rect" id="node24" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="2153,538,2275,566"/>
+<area shape="rect" id="node26" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="1187,891,1319,919"/>
+<area shape="rect" id="node27" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="823,743,945,771"/>
+<area shape="rect" id="node30" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="842,915,926,943"/>
+<area shape="rect" id="node32" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="1021,529,1118,557"/>
+<area shape="rect" id="node34" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="1172,609,1333,637"/>
+<area shape="rect" id="node35" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="783,623,985,667"/>
+<area shape="rect" id="node39" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="801,269,967,313"/>
+<area shape="rect" id="node42" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="801,153,967,197"/>
+<area shape="rect" id="node47" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l SteppingType \&gt;" alt="" coords="801,847,967,891"/>
+<area shape="rect" id="node49" href="$d0/df4/classEicCadFileConfig.html" title="EicCadFileConfig" alt="" coords="2409,1169,2543,1197"/>
+<area shape="rect" id="node50" href="$de/dd6/classEicMediaHub.html" title="EicMediaHub" alt="" coords="2159,1223,2269,1251"/>
+<area shape="rect" id="node10" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1207,1683,1299,1711"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="831,1711,937,1739"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="420,1789,568,1833"/>
+<area shape="rect" id="node13" title="STL class." alt="" coords="164,1797,337,1825"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="5,1797,115,1825"/>
+<area shape="rect" id="node45" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="1207,483,1298,511"/>
+</map>

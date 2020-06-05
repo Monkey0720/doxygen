@@ -1,0 +1,6 @@
+<map id="MakeActsGeometry::makeTpcMapPairs" name="MakeActsGeometry::makeTpcMapPairs">
+<area shape="rect" id="node2" href="$da/db1/classMakeActsGeometry.html#aad73a55543beffeb8ef3f2cb8d893934" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="275,13,540,41"/>
+<area shape="rect" id="node3" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="588,5,811,49"/>
+<area shape="rect" id="node4" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="859,5,1069,49"/>
+<area shape="rect" id="node5" href="$d7/df2/classPHActsSourceLinks.html#a8d10b5904edcf4c6a90411e0f259e663" title="PHActsSourceLinks::\lInitRun" alt="" coords="1117,5,1275,49"/>
+</map>

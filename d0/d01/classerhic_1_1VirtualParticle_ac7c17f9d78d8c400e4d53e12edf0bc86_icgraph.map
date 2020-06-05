@@ -1,0 +1,16 @@
+<map id="erhic::VirtualParticle::Id" name="erhic::VirtualParticle::Id">
+<area shape="rect" id="node2" href="$db/dc9/classParticleIdentifier.html#a16c07bffbed798bbbdabfbcda43acc43" title="ParticleIdentifier\l::IdentifyBeams" alt="" coords="488,158,620,202"/>
+<area shape="rect" id="node3" href="$d2/d55/classSmear_1_1Acceptance.html#a8f4767a26d00724cba82a3aa80541f69" title="Smear::Acceptance::Is" alt="" coords="468,373,640,401"/>
+<area shape="rect" id="node4" href="$d9/de1/classSmear_1_1Device.html#aeff74421cc6098556a73f48dbe80e540" title="Smear::Device::Smear" alt="" coords="689,159,863,187"/>
+<area shape="rect" id="node5" href="$d0/d91/structSmear_1_1ParticleID.html#a2c109c1306f27d7d427ce4c943075be1" title="Smear::ParticleID::\lSmear" alt="" coords="703,446,849,490"/>
+<area shape="rect" id="node7" href="$db/dc9/classParticleIdentifier.html#a52638868e93f0bca55acb5ba12f6b1d7" title="ParticleIdentifier\l::isBeamLepton" alt="" coords="260,90,392,134"/>
+<area shape="rect" id="node8" href="$db/dc9/classParticleIdentifier.html#a978ddb2bc49b76540f546958245826c4" title="ParticleIdentifier\l::isBeamNucleon" alt="" coords="259,158,393,202"/>
+<area shape="rect" id="node9" href="$db/dc9/classParticleIdentifier.html#a5f962a63f1e4f2403c7302d63cfb7fcd" title="ParticleIdentifier\l::isScatteredLepton" alt="" coords="250,226,402,270"/>
+<area shape="rect" id="node10" href="$db/dc9/classParticleIdentifier.html#ab8fe033e666fe214ffd390567c34b6f3" title="ParticleIdentifier\l::IsVirtualPhoton" alt="" coords="260,294,392,338"/>
+<area shape="rect" id="node11" href="$d9/dd8/namespaceSmear.html#abb2e999dfddf67fb47fe1e50921a8335" title="Smear::PGenre" alt="" coords="265,414,387,442"/>
+<area shape="rect" id="node12" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="248,518,404,562"/>
+<area shape="rect" id="node13" href="$df/d77/classerhic_1_1EventPythia.html#a8ffbe32229a7310901b0b2f9b6c8d0bf" title="erhic::EventPythia\l::ScatteredLepton" alt="" coords="254,586,398,630"/>
+<area shape="rect" id="node14" href="$db/dc9/classParticleIdentifier.html#aa26c1c2b831515568a2644431791aebc" title="ParticleIdentifier\l::SkipParticle" alt="" coords="260,654,392,698"/>
+<area shape="rect" id="node15" href="$db/dfd/classSmear_1_1PerfectID.html#a249a3ad5dbf893706cd03917c2495caa" title="Smear::PerfectID::Smear" alt="" coords="232,722,420,750"/>
+<area shape="rect" id="node6" href="$d1/df3/classSmear_1_1Tracker.html#a81a81adda8d4d3a77f9e610851555c2c" title="Smear::Tracker::Smear" alt="" coords="688,373,864,401"/>
+</map>

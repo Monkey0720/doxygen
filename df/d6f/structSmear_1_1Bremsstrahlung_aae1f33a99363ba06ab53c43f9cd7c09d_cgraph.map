@@ -1,0 +1,18 @@
+<map id="Smear::Bremsstrahlung::Smear" name="Smear::Bremsstrahlung::Smear">
+<area shape="rect" id="node2" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a85040f9377feb65e30f60598bfeaaa2a" title="Smear::Bremsstrahlung\l::FixParticleKinematics" alt="" coords="247,92,427,136"/>
+<area shape="rect" id="node6" href="$d9/dd8/namespaceSmear.html#aab63594c4f68e1977b26be4d39c56c14" title="Smear::HandleBogusValues" alt="" coords="233,405,441,433"/>
+<area shape="rect" id="node14" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a0f230f66356d3be2f41657ae3cfb3e43" title="Smear::Bremsstrahlung\l::NGamma" alt="" coords="247,529,427,573"/>
+<area shape="rect" id="node15" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a69596afcfafc93cddac9d83939c1cd3b" title="Smear::Bremsstrahlung\l::SetParticle" alt="" coords="247,669,427,713"/>
+<area shape="rect" id="node17" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a72a7304e264cae43b3262398d412dbb4" title="Smear::Bremsstrahlung\l::SetupPDF" alt="" coords="489,737,669,781"/>
+<area shape="rect" id="node3" href="$df/de8/cemc_8C.html#a72d4716092b469b4bc1d816359a90e14" title="cos" alt="" coords="557,5,601,33"/>
+<area shape="rect" id="node4" href="$df/dba/classSmear_1_1ParticleMCS.html#a66cf73806e3361b3a4ef1c8e57d34db1" title="Smear::ParticleMCS\l::GetE" alt="" coords="503,125,656,169"/>
+<area shape="rect" id="node5" href="$df/dba/classSmear_1_1ParticleMCS.html#a9b286f26dee3a06cc1cc0c24aaf73a23" title="Smear::ParticleMCS\l::GetM" alt="" coords="503,57,656,101"/>
+<area shape="rect" id="node7" href="$df/dba/classSmear_1_1ParticleMCS.html#aff373c10e5f5783d7ea05767e95ee94e" title="Smear::ParticleMCS\l::GetP" alt="" coords="503,193,656,237"/>
+<area shape="rect" id="node8" href="$df/dba/classSmear_1_1ParticleMCS.html#ad564dfa4389e11f2d7512a0c80e716dd" title="Smear::ParticleMCS\l::GetPt" alt="" coords="503,261,656,305"/>
+<area shape="rect" id="node9" href="$df/dba/classSmear_1_1ParticleMCS.html#a92399b9d06b3bae847589dae6443cc82" title="Smear::ParticleMCS\l::GetPz" alt="" coords="503,329,656,373"/>
+<area shape="rect" id="node10" href="$df/dba/classSmear_1_1ParticleMCS.html#aba73bde6878ba42fa9d20000c46ac719" title="Smear::ParticleMCS\l::SetE" alt="" coords="503,397,656,441"/>
+<area shape="rect" id="node11" href="$df/dba/classSmear_1_1ParticleMCS.html#a5a0161995c56fb51136ee4310fe2b51d" title="Smear::ParticleMCS\l::SetP" alt="" coords="503,465,656,509"/>
+<area shape="rect" id="node12" href="$df/dba/classSmear_1_1ParticleMCS.html#a8e685e867f05c17ea6e260bbfdc43bc3" title="Smear::ParticleMCS\l::SetPt" alt="" coords="503,533,656,577"/>
+<area shape="rect" id="node13" href="$df/dba/classSmear_1_1ParticleMCS.html#a6e7820d131b765ba1339058813d5b62a" title="Smear::ParticleMCS\l::SetPz" alt="" coords="503,601,656,645"/>
+<area shape="rect" id="node16" href="$df/d6f/structSmear_1_1Bremsstrahlung.html#a7b572707b4ed6ca1358d17c2690163a0" title="Smear::Bremsstrahlung\l::dSigmadK" alt="" coords="489,669,669,713"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="EicIdealTrackingCode" name="EicIdealTrackingCode">
+<area shape="rect" id="node2" href="$d2/d9e/classFairTask.html" title="FairTask" alt="" coords="2032,118,2107,146"/>
+<area shape="rect" id="node14" href="$de/d93/classEicDigiHitProducer.html" title="Base digitization class." alt="" coords="2372,906,2519,934"/>
+<area shape="rect" id="node4" href="$db/da1/classFairLogger.html" title="FairLogger" alt="" coords="1510,66,1602,94"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="955,37,1061,65"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="601,29,749,73"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="177,37,351,65"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="5,37,115,65"/>
+<area shape="rect" id="node11" href="$d7/d0d/classEicDetectorGroup.html" title="EicDetectorGroup" alt="" coords="2965,253,3107,281"/>
+<area shape="rect" id="node12" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="226,849,302,877"/>
+<area shape="rect" id="node15" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="1504,1109,1608,1137"/>
+<area shape="rect" id="node16" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l double \&gt;" alt="" coords="592,1255,759,1299"/>
+<area shape="rect" id="node18" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="2009,638,2130,666"/>
+<area shape="rect" id="node21" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="942,714,1074,742"/>
+<area shape="rect" id="node22" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="614,737,737,765"/>
+<area shape="rect" id="node25" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="633,789,717,817"/>
+<area shape="rect" id="node27" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="627,325,724,353"/>
+<area shape="rect" id="node30" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="927,938,1089,966"/>
+<area shape="rect" id="node32" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="574,1187,777,1231"/>
+<area shape="rect" id="node36" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="592,841,759,885"/>
+<area shape="rect" id="node39" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="592,1029,759,1073"/>
+<area shape="rect" id="node45" href="$d7/d2a/classEicKfNodeTemplate.html" title="EicKfNodeTemplate" alt="" coords="599,1358,751,1386"/>
+<area shape="rect" id="node13" href="$df/dca/classEicTrackingDigiHitProducer.html" title="EicTrackingDigiHitProducer" alt="" coords="2668,906,2872,934"/>
+<area shape="rect" id="node19" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="1496,706,1616,734"/>
+<area shape="rect" id="node23" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="619,530,731,558"/>
+<area shape="rect" id="node24" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="615,582,736,610"/>
+<area shape="rect" id="node47" href="$de/df0/classSensitiveVolume.html" title="SensitiveVolume" alt="" coords="2003,1385,2136,1413"/>
+<area shape="rect" id="node42" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="963,273,1053,301"/>
+<area shape="rect" id="node49" href="$df/de7/classKalmanNodeWrapper.html" title="KalmanNodeWrapper" alt="" coords="925,1437,1091,1465"/>
+</map>

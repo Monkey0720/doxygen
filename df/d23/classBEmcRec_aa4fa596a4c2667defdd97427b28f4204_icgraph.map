@@ -1,0 +1,12 @@
+<map id="BEmcRec::SetTowerThreshold" name="BEmcRec::SetTowerThreshold">
+<area shape="rect" id="node2" href="$d8/d5d/classRawClusterBuilderTemplate.html#a8c39fc8fa46da6a92be0a7ff6835a7d6" title="RawClusterBuilderTemplate\l::Detector" alt="" coords="273,103,480,147"/>
+<area shape="rect" id="node3" href="$d8/d4c/G4__CEmc__EIC_8C.html#a494d0a819d301d395ff322741e9543e0" title="CEMC_Clusters" alt="" coords="546,136,667,164"/>
+<area shape="rect" id="node9" href="$d5/dcb/G4__FEMC_8C.html#ab125a8852e2c16eed18cfad39821bbbf" title="FEMC_Clusters" alt="" coords="547,188,667,216"/>
+<area shape="rect" id="node10" href="$dc/dda/G4__HcalIn__ref_8C.html#af9c91eac780c08b08ebf2397019ec066" title="HCALInner_Clusters" alt="" coords="529,32,684,60"/>
+<area shape="rect" id="node11" href="$d8/d93/G4__HcalOut__ref_8C.html#a844046e9070953c2567bb9569eb81bd8" title="HCALOuter_Clusters" alt="" coords="528,84,685,112"/>
+<area shape="rect" id="node4" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="749,57,903,85"/>
+<area shape="rect" id="node5" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="733,109,919,137"/>
+<area shape="rect" id="node6" href="$da/d02/Fun4All__G4__EICDetector_8C.html#afbe82cefa1d1fd031d9a8586b7bb68c6" title="Fun4All_G4_EICDetector" alt="" coords="733,161,919,189"/>
+<area shape="rect" id="node7" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="743,213,909,241"/>
+<area shape="rect" id="node8" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="745,5,907,33"/>
+</map>

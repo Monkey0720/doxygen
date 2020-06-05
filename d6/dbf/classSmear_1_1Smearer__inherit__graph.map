@@ -1,0 +1,11 @@
+<map id="Smear::Smearer" name="Smear::Smearer">
+<area shape="rect" id="node3" href="$d2/d4a/classEPhenixMomentum.html" title="EPhenixMomentum" alt="" coords="5,157,157,185"/>
+<area shape="rect" id="node4" href="$d9/de1/classSmear_1_1Device.html" title="Smear::Device" alt="" coords="181,157,301,185"/>
+<area shape="rect" id="node6" href="$d0/d91/structSmear_1_1ParticleID.html" title="Smear::ParticleID" alt="" coords="326,157,463,185"/>
+<area shape="rect" id="node7" href="$db/dfd/classSmear_1_1PerfectID.html" title="Smear::PerfectID" alt="" coords="487,157,622,185"/>
+<area shape="rect" id="node8" href="$d1/df3/classSmear_1_1Tracker.html" title="Smear::Tracker" alt="" coords="647,157,769,185"/>
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="203,5,279,33"/>
+<area shape="rect" id="node5" href="$df/d6f/structSmear_1_1Bremsstrahlung.html" title="A specialized Device class for modelling radiative losses." alt="" coords="151,233,331,261"/>
+<area shape="rect" id="node9" href="$d0/dec/classSmear_1_1PlanarTracker.html" title="Smear::PlanarTracker" alt="" coords="531,233,696,261"/>
+<area shape="rect" id="node10" href="$d5/d39/classSmear_1_1RadialTracker.html" title="Smear::RadialTracker" alt="" coords="720,233,885,261"/>
+</map>

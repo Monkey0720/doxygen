@@ -1,0 +1,10 @@
+<map id="PHG4Sector::Sector_Geometry::set_N_Sector" name="PHG4Sector::Sector_Geometry::set_N_Sector">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="476,5,589,33"/>
+<area shape="rect" id="node4" href="$d8/d50/G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="290,57,383,85"/>
+<area shape="rect" id="node5" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="483,109,582,137"/>
+<area shape="rect" id="node6" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="263,161,411,189"/>
+<area shape="rect" id="node8" href="$de/d55/G4__GEM__EIC_8C.html#a5c9797b8007dda401ba2b3949d5647eb" title="make_LANL_FST_station" alt="" coords="245,213,428,241"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="637,84,717,112"/>
+<area shape="rect" id="node7" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="483,161,583,189"/>
+<area shape="rect" id="node9" href="$de/d55/G4__GEM__EIC_8C.html#a7be3dff0a6b7e1a41e670fcb9341b22b" title="FGEMSetup" alt="" coords="483,213,582,241"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="erhic::ParticleMCbase::GetStatus" name="erhic::ParticleMCbase::GetStatus">
+<area shape="rect" id="node2" href="$d6/dfb/classerhic_1_1EventMC.html#a13b99cc0cdad4fb55d48019799bc9d90" title="erhic::EventMC::FinalState" alt="" coords="220,115,419,143"/>
+<area shape="rect" id="node8" href="$d7/d24/extendedjetexample_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="292,167,347,195"/>
+<area shape="rect" id="node9" href="$d3/d49/classReadEICFiles.html#a49106bf9561329777334154092890af2" title="ReadEICFiles::process\l_event" alt="" coords="235,219,403,263"/>
+<area shape="rect" id="node3" href="$d6/dfb/classerhic_1_1EventMC.html#ad3ac3c0c1ca5ff7cc17fad39e13a3c0e" title="erhic::EventMC::FinalState\lCharge" alt="" coords="467,5,665,49"/>
+<area shape="rect" id="node4" href="$d6/dfb/classerhic_1_1EventMC.html#a0582bf6c212ec7cc3a184cf722d36db2" title="erhic::EventMC::FinalState\lMomentum" alt="" coords="467,73,665,117"/>
+<area shape="rect" id="node5" href="$d6/dfb/classerhic_1_1EventMC.html#aea8284496cd97c22c68880edd5765ed0" title="erhic::EventMC::Hadronic\lFinalState" alt="" coords="470,141,662,185"/>
+<area shape="rect" id="node7" href="$df/d77/classerhic_1_1EventPythia.html#a8ffbe32229a7310901b0b2f9b6c8d0bf" title="erhic::EventPythia\l::ScatteredLepton" alt="" coords="494,209,638,253"/>
+<area shape="rect" id="node6" href="$d6/dfb/classerhic_1_1EventMC.html#aec7fb1c6cce8817a7e0354b06ca39bc7" title="erhic::EventMC::Hadronic\lFinalStateMomentum" alt="" coords="713,141,905,185"/>
+</map>

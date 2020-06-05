@@ -1,0 +1,28 @@
+<map id="PHG4Particle::get_vtx_id" name="PHG4Particle::get_vtx_id">
+<area shape="rect" id="node2" href="$d4/dc9/classPHG4DSTReader.html#a800782dd1b7ce1294a4760d71f609708" title="add a particle and associated vertex if _save_vertex" alt="" coords="246,5,414,49"/>
+<area shape="rect" id="node4" href="$dd/d9d/classPHG4TruthEventAction.html#aadf84e52ab9bcf0b8fb892c626b53c27" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="481,115,655,159"/>
+<area shape="rect" id="node5" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="243,261,417,305"/>
+<area shape="rect" id="node7" href="$d8/d97/classTrackFastSimEval.html#a028f8bc89f4762789e280d64e7fcfe62" title="TrackFastSimEval::fill\l_track_tree" alt="" coords="248,397,412,441"/>
+<area shape="rect" id="node9" href="$d0/d71/classPHG4TrackFastSimEval.html#abb5af30ed95d2dc6212aca004f92016d" title="PHG4TrackFastSimEval\l::fill_vertex_tree" alt="" coords="243,193,417,237"/>
+<area shape="rect" id="node10" href="$d8/d97/classTrackFastSimEval.html#a6169d02dfd424ec8d1a721eb40411aee" title="TrackFastSimEval::fill\l_vertex_tree" alt="" coords="248,329,412,373"/>
+<area shape="rect" id="node11" href="$dc/d23/classBaseTruthEval.html#ad3f606dcf24aeca41b79f5d64f68dc0e" title="what was the vertex creation point of the particle?" alt="" coords="255,465,405,509"/>
+<area shape="rect" id="node24" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="1448,533,1676,561"/>
+<area shape="rect" id="node25" href="$d8/dc7/classMomentumEvaluator.html#a19c5f2c6d74578feea3513322e9f1fe3" title="MomentumEvaluator::\lprocess_event" alt="" coords="245,611,415,655"/>
+<area shape="rect" id="node26" href="$df/df1/classPHG4DstCompressReco.html#ad196a73c9aa26e2dac18f95a9425c942" title="event processing" alt="" coords="240,679,420,723"/>
+<area shape="rect" id="node27" href="$dd/d9d/classPHG4TruthEventAction.html#ae3f2e6fb721a5bf18566688160ccc273" title="PHG4TruthEventAction\l::ProcessShowers" alt="" coords="243,73,417,117"/>
+<area shape="rect" id="node3" href="$d4/dc9/classPHG4DSTReader.html#aa32c5027cd9c3e4d667a0e84d7243412" title="event processing method" alt="" coords="471,5,665,49"/>
+<area shape="rect" id="node6" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="481,212,655,256"/>
+<area shape="rect" id="node8" href="$d8/d97/classTrackFastSimEval.html#a1c1810697243f85b6963d11342852ee8" title="TrackFastSimEval::process\l_event" alt="" coords="468,329,668,373"/>
+<area shape="rect" id="node12" href="$d4/de4/classSvtxTruthEval.html#afd61a22f7958141564f39aae028580dc" title="SvtxTruthEval::get\l_vertex" alt="" coords="495,465,641,509"/>
+<area shape="rect" id="node20" href="$d7/d3c/classCaloTruthEval.html#a59dcdec9abaa7c6e8805732fa9596ce5" title="what was particle&#39;s creation point?" alt="" coords="495,397,641,441"/>
+<area shape="rect" id="node13" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1468,440,1656,484"/>
+<area shape="rect" id="node15" href="$d4/d21/classSvtxVertexEval.html#a7ff115ef20337311f4d7edb1d2409f20" title="SvtxVertexEval::all\l_truth_points" alt="" coords="756,440,904,484"/>
+<area shape="rect" id="node19" href="$d4/d21/classSvtxVertexEval.html#a266c840c37e717d884d65b0b77806e96" title="SvtxVertexEval::get\l_ntracks_contribution" alt="" coords="997,320,1163,364"/>
+<area shape="rect" id="node14" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1724,496,1900,540"/>
+<area shape="rect" id="node16" href="$d4/d21/classSvtxVertexEval.html#aa7e59a495f87824e3f1088d1f5436ecb" title="SvtxVertexEval::max\l_truth_point_by_ntracks" alt="" coords="1216,372,1400,416"/>
+<area shape="rect" id="node17" href="$d4/d21/classSvtxVertexEval.html#a8d536f79d01ad909dcfbf24bada4c0bf" title="SvtxVertexEval::all\l_vertexes_from" alt="" coords="1006,440,1154,484"/>
+<area shape="rect" id="node18" href="$d4/d21/classSvtxVertexEval.html#ac76bf94cd6531f13664e0d56a052dbfe" title="SvtxVertexEval::best\l_vertex_from" alt="" coords="1227,440,1389,484"/>
+<area shape="rect" id="node21" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="736,315,924,359"/>
+<area shape="rect" id="node23" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="716,261,944,289"/>
+<area shape="rect" id="node22" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="992,252,1168,296"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="erhic::ParticleMCbase::ComputeDerivedQuantities" name="erhic::ParticleMCbase::ComputeDerivedQuantities">
+<area shape="rect" id="node2" href="$d9/ddf/classerhic_1_1ParticleMC.html#a820a5bd25fc40b303f83caacb144ec98" title="erhic::ParticleMC::\lParticleMC" alt="" coords="280,5,423,49"/>
+<area shape="rect" id="node3" href="$de/d3c/classerhic_1_1ParticleMCbase.html#af3dbf2a11907f0057b6cfc1af30e5b75" title="erhic::ParticleMCbase\l::Set4Vector" alt="" coords="268,73,435,117"/>
+<area shape="rect" id="node4" href="$d0/d1d/particlegun_8cxx.html#ab8b501892680ac538a9aad2af02d198f" title="This function does smearing itself. by calling detector.Smear(not_smeared_prt);." alt="" coords="515,51,629,79"/>
+<area shape="rect" id="node7" href="$d8/dba/classPoacher.html#a2c1b732c309f33c1fb6e047973b236f2" title="Poacher::GetNextEvent" alt="" coords="483,107,661,135"/>
+<area shape="rect" id="node5" href="$d0/d1d/particlegun_8cxx.html#ac7821bf4c6f46efb89009edde18e7b97" title="Process" alt="" coords="751,47,823,75"/>
+<area shape="rect" id="node6" href="$d0/d1d/particlegun_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="932,47,987,75"/>
+<area shape="rect" id="node8" href="$dd/df6/classEicEventGenerator.html#a40924445938964cff3db00bb4f59debe" title="EicEventGenerator::\lReadEvent" alt="" coords="709,99,865,143"/>
+<area shape="rect" id="node9" href="$dd/df6/classEicEventGenerator.html#a96c9601b9dd0ccad7d27ca6e401d6837" title="EicEventGenerator::\lSkipFewEvents" alt="" coords="709,167,865,211"/>
+<area shape="rect" id="node10" href="$d4/d1f/examples_2physics_2config_82_2simulation_8C.html#ac10f32ae478a1409f743cf125eeea582" title="simulation" alt="" coords="913,175,1005,203"/>
+</map>

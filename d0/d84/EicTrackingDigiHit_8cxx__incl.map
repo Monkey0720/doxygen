@@ -1,0 +1,19 @@
+<map id="EicRoot/blob/master/eic/tracking/EicTrackingDigiHit.cxx" name="EicRoot/blob/master/eic/tracking/EicTrackingDigiHit.cxx">
+<area shape="rect" id="node4" href="$d5/d26/EicTrackingDigiHit_8h.html" title="EicTrackingDigiHit.h" alt="" coords="239,113,395,141"/>
+<area shape="rect" id="node7" href="$d4/d88/FairHit_8h.html" title="FairHit.h" alt="" coords="211,189,288,217"/>
+<area shape="rect" id="node24" href="$dc/dac/EicGeoParData_8h.html" title="EicGeoParData.h" alt="" coords="1392,341,1525,369"/>
+<area shape="rect" id="node39" href="$d0/db7/EicMoCaPoint_8h.html" title="EicMoCaPoint.h" alt="" coords="323,189,447,217"/>
+<area shape="rect" id="node8" href="$d4/dd4/FairTimeStamp_8h.html" title="FairTimeStamp.h" alt="" coords="182,265,317,293"/>
+<area shape="rect" id="node9" href="$d8/d4b/FairMultiLinkedData_8h.html" title="FairMultiLinkedData.h" alt="" coords="318,341,485,369"/>
+<area shape="rect" id="node10" href="$d2/d2b/FairLink_8h.html" title="FairLink.h" alt="" coords="363,417,448,445"/>
+<area shape="rect" id="node14" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="472,417,619,445"/>
+<area shape="rect" id="node29" href="$d3/d52/FairGeoLoader_8h.html" title="FairGeoLoader.h" alt="" coords="2193,417,2322,445"/>
+<area shape="rect" id="node31" href="$d6/dd0/FairGeoInterface_8h.html" title="FairGeoInterface.h" alt="" coords="1331,417,1477,445"/>
+<area shape="rect" id="node32" href="$dc/d78/FairGeoMedia_8h.html" title="FairGeoMedia.h" alt="" coords="1552,417,1677,445"/>
+<area shape="rect" id="node33" href="$d4/d9e/FairGeoMedium_8h.html" title="FairGeoMedium.h" alt="" coords="2503,417,2641,445"/>
+<area shape="rect" id="node35" href="$d2/dc5/FairGeoBuilder_8h.html" title="FairGeoBuilder.h" alt="" coords="2346,417,2478,445"/>
+<area shape="rect" id="node36" href="$d8/dfe/EicDetName_8h.html" title="EicDetName.h" alt="" coords="861,417,979,445"/>
+<area shape="rect" id="node37" href="$d7/d58/EicNamePatternHub_8h.html" title="EicNamePatternHub.h" alt="" coords="1003,417,1173,445"/>
+<area shape="rect" id="node38" href="$d6/d8d/EicGeoMap_8h.html" title="EicGeoMap.h" alt="" coords="1197,417,1307,445"/>
+<area shape="rect" id="node40" href="$d1/d72/FairMCPoint_8h.html" title="FairMCPoint.h" alt="" coords="341,265,453,293"/>
+</map>

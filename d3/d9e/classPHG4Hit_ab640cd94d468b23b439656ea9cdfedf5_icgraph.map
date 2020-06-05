@@ -1,0 +1,9 @@
+<map id="PHG4Hit::get_shower_id" name="PHG4Hit::get_shower_id">
+<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#acc69387d9b986d2d51a1d3aee3f31ae1" title="PHG4Hit::CopyFrom" alt="" coords="264,31,419,59"/>
+<area shape="rect" id="node6" href="$dc/d23/classBaseTruthEval.html#a3806c816f6d1a3cf14a69834e60e3b64" title="which primary shower contains this truth hit?" alt="" coords="267,83,416,127"/>
+<area shape="rect" id="node7" href="$dc/d23/classBaseTruthEval.html#a8b3bfeea64a5eee4a3bb2c3fcc380b7e" title="is this truth hit inside this shower?" alt="" coords="251,151,431,195"/>
+<area shape="rect" id="node8" href="$d1/df8/classRawTowerBuilderByHitIndex.html#aa8ce40e0a1ba5c7a2326a1a720fe3f8d" title="RawTowerBuilderByHitIndex\l::process_event" alt="" coords="236,219,447,263"/>
+<area shape="rect" id="node3" href="$d5/d60/classPHG4HitEval.html#a1578ba2c94c6f0784c2a25ea080d981e" title="PHG4HitEval::CopyFrom" alt="" coords="495,5,677,33"/>
+<area shape="rect" id="node5" href="$d9/d35/classPHG4Hitv1.html#a2bd73935561899a900c6ad37d43245e8" title="PHG4Hitv1::PHG4Hitv1" alt="" coords="498,57,674,85"/>
+<area shape="rect" id="node4" href="$d5/d60/classPHG4HitEval.html#a01e507ac99396484a9e138e92bf2cead" title="PHG4HitEval::PHG4HitEval" alt="" coords="725,5,927,33"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hcal" name="hcal">
+<area shape="rect" id="node2" href="$d4/dff/STAR_8FWD_2hcal_8C.html#ae16e3709bf92cc3517979d9d0977830b" title="hcal" alt="" coords="153,5,203,33"/>
+<area shape="rect" id="node3" href="$dc/dda/G4__HcalIn__ref_8C.html#a3d57117b35676ff1a0c5eb9efed9f101" title="HCalInner" alt="" coords="133,57,223,85"/>
+<area shape="rect" id="node5" href="$d8/d93/G4__HcalOut__ref_8C.html#a577e7fca33252e2679529c03012ed0db" title="HCalOuter" alt="" coords="132,109,224,137"/>
+<area shape="rect" id="node6" href="$df/d7d/HCAL_2hcal-lib_8C.html#a0399bbc88ac2cc0cc7ddf1cbcf078219" title="make_single_tower" alt="" coords="103,161,253,189"/>
+<area shape="rect" id="node4" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="301,84,381,112"/>
+</map>

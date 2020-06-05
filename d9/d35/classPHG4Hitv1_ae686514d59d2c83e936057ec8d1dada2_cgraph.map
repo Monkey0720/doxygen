@@ -1,0 +1,13 @@
+<map id="PHG4Hitv1::identify" name="PHG4Hitv1::identify">
+<area shape="rect" id="node2" href="$d9/d35/classPHG4Hitv1.html#a079234752f2ff7e428aa755a0903c9df" title="PHG4Hitv1::get_property\l_float" alt="" coords="225,155,415,199"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a68bf050da73e1a551dc6c6dfed28197d" title="PHG4Hit::get_property_info" alt="" coords="483,207,688,235"/>
+<area shape="rect" id="node7" href="$d9/d35/classPHG4Hitv1.html#aa3da2c2af142668846df99120f319d90" title="PHG4Hitv1::get_property_int" alt="" coords="213,103,427,131"/>
+<area shape="rect" id="node8" href="$d9/d35/classPHG4Hitv1.html#ad7dcbaf9ff92c80e82bc03a5a8e67828" title="PHG4Hitv1::get_property_uint" alt="" coords="208,51,432,79"/>
+<area shape="rect" id="node9" href="$d9/d35/classPHG4Hitv1.html#a55e17e2c264206d024b5b4e7fb3e1453" title="PHG4Hitv1::get_t" alt="" coords="251,275,389,303"/>
+<area shape="rect" id="node10" href="$d9/d35/classPHG4Hitv1.html#ad464315479711defa7bf8d931bf8d886" title="PHG4Hitv1::get_x" alt="" coords="250,327,390,355"/>
+<area shape="rect" id="node11" href="$d9/d35/classPHG4Hitv1.html#a1361c9889beaee5cc697b4d8e23c50d3" title="PHG4Hitv1::get_y" alt="" coords="250,379,390,407"/>
+<area shape="rect" id="node12" href="$d9/d35/classPHG4Hitv1.html#a05eb62135dc97c5ef7fef15f72221800" title="PHG4Hitv1::get_z" alt="" coords="250,431,390,459"/>
+<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#a6bb2ccb530b208b6413261924d130c2d" title="PHG4Hit::check_property" alt="" coords="490,103,681,131"/>
+<area shape="rect" id="node4" href="$df/de8/cemc_8C.html#adf5c804dfce7a70e36dda02995fad481" title="exit" alt="" coords="739,182,785,210"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a28a104e5abe55cd6f59edf728a97b655" title="PHG4Hit::get_property_type" alt="" coords="480,51,691,79"/>
+</map>

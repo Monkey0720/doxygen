@@ -1,0 +1,44 @@
+<map id="PHG4HitContainer::getHits" name="PHG4HitContainer::getHits">
+<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#aadade59ba8c67eb108524b42ef8bda8a" title="SvtxTruthEval::all\l_truth_hits" alt="" coords="307,151,446,195"/>
+<area shape="rect" id="node10" href="$d7/d3c/classCaloTruthEval.html#a48340a45153cbec194162cdb99a1357f" title="what truth hits were left behind by this particle in this calo volume?" alt="" coords="307,235,446,279"/>
+<area shape="rect" id="node11" href="$d2/d53/classPHG4HcalCellReco.html#af8a314c42be2b158775f3003d468c024" title="PHG4HcalCellReco::CheckEnergy" alt="" coords="255,303,499,331"/>
+<area shape="rect" id="node12" href="$d2/d53/classPHG4HcalCellReco.html#add52f73eefad7d8127220556dea803a8" title="event processing" alt="" coords="549,347,757,391"/>
+<area shape="rect" id="node13" href="$d7/d04/classPHG4ForwardCalCellReco.html#a8ba7dd3f0c9d9b93e518cb590729679c" title="PHG4ForwardCalCellReco\l::CheckEnergy" alt="" coords="281,407,473,451"/>
+<area shape="rect" id="node14" href="$d7/d04/classPHG4ForwardCalCellReco.html#a207a3ea7a42190d306636a104d02a545" title="event processing" alt="" coords="557,436,749,480"/>
+<area shape="rect" id="node15" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="289,527,464,571"/>
+<area shape="rect" id="node17" href="$d8/d97/classTrackFastSimEval.html#a028f8bc89f4762789e280d64e7fcfe62" title="TrackFastSimEval::fill\l_track_tree" alt="" coords="295,595,459,639"/>
+<area shape="rect" id="node19" href="$d8/de2/classPHG4HitReadBack.html#a58eaf1ee74dca25622fbf07343b600e4" title="PHG4HitReadBack::process\l_event" alt="" coords="274,663,479,707"/>
+<area shape="rect" id="node20" href="$dc/d38/classPHG4ConsistencyCheck.html#a52d89c7166211c0c19f906d885558b63" title="event processing" alt="" coords="285,731,468,775"/>
+<area shape="rect" id="node21" href="$d2/d1c/classG4HitTTree.html#a7a21fedba9e6987eb62fd94ede2ff474" title="event processing method" alt="" coords="298,799,455,843"/>
+<area shape="rect" id="node22" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="293,867,460,911"/>
+<area shape="rect" id="node23" href="$de/d4d/classPHG4MvtxHitReco.html#afae36034dbc6416433dbbd401e71f26b" title="event processing" alt="" coords="275,935,479,979"/>
+<area shape="rect" id="node24" href="$df/df1/classPHG4DstCompressReco.html#ad196a73c9aa26e2dac18f95a9425c942" title="event processing" alt="" coords="287,1003,467,1047"/>
+<area shape="rect" id="node25" href="$d1/df8/classRawTowerBuilderByHitIndex.html#aa8ce40e0a1ba5c7a2326a1a720fe3f8d" title="RawTowerBuilderByHitIndex\l::process_event" alt="" coords="271,1071,482,1115"/>
+<area shape="rect" id="node26" href="$dd/deb/classPHG4InttHitReco.html#aeae720fd9e71be360c52c2e58bea5bb5" title="event processing" alt="" coords="279,1139,474,1183"/>
+<area shape="rect" id="node27" href="$df/d5e/classPHG4BlockCellReco.html#a8031ff9bacb684d523acc71c14054cdb" title="event processing" alt="" coords="296,1207,457,1251"/>
+<area shape="rect" id="node28" href="$d7/d71/classG4EdepNtuple.html#ad1054bd4e07f3ca59e298b4cccdb7bf3" title="event processing method" alt="" coords="287,1275,467,1319"/>
+<area shape="rect" id="node29" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="291,1343,463,1387"/>
+<area shape="rect" id="node30" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a8578e30ba539e33b658fe1b92fc83f71" title="event processing" alt="" coords="271,1411,482,1455"/>
+<area shape="rect" id="node31" href="$d4/db8/classG4HitNtuple.html#afeccb4a7b25a09969fd14addf7562130" title="event processing method" alt="" coords="294,1479,459,1523"/>
+<area shape="rect" id="node32" href="$d1/ddd/classG4SnglNtuple.html#abaf5d86053a2cdb91aceeb512d53f92a" title="event processing method" alt="" coords="289,1547,465,1591"/>
+<area shape="rect" id="node33" href="$dc/d72/classSimpleNtuple.html#a29631bb8b7c94827eeeb3e1ec17cc1ed" title="event processing method" alt="" coords="290,1615,463,1659"/>
+<area shape="rect" id="node34" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="293,1683,461,1727"/>
+<area shape="rect" id="node35" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="281,1751,472,1795"/>
+<area shape="rect" id="node36" href="$d4/dc9/classPHG4DSTReader.html#aa32c5027cd9c3e4d667a0e84d7243412" title="event processing method" alt="" coords="279,1819,474,1863"/>
+<area shape="rect" id="node37" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="271,1887,483,1931"/>
+<area shape="rect" id="node39" href="$dd/d0c/classCaloAna.html#a35267a89304d38af91a65969a7574f17" title="CaloAna::process_g4hits" alt="" coords="283,1955,470,1983"/>
+<area shape="rect" id="node41" href="$df/d79/classG4SnglTree.html#a77da9ff312468fc78f76947e1d9ca44f" title="hit processing method" alt="" coords="285,2007,469,2035"/>
+<area shape="rect" id="node43" href="$de/dbe/classDumpPHG4HitContainer.html#a0a80f6d20b63c934a0d23c50eb540291" title="DumpPHG4HitContainer\l::process_Node" alt="" coords="284,2059,469,2103"/>
+<area shape="rect" id="node3" href="$d3/d22/classJetTruthEval.html#a8b29603fecb26cdf0c7ca71bf8a06965" title="which truth hits were left by particles contributing to this truth jet?" alt="" coords="553,5,752,33"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="813,57,1029,85"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="807,109,1035,137"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="827,161,1015,205"/>
+<area shape="rect" id="node8" href="$d4/de4/classSvtxTruthEval.html#a7f911f747430e3cd66359f8740660390" title="SvtxTruthEval::get\l_innermost_truth_hit" alt="" coords="571,211,734,255"/>
+<area shape="rect" id="node9" href="$d4/de4/classSvtxTruthEval.html#aec47c20c5c8a5c25c380ee6f0289c252" title="SvtxTruthEval::get\l_outermost_truth_hit" alt="" coords="571,279,735,323"/>
+<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="1083,101,1259,145"/>
+<area shape="rect" id="node16" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="565,527,740,571"/>
+<area shape="rect" id="node18" href="$d8/d97/classTrackFastSimEval.html#a1c1810697243f85b6963d11342852ee8" title="TrackFastSimEval::process\l_event" alt="" coords="553,595,753,639"/>
+<area shape="rect" id="node38" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="547,1887,759,1931"/>
+<area shape="rect" id="node40" href="$dd/d0c/classCaloAna.html#afe94c360c527e97289601b2ddd4fc131" title="event processing method" alt="" coords="561,1955,745,1983"/>
+<area shape="rect" id="node42" href="$df/d79/classG4SnglTree.html#a0db6ccb8d7909ac2d6f760276dd9a3bb" title="event processing method" alt="" coords="573,2007,733,2051"/>
+</map>

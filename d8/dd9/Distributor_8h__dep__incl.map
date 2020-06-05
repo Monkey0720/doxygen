@@ -1,0 +1,32 @@
+<map id="eic&#45;smear/blob/master/include/eicsmear/smear/Distributor.h" name="eic&#45;smear/blob/master/include/eicsmear/smear/Distributor.h">
+<area shape="rect" id="node2" href="$de/d05/Device_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/Device.h" alt="" coords="2129,113,2320,173"/>
+<area shape="rect" id="node25" href="$d2/d0e/Tracker_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/Tracker.h" alt="" coords="4369,113,4560,173"/>
+<area shape="rect" id="node31" href="$df/d4a/Distributor_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/Distributor.cxx" alt="" coords="4584,121,4780,165"/>
+<area shape="rect" id="node3" href="$d1/db0/EicSmearTask_8cxx.html" title="EicRoot/blob/master\l/eic/event/EicSmearTask.cxx" alt="" coords="5,229,220,273"/>
+<area shape="rect" id="node4" href="$d1/df9/deprecated_2smearBeAST_8cxx.html" title="eic&#45;smear/blob/master\l/deprecated/smearBeAST.cxx" alt="" coords="244,229,464,273"/>
+<area shape="rect" id="node5" href="$da/d5b/Bremsstrahlung_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/Bremsstrahlung.h" alt="" coords="488,221,679,281"/>
+<area shape="rect" id="node7" href="$d5/d02/ParticleID_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/ParticleID.h" alt="" coords="703,221,893,281"/>
+<area shape="rect" id="node9" href="$d9/dad/ePHENIXDetector_8cpp.html" title="eic&#45;smear/blob/master\l/scripts/ePHENIXDetector.cpp" alt="" coords="917,229,1137,273"/>
+<area shape="rect" id="node10" href="$d6/dcd/PerfectDetector_8cxx.html" title="eic&#45;smear/blob/master\l/scripts/PerfectDetector.cxx" alt="" coords="1162,229,1370,273"/>
+<area shape="rect" id="node11" href="$d0/d53/scripts_2smearBeAST_8cxx.html" title="eic&#45;smear/blob/master\l/scripts/smearBeAST.cxx" alt="" coords="1395,229,1583,273"/>
+<area shape="rect" id="node12" href="$d1/d9b/smearHandBook_8cxx.html" title="eic&#45;smear/blob/master\l/scripts/smearHandBook.cxx" alt="" coords="1607,229,1823,273"/>
+<area shape="rect" id="node13" href="$de/ddb/smearNaiveHandBook_8cxx.html" title="eic&#45;smear/blob/master\l/scripts/smearNaiveHandBook.cxx" alt="" coords="1847,229,2101,273"/>
+<area shape="rect" id="node14" href="$d7/d9e/ZEUSDetector_8cpp.html" title="eic&#45;smear/blob/master\l/scripts/ZEUSDetector.cpp" alt="" coords="2125,229,2324,273"/>
+<area shape="rect" id="node15" href="$de/d46/Device_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/Device.cxx" alt="" coords="2348,229,2523,273"/>
+<area shape="rect" id="node16" href="$d5/d90/ePHENIXDetector_8h.html" title="eic&#45;smear/blob/master\l/tests/ePHENIXDetector.h" alt="" coords="2547,229,2739,273"/>
+<area shape="rect" id="node19" href="$d3/d5d/SmearBeAST__0__0_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearBeAST_0_0.cxx" alt="" coords="2764,229,2989,273"/>
+<area shape="rect" id="node20" href="$da/d4a/SmearBeAST__0__1_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearBeAST_0_1.cxx" alt="" coords="3013,229,3239,273"/>
+<area shape="rect" id="node21" href="$d2/dd3/SmearePHENIX__0__0_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearePHENIX_0_0.cxx" alt="" coords="3263,229,3501,273"/>
+<area shape="rect" id="node22" href="$d6/da3/SmearHandBook__1__2_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearHandBook\l_1_2.cxx" alt="" coords="3525,221,3719,281"/>
+<area shape="rect" id="node23" href="$dd/d18/SmearPerfectDetector_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearPerfectDetector.cxx" alt="" coords="3743,229,3997,273"/>
+<area shape="rect" id="node24" href="$d2/db1/SmearZEUS__0__0_8cxx.html" title="eicsmeardetectors/blob\l/master/SmearZEUS_0_0.cxx" alt="" coords="4021,229,4239,273"/>
+<area shape="rect" id="node6" href="$d9/d66/Bremsstrahlung_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/Bremsstrahlung.cxx" alt="" coords="456,329,689,373"/>
+<area shape="rect" id="node8" href="$d6/d3c/ParticleID_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/ParticleID.cxx" alt="" coords="714,329,903,373"/>
+<area shape="rect" id="node17" href="$d0/d1d/particlegun_8cxx.html" title="eic&#45;smear/blob/master\l/tests/particlegun.cxx" alt="" coords="2456,329,2631,373"/>
+<area shape="rect" id="node18" href="$d4/d3f/qaplots_8cxx.html" title="eic&#45;smear/blob/master\l/tests/qaplots.cxx" alt="" coords="2655,329,2829,373"/>
+<area shape="rect" id="node26" href="$d7/df2/PlanarTracker_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/PlanarTracker.h" alt="" coords="4263,221,4453,281"/>
+<area shape="rect" id="node28" href="$d2/d86/RadialTracker_8h.html" title="eic&#45;smear/blob/master\l/include/eicsmear/smear\l/RadialTracker.h" alt="" coords="4477,221,4668,281"/>
+<area shape="rect" id="node30" href="$de/d79/Tracker_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/Tracker.cxx" alt="" coords="4692,229,4867,273"/>
+<area shape="rect" id="node27" href="$db/d60/PlanarTracker_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/PlanarTracker.cxx" alt="" coords="4237,329,4453,373"/>
+<area shape="rect" id="node29" href="$d3/d32/RadialTracker_8cxx.html" title="eic&#45;smear/blob/master\l/src/smear/RadialTracker.cxx" alt="" coords="4477,329,4692,373"/>
+</map>

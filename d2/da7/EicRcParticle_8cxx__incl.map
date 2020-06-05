@@ -1,0 +1,22 @@
+<map id="EicRoot/blob/master/eic/event/EicRcParticle.cxx" name="EicRoot/blob/master/eic/event/EicRcParticle.cxx">
+<area shape="rect" id="node3" href="$d3/db3/EicEventAssembler_8h.html" title="EicEventAssembler.h" alt="" coords="1467,173,1629,201"/>
+<area shape="rect" id="node33" href="$d5/dbb/EicRcParticle_8h.html" title="EicRcParticle.h" alt="" coords="2407,401,2527,429"/>
+<area shape="rect" id="node50" href="$df/dc5/EicRootManager_8h.html" title="EicRootManager.h" alt="" coords="1596,97,1737,125"/>
+<area shape="rect" id="node5" href="$d8/d44/FairTask_8h.html" title="FairTask.h" alt="" coords="790,325,877,353"/>
+<area shape="rect" id="node22" href="$d3/d6f/EicRcEvent_8h.html" title="EicRcEvent.h" alt="" coords="2219,249,2328,277"/>
+<area shape="rect" id="node39" href="$d8/dfe/EicDetName_8h.html" title="EicDetName.h" alt="" coords="8,401,125,429"/>
+<area shape="rect" id="node40" href="$db/d23/EicEventGenerator_8h.html" title="EicEventGenerator.h" alt="" coords="1468,249,1628,277"/>
+<area shape="rect" id="node6" href="$d5/de4/FairLogger_8h.html" title="FairLogger.h" alt="" coords="670,401,773,429"/>
+<area shape="rect" id="node11" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="409,401,556,429"/>
+<area shape="rect" id="node23" href="$dd/db5/erhic_2EventMC_8h.html" title="eicsmear/erhic/EventMC.h" alt="" coords="1836,401,2033,429"/>
+<area shape="rect" id="node27" href="$d4/dc7/EventDis_8h.html" title="eicsmear/erhic/EventDis.h" alt="" coords="1396,629,1593,657"/>
+<area shape="rect" id="node28" href="$db/d19/erhic_2ParticleMC_8h.html" title="eicsmear/erhic/ParticleMC.h" alt="" coords="1980,477,2188,505"/>
+<area shape="rect" id="node31" href="$d8/da3/Pid_8h.html" title="eicsmear/erhic/Pid.h" alt="" coords="1692,629,1849,657"/>
+<area shape="rect" id="node32" href="$d3/d44/VirtualParticle_8h.html" title="eicsmear/erhic/VirtualParticle.h" alt="" coords="1997,553,2229,581"/>
+<area shape="rect" id="node35" href="$d7/deb/PndMCTrack_8h.html" title="PndMCTrack.h" alt="" coords="2459,477,2573,505"/>
+<area shape="rect" id="node36" href="$d8/d35/PndDetectorList_8h.html" title="PndDetectorList.h" alt="" coords="2515,553,2655,581"/>
+<area shape="rect" id="node44" href="$d5/d97/FairGenerator_8h.html" title="FairGenerator.h" alt="" coords="1320,325,1445,353"/>
+<area shape="rect" id="node46" href="$de/d56/erhic_2EventFactory_8h.html" title="eicsmear/erhic/EventFactory.h" alt="" coords="1635,325,1859,353"/>
+<area shape="rect" id="node48" href="$d4/d54/Forester_8h.html" title="eicsmear/erhic/Forester.h" alt="" coords="1003,325,1195,353"/>
+<area shape="rect" id="node49" href="$da/dcb/EicBoxGenerator_8h.html" title="EicBoxGenerator.h" alt="" coords="2029,325,2176,353"/>
+</map>

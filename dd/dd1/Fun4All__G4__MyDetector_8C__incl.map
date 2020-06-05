@@ -1,0 +1,23 @@
+<map id="g4exampledetector/blob/master/template/macros/Fun4All_G4_MyDetector.C" name="g4exampledetector/blob/master/template/macros/Fun4All_G4_MyDetector.C">
+<area shape="rect" id="node2" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="1779,297,1945,325"/>
+<area shape="rect" id="node6" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="619,213,796,241"/>
+<area shape="rect" id="node16" href="$d1/de7/Fun4AllInputManager_8h.html" title="fun4all/Fun4AllInputManager.h" alt="" coords="956,213,1184,241"/>
+<area shape="rect" id="node20" href="$d8/d8f/Fun4AllDummyInputManager_8h.html" title="fun4all/Fun4AllDummyInput\lManager.h" alt="" coords="822,113,1033,157"/>
+<area shape="rect" id="node21" href="$de/df8/Fun4AllOutputManager_8h.html" title="fun4all/Fun4AllOutputManager.h" alt="" coords="2251,213,2491,241"/>
+<area shape="rect" id="node23" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="2339,113,2531,157"/>
+<area shape="rect" id="node25" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="g4detectors/PHG4Detector\lSubsystem.h" alt="" coords="1411,113,1614,157"/>
+<area shape="rect" id="node27" href="$da/d29/G4HitNtuple_8h.html" title="g4histos/G4HitNtuple.h" alt="" coords="1689,213,1867,241"/>
+<area shape="rect" id="node28" href="$d8/d9f/PHG4ParticleGeneratorBase_8h.html" title="g4main/PHG4ParticleGenerator\lBase.h" alt="" coords="1892,205,2125,249"/>
+<area shape="rect" id="node30" href="$d4/d8b/PHG4ParticleGenerator_8h.html" title="g4main/PHG4ParticleGenerator.h" alt="" coords="2071,121,2315,149"/>
+<area shape="rect" id="node31" href="$da/d45/PHG4SimpleEventGenerator_8h.html" title="g4main/PHG4SimpleEventGenerator.h" alt="" coords="1108,121,1387,149"/>
+<area shape="rect" id="node32" href="$de/d65/PHG4ParticleGun_8h.html" title="g4main/PHG4ParticleGun.h" alt="" coords="1791,121,1995,149"/>
+<area shape="rect" id="node33" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="2668,213,2827,241"/>
+<area shape="rect" id="node37" href="$d2/dcb/recoConsts_8h.html" title="phool/recoConsts.h" alt="" coords="2556,121,2707,149"/>
+<area shape="rect" id="node3" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="947,373,1063,401"/>
+<area shape="rect" id="node7" href="$d0/d59/Fun4AllHistoManager_8h.html" title="Fun4AllHistoManager.h" alt="" coords="619,297,795,325"/>
+<area shape="rect" id="node9" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="199,297,331,325"/>
+<area shape="rect" id="node17" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="Fun4AllReturnCodes.h" alt="" coords="1175,297,1344,325"/>
+<area shape="rect" id="node26" href="$df/d1c/PHG4Subsystem_8h.html" title="g4main/PHG4Subsystem.h" alt="" coords="1260,213,1461,241"/>
+<area shape="rect" id="node34" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="2974,297,3174,325"/>
+<area shape="rect" id="node38" href="$d0/d11/PHFlag_8h.html" title="PHFlag.h" alt="" coords="2617,297,2697,325"/>
+</map>

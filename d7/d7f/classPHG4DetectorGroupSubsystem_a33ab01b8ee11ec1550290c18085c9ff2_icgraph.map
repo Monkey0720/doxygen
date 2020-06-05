@@ -1,0 +1,11 @@
+<map id="PHG4DetectorGroupSubsystem::GetParamsContainer" name="PHG4DetectorGroupSubsystem::GetParamsContainer">
+<area shape="rect" id="node2" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="316,5,491,49"/>
+<area shape="rect" id="node3" href="$d6/d09/classPHG4InttSubsystem.html#a1d0b24d27f8bf30d0141354a567b6996" title="init" alt="" coords="321,73,485,117"/>
+<area shape="rect" id="node4" href="$da/ded/classG4JLeicVTXSubsystem.html#a0d03568d0c806772bf4e2302b2010516" title="G4JLeicVTXSubsystem\l::InitRunSubsystem" alt="" coords="317,141,489,185"/>
+<area shape="rect" id="node5" href="$dd/d21/classPHG4PSTOFSubsystem.html#a487e12c6abedca9fabf406aaeab10011" title="PHG4PSTOFSubsystem\l::InitRunSubsystem" alt="" coords="315,209,491,253"/>
+<area shape="rect" id="node6" href="$d6/d09/classPHG4InttSubsystem.html#a00e13bc9199d51a30caa5f87a5f2acec" title="PHG4InttSubsystem::\lPrint" alt="" coords="321,277,485,321"/>
+<area shape="rect" id="node7" href="$da/ded/classG4JLeicVTXSubsystem.html#a0278e9ea8b6903d5c2040390d42f27c5" title="Print info (from SubsysReco)" alt="" coords="317,345,489,389"/>
+<area shape="rect" id="node8" href="$dd/d21/classPHG4PSTOFSubsystem.html#aa50757e48e954742172c8a1aa92e4c29" title="Print info (from SubsysReco)" alt="" coords="315,413,491,457"/>
+<area shape="rect" id="node9" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a388dbfc8434dc9dce81adcce6b031bd8" title="PHG4DetectorGroupSubsystem\l::UpdateParametersWithMacro" alt="" coords="287,481,520,525"/>
+<area shape="rect" id="node10" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a9c1bbc352e506b9b598fcd4d34ea279e" title="PHG4DetectorGroupSubsystem\l::InitRun" alt="" coords="568,481,801,525"/>
+</map>

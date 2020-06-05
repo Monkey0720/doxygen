@@ -1,0 +1,8 @@
+<map id="PHG4Particle::get_parent_id" name="PHG4Particle::get_parent_id">
+<area shape="rect" id="node2" href="$d4/dc9/classPHG4DSTReader.html#a800782dd1b7ce1294a4760d71f609708" title="add a particle and associated vertex if _save_vertex" alt="" coords="277,5,445,49"/>
+<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a2d296833e72596ba63cc1ec8bae8618e" title="Add a particle that the user has created." alt="" coords="269,73,454,117"/>
+<area shape="rect" id="node6" href="$dd/d9d/classPHG4TruthEventAction.html#aadf84e52ab9bcf0b8fb892c626b53c27" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="275,141,448,185"/>
+<area shape="rect" id="node7" href="$dc/d23/classBaseTruthEval.html#a6f415bfe15e689b3fbb6426fd80f9e2b" title="is this a primary particle?" alt="" coords="263,209,460,237"/>
+<area shape="rect" id="node3" href="$d4/dc9/classPHG4DSTReader.html#aa32c5027cd9c3e4d667a0e84d7243412" title="event processing method" alt="" coords="508,5,703,49"/>
+<area shape="rect" id="node5" href="$db/d5c/classPHG4TruthTrackingAction.html#a22bc2cb2f4cdd07e12eee38c1a43f586" title="tracking action" alt="" coords="510,73,701,117"/>
+</map>

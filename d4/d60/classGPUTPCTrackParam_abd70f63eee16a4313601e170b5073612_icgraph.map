@@ -1,0 +1,7 @@
+<map id="GPUTPCTrackParam::GetCosPhi" name="GPUTPCTrackParam::GetCosPhi">
+<area shape="rect" id="node2" href="$d4/d60/classGPUTPCTrackParam.html#abd0a5cf5fa4e93b6f1eb06e16ef23fd5" title="GPUTPCTrackParam::GetDCAPoint" alt="" coords="541,5,791,33"/>
+<area shape="rect" id="node3" href="$d4/d60/classGPUTPCTrackParam.html#a95928c289f2f8b400a972a2f401ef15d" title="GPUTPCTrackParam::GetS" alt="" coords="289,31,484,59"/>
+<area shape="rect" id="node4" href="$d4/d60/classGPUTPCTrackParam.html#a0d666c500468a047e85d17a1993b7a59" title="GPUTPCTrackParam::Rotate" alt="" coords="284,83,489,111"/>
+<area shape="rect" id="node5" href="$d1/d08/classPHCASeeding.html#af376b7d45ef271961bb0a2fc4a24631a" title="PHCASeeding::FindSeedsLayerSkip" alt="" coords="537,83,795,111"/>
+<area shape="rect" id="node6" href="$d1/d08/classPHCASeeding.html#aaa4eca2abbf1065bb9b48de9cb683494" title="PHCASeeding::Process" alt="" coords="843,83,1016,111"/>
+</map>

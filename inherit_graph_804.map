@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d5/d61/classFW_1_1Geant4_1_1MMSteppingAction.html" title="Collects the RecordedMaterialProperties entities." alt="" coords="233,5,468,33"/>
+<area shape="rect" id="node3" href="$d4/de5/classPHG4ConeRegionSteppingAction.html" title="PHG4ConeRegionSteppingAction" alt="" coords="229,57,472,85"/>
+<area shape="rect" id="node4" href="$df/d1b/classPHG4FCalSteppingAction.html" title="PHG4FCalSteppingAction" alt="" coords="255,109,446,137"/>
+<area shape="rect" id="node5" href="$d8/dd2/classPHG4FPbScRegionSteppingAction.html" title="PHG4FPbScRegionSteppingAction" alt="" coords="227,161,475,189"/>
+<area shape="rect" id="node6" href="$d1/d53/classPHG4PhenixSteppingAction.html" title="PHG4PhenixSteppingAction" alt="" coords="247,213,454,241"/>
+<area shape="rect" id="node7" href="$de/d4d/classPHG4RICHSteppingAction.html" title="This class defines the user stepping action for the ePHENIX RICH volumes within Fun4All." alt="" coords="254,265,447,293"/>
+</map>

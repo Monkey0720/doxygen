@@ -1,0 +1,22 @@
+<map id="erhic::VirtualEvent" name="erhic::VirtualEvent">
+<area shape="rect" id="node3" href="$dc/db4/classerhic_1_1EventDis.html" title="erhic::EventDis" alt="" coords="369,279,493,307"/>
+<area shape="rect" id="node19" href="$d7/dd9/classerhic_1_1hadronic_1_1EventMC.html" title="erhic::hadronic::EventMC" alt="" coords="336,356,527,384"/>
+<area shape="rect" id="node21" href="$dd/d74/classerhic_1_1hadronic_1_1EventSmear.html" title="erhic::hadronic::EventSmear" alt="" coords="324,408,539,436"/>
+<area shape="rect" id="node2" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="5,356,81,384"/>
+<area shape="rect" id="node4" href="$d9/d66/classEicRcEvent.html" title="EicRcEvent" alt="" coords="652,213,749,241"/>
+<area shape="rect" id="node5" href="$d6/dfb/classerhic_1_1EventMC.html" title="erhic::EventMC" alt="" coords="639,265,762,293"/>
+<area shape="rect" id="node18" href="$dc/de8/classSmear_1_1Event.html" title="Smear::Event" alt="" coords="644,317,757,345"/>
+<area shape="rect" id="node6" href="$da/d61/classerhic_1_1EventDjangoh.html" title="erhic::EventDjangoh" alt="" coords="868,5,1027,33"/>
+<area shape="rect" id="node7" href="$d9/d67/classerhic_1_1EventDpmjet.html" title="erhic::EventDpmjet" alt="" coords="871,57,1023,85"/>
+<area shape="rect" id="node8" href="$d2/d51/classerhic_1_1EventGmcTrans.html" title="erhic::EventGmcTrans" alt="" coords="863,109,1032,137"/>
+<area shape="rect" id="node9" href="$de/ddc/classerhic_1_1EventMilou.html" title="erhic::EventMilou" alt="" coords="878,161,1017,189"/>
+<area shape="rect" id="node10" href="$d3/d30/classerhic_1_1EventPepsi.html" title="erhic::EventPepsi" alt="" coords="879,213,1016,241"/>
+<area shape="rect" id="node11" href="$df/d77/classerhic_1_1EventPythia.html" title="Pythia 6 DIS event." alt="" coords="875,265,1019,293"/>
+<area shape="rect" id="node13" href="$d2/d84/classerhic_1_1EventRapgap.html" title="erhic::EventRapgap" alt="" coords="870,317,1025,345"/>
+<area shape="rect" id="node14" href="$d8/d97/classerhic_1_1EventSartre.html" title="erhic::EventSartre" alt="" coords="876,369,1019,397"/>
+<area shape="rect" id="node15" href="$d2/da5/classerhic_1_1EventSimple.html" title="erhic::EventSimple" alt="" coords="873,421,1021,449"/>
+<area shape="rect" id="node16" href="$d1/d50/classEventEicMC.html" title="EventEicMC" alt="" coords="897,473,998,501"/>
+<area shape="rect" id="node17" href="$d3/db8/classEventProMC.html" title="EventProMC" alt="" coords="896,525,999,553"/>
+<area shape="rect" id="node12" href="$dc/db7/classerhic_1_1EventBeagle.html" title="erhic::EventBeagle" alt="" coords="1080,265,1229,293"/>
+<area shape="rect" id="node20" href="$d1/d4c/classerhic_1_1hadronic_1_1EventPythiaPP.html" title="erhic::hadronic::EventPythiaPP" alt="" coords="587,369,815,397"/>
+</map>

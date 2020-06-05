@@ -1,0 +1,8 @@
+<map id="PHG4Sector::Sector_Geometry::eta_to_polar_angle" name="PHG4Sector::Sector_Geometry::eta_to_polar_angle">
+<area shape="rect" id="node2" href="$de/d75/G4__Aerogel_8C.html#a400136ba4928234f7c9990b4065328f1" title="AerogelSetup" alt="" coords="481,5,595,33"/>
+<area shape="rect" id="node4" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="489,57,587,85"/>
+<area shape="rect" id="node5" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="285,108,433,136"/>
+<area shape="rect" id="node7" href="$d6/d41/G4Setup__fsPHENIX_8C.html#a5152c9ff3ef81a7dc81e9771b8ee6762" title="make_piston" alt="" coords="306,160,413,188"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="643,57,723,85"/>
+<area shape="rect" id="node6" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="488,109,588,137"/>
+</map>

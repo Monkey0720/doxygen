@@ -1,0 +1,10 @@
+<map id="Smear::HandleBogusValues" name="Smear::HandleBogusValues">
+<area shape="rect" id="node2" href="$df/dba/classSmear_1_1ParticleMCS.html#a66cf73806e3361b3a4ef1c8e57d34db1" title="Smear::ParticleMCS\l::GetE" alt="" coords="261,5,415,49"/>
+<area shape="rect" id="node3" href="$df/dba/classSmear_1_1ParticleMCS.html#aff373c10e5f5783d7ea05767e95ee94e" title="Smear::ParticleMCS\l::GetP" alt="" coords="261,73,415,117"/>
+<area shape="rect" id="node4" href="$df/dba/classSmear_1_1ParticleMCS.html#ad564dfa4389e11f2d7512a0c80e716dd" title="Smear::ParticleMCS\l::GetPt" alt="" coords="261,141,415,185"/>
+<area shape="rect" id="node5" href="$df/dba/classSmear_1_1ParticleMCS.html#a92399b9d06b3bae847589dae6443cc82" title="Smear::ParticleMCS\l::GetPz" alt="" coords="261,209,415,253"/>
+<area shape="rect" id="node6" href="$df/dba/classSmear_1_1ParticleMCS.html#aba73bde6878ba42fa9d20000c46ac719" title="Smear::ParticleMCS\l::SetE" alt="" coords="261,277,415,321"/>
+<area shape="rect" id="node7" href="$df/dba/classSmear_1_1ParticleMCS.html#a5a0161995c56fb51136ee4310fe2b51d" title="Smear::ParticleMCS\l::SetP" alt="" coords="261,345,415,389"/>
+<area shape="rect" id="node8" href="$df/dba/classSmear_1_1ParticleMCS.html#a8e685e867f05c17ea6e260bbfdc43bc3" title="Smear::ParticleMCS\l::SetPt" alt="" coords="261,413,415,457"/>
+<area shape="rect" id="node9" href="$df/dba/classSmear_1_1ParticleMCS.html#a6e7820d131b765ba1339058813d5b62a" title="Smear::ParticleMCS\l::SetPz" alt="" coords="261,481,415,525"/>
+</map>

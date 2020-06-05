@@ -1,0 +1,5 @@
+<map id="Acts::Vertex::fitQuality" name="Acts::Vertex::fitQuality">
+<area shape="rect" id="node2" href="$d8/d1a/classActs_1_1IterativeVertexFinder.html#a579a2d0e618473cb35cf09f0f21c5d74" title="Finds vertices corresponding to input trackVector." alt="" coords="235,5,437,49"/>
+<area shape="rect" id="node3" href="$d8/d1a/classActs_1_1IterativeVertexFinder.html#a23d72499633cbea72aa926db335634f0" title="Function that reassigns tracks from other vertices to the current vertex if they are more compatible..." alt="" coords="228,73,444,117"/>
+<area shape="rect" id="node4" href="$d8/dd5/namespaceActs_1_1KalmanVertexUpdater_1_1detail.html#a636e9e73aaf549b3f32f1fc3a84d5b15" title="Adds or removes (depending on sign) tracks from vertex and updates the vertex." alt="" coords="231,141,441,185"/>
+</map>

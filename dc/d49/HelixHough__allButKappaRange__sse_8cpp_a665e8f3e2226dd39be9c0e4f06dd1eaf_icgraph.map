@@ -1,0 +1,36 @@
+<map id="return" name="return">
+<area shape="rect" id="node2" href="$d6/ddd/classdfe_1_1Dispatcher.html#a8cdb7f09799ab6c28ce9b6953d25edf3" title="dfe::Dispatcher::add" alt="" coords="147,5,305,33"/>
+<area shape="rect" id="node3" href="$dd/d0c/classAnalyzeSimpleTree.html#ae8b5dc55518f7cf80953bda721987aa1" title="AnalyzeSimpleTree::\lAnalyzeSimpleTree" alt="" coords="147,57,305,101"/>
+<area shape="rect" id="node4" href="$de/dbb/classSyncObject.html#acd53115d581ec604b83ca0041ed7ccf4" title="SyncObject::identify" alt="" coords="147,125,305,153"/>
+<area shape="rect" id="node6" href="$df/d35/classRunHeader.html#ac473bb426dfc79e01b007dfcbb5c9f46" title="RunHeader::identify" alt="" coords="148,177,304,205"/>
+<area shape="rect" id="node7" href="$da/db3/classFlagSavev1.html#a10f6b35bb5ddfa662522969d42d70fe5" title="FlagSavev1::identify" alt="" coords="146,229,306,257"/>
+<area shape="rect" id="node8" href="$dc/d30/classPHG4CylinderGeom.html#a14a3fe96cb31751568d492a2d30293d8" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="121,281,331,325"/>
+<area shape="rect" id="node17" href="$d8/d07/classMySimpleTree.html#ae864d70d4c8d8913a99a3309193dd9bf" title="MySimpleTree::MySimpleTree" alt="" coords="117,349,335,377"/>
+<area shape="rect" id="node18" href="$df/d35/classRunHeader.html#ad56e2ebfdb4b2027c10725ed2ebdf386" title="switches off the pesky virtual warning messages" alt="" coords="137,401,315,429"/>
+<area shape="rect" id="node19" href="$d1/d7e/pmonitor_8cc.html#ae73df4d6b3d5f6ed0dcae190b14c7b6c" title="pprocess" alt="" coords="185,453,267,481"/>
+<area shape="rect" id="node22" href="$da/db3/classFlagSavev1.html#a3b02d47cdde343b6ff8fe60a8a5c264a" title="FlagSavev1::PrintDoubleFlag" alt="" coords="118,505,334,533"/>
+<area shape="rect" id="node23" href="$da/db3/classFlagSavev1.html#af40740055b264346b92eec7417e688f4" title="FlagSavev1::PrintFloatFlag" alt="" coords="125,557,327,585"/>
+<area shape="rect" id="node24" href="$da/db3/classFlagSavev1.html#a827c5b109c29926cdea34ead55437006" title="FlagSavev1::PrintIntFlag" alt="" coords="133,609,319,637"/>
+<area shape="rect" id="node25" href="$da/db3/classFlagSavev1.html#a0878c9c65f33e701c17bda38bc4e2f43" title="FlagSavev1::PrintStringFlag" alt="" coords="122,661,330,689"/>
+<area shape="rect" id="node26" href="$d8/d7e/pmonitor_8h.html#ad2ad6ffec0bd896f405629be241333ef" title="prun" alt="" coords="200,713,252,741"/>
+<area shape="rect" id="node27" href="$de/dbb/classSyncObject.html#aa2a10b9b4a4b8e3987f9c62fb28bd9f8" title="Clear Sync." alt="" coords="153,765,299,793"/>
+<area shape="rect" id="node30" href="$db/d39/classMyTClonesArray.html#a5daeb77d971ad659bda131ea70b3f30c" title="Clear Event." alt="" coords="138,817,314,845"/>
+<area shape="rect" id="node31" href="$df/d35/classRunHeader.html#a1ab5774cf677bb534ff4337069e19129" title="Clear Event." alt="" coords="154,869,298,897"/>
+<area shape="rect" id="node32" href="$d8/d07/classMySimpleTree.html#a86ad66065a0baa79d73e13f9b9805b05" title="Clear Event." alt="" coords="145,921,307,949"/>
+<area shape="rect" id="node33" href="$df/d35/classRunHeader.html#a852c1efb3f6e1551bf3dd495513435ad" title="set Run Number" alt="" coords="119,973,333,1001"/>
+<area shape="rect" id="node34" href="$df/d35/classRunHeader.html#ab89e1667dc6d90d6069427b3d28c9f8d" title="RunHeader::warning" alt="" coords="147,1025,305,1053"/>
+<area shape="rect" id="node35" href="$db/d39/classMyTClonesArray.html#a7f2c681db8ee5fb28735d48bfadc9665" title="MyTClonesArray::~MyTClones\lArray" alt="" coords="115,1077,337,1121"/>
+<area shape="rect" id="node5" href="$d7/d0b/classFun4AllDstInputManager.html#a0244c2edbaa2350038304b09f352c2d0" title="Fun4AllDstInputManager\l::SyncIt" alt="" coords="387,117,575,161"/>
+<area shape="rect" id="node9" href="$d3/d63/classPHG4CylinderGeomv1.html#accabd2d72bf6949d7e6daefbc93e8ab2" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="396,281,567,325"/>
+<area shape="rect" id="node10" href="$d1/df3/classPHG4CylinderGeomv2.html#ae660d920fd9c780b4cc92b92037aeb0e" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="651,281,822,325"/>
+<area shape="rect" id="node11" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1323c080e451eb8df4b6c065f3a01e59" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="896,281,1119,325"/>
+<area shape="rect" id="node12" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1695b189ac570c48a72e3a10339209c0" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="1167,247,1389,291"/>
+<area shape="rect" id="node16" href="$d0/da4/classPHG4SpacalDetector.html#ad8e9e19b20355493d0210934701d4f17" title="PHG4SpacalDetector\l::PHG4SpacalDetector" alt="" coords="1192,315,1364,359"/>
+<area shape="rect" id="node13" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a101400277a0fbe0c0c9c32c02a39fb40" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="1437,247,1660,291"/>
+<area shape="rect" id="node14" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a252fe43177261d752210af377132f152" title="PHG4FullProjSpacalDetector\l::PHG4FullProjSpacalDetector" alt="" coords="1708,208,1928,252"/>
+<area shape="rect" id="node15" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a400c0416a09f3c37958d24da9dbbbf2a" title="PHG4FullProjTiltedSpacal\lDetector::PHG4FullProjTilted\lSpacalDetector" alt="" coords="1713,276,1923,336"/>
+<area shape="rect" id="node20" href="$d8/d7e/pmonitor_8h.html#a7d00edef8d4a1e9c715afb4e1cfe614b" title="pstart" alt="" coords="451,453,512,481"/>
+<area shape="rect" id="node21" href="$d8/d7e/pmonitor_8h.html#a9ff8d5246b0e11ec9794323332ce5a2a" title="pstart" alt="" coords="706,453,767,481"/>
+<area shape="rect" id="node28" href="$da/dd8/classFun4AllPrdfInputManager.html#a4d3e00664417e9198d9fab5d4c336f97" title="Fun4AllPrdfInputManager\l::ResetEvent" alt="" coords="385,757,577,801"/>
+<area shape="rect" id="node29" href="$da/dd8/classFun4AllPrdfInputManager.html#ac3f313ef5571ce32cd40799791e2ea56" title="Fun4AllPrdfInputManager::run" alt="" coords="625,765,848,793"/>
+</map>

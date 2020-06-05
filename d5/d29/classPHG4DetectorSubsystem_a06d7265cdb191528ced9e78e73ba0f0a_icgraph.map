@@ -1,0 +1,48 @@
+<map id="PHG4DetectorSubsystem::SetActive" name="PHG4DetectorSubsystem::SetActive">
+<area shape="rect" id="node2" href="$dd/d5a/G4__Barrel__Hcal_8C.html#a6e300c4edcfaf5700f26fea2dd767a17" title="Barrel_Hcal" alt="" coords="304,109,401,137"/>
+<area shape="rect" id="node3" href="$d0/dd0/G4Setup__JLeic_8C.html#ae51ed477963c36fe17047cf934f36ef0" title="G4Setup" alt="" coords="583,265,663,293"/>
+<area shape="rect" id="node10" href="$d7/dca/G4__BeamLine_8C.html#ad49efbd14518ef2a970999bd9b0286c5" title="BeamLine" alt="" coords="309,5,397,33"/>
+<area shape="rect" id="node12" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="579,577,667,605"/>
+<area shape="rect" id="node14" href="$d8/d4c/G4__CEmc__EIC_8C.html#a643b7748ae63dfed5f748e4707bbf1d3" title="CEmc" alt="" coords="593,629,653,657"/>
+<area shape="rect" id="node15" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a5a524f976392ac304e84c872e8d435d1" title="EMCal setup macro &#45; 1D azimuthal projective SPACAL." alt="" coords="255,987,451,1015"/>
+<area shape="rect" id="node17" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a034d8a445c397fdcb3c0be0b80d91cfb" title="2D full projective SPACAL" alt="" coords="255,1039,451,1067"/>
+<area shape="rect" id="node18" href="$df/d7d/G4__CTD_8C.html#a30aeb88f3fa339a14c99ec30731d9482" title="CTD" alt="" coords="328,161,377,189"/>
+<area shape="rect" id="node19" href="$d8/d50/G4__DIRC_8C.html#acbdf429e4e41a2057e053691cc0b4128" title="DIRCSetup" alt="" coords="576,681,669,709"/>
+<area shape="rect" id="node20" href="$d6/daa/G4__DRich_8C.html#aadf074c3b4ac13a79d99119537fdaa11" title="DRich" alt="" coords="323,213,383,241"/>
+<area shape="rect" id="node21" href="$de/df4/G4__EndCap__Electron_8C.html#a33184c07499f17228a3a3841b30d027a" title="EndCap_Electron" alt="" coords="285,265,420,293"/>
+<area shape="rect" id="node22" href="$de/d43/G4__EndCap__Hadron_8C.html#a1e15e0cd45d806eb1cbd809646973159" title="EndCap_Hadron" alt="" coords="288,317,417,345"/>
+<area shape="rect" id="node23" href="$d5/dcb/G4__FEMC_8C.html#a46bf470cecae66db11fccb5925a48429" title="FEMCSetup" alt="" coords="573,733,672,761"/>
+<area shape="rect" id="node24" href="$de/d55/Fun4All__G4__block_8C.html#a6a063a649a0dd3318a517d5af98430dd" title="Fun4All_G4_block" alt="" coords="283,1091,423,1119"/>
+<area shape="rect" id="node25" href="$d2/dee/Fun4All__G4__Cylinder_8C.html#a271dc4f10f6f77107705e0efef0c97e5" title="Fun4All_G4_Cylinder" alt="" coords="272,1143,433,1171"/>
+<area shape="rect" id="node26" href="$df/ddd/Fun4All__G4__Example02_8C.html#a828c51f9608f078106cef9343df49316" title="Fun4All_G4_Example02" alt="" coords="263,1195,443,1223"/>
+<area shape="rect" id="node27" href="$d1/dc4/Fun4All__G4__Example03_8C.html#a6519821c64f56c74d049579392dfac3f" title="Fun4All_G4_Example03" alt="" coords="263,1247,443,1275"/>
+<area shape="rect" id="node28" href="$d2/de6/Fun4All__G4__FAIR_8C.html#a0f795c46d42e46f79023437a1db4dc29" title="Fun4All_G4_FAIR" alt="" coords="286,1299,419,1327"/>
+<area shape="rect" id="node29" href="$da/de9/Fun4All__G4__FAIR__barrel__only_8C.html#ad17d6575f5ac06812f55b6cef25e64ba" title="Fun4All_G4_FAIR_barrel_only" alt="" coords="245,1351,460,1379"/>
+<area shape="rect" id="node30" href="$d7/dc5/Fun4All__G4__FastMom_8C.html#ab9349be2377fe9e9a634a8607cff2555" title="Fun4All_G4_FastMom" alt="" coords="271,1403,435,1431"/>
+<area shape="rect" id="node31" href="$df/de1/Fun4All__G4__IonGun_8C.html#ab4966a2ae337cb8f0e45f7ee488e33b7" title="Fun4All_G4_IonGun" alt="" coords="277,1455,429,1483"/>
+<area shape="rect" id="node32" href="$dd/d8d/Fun4All__G4__Magnet_8C.html#a375961511ba614ba387343e652ab0202" title="Fun4All_G4_Magnet" alt="" coords="275,1507,430,1535"/>
+<area shape="rect" id="node33" href="$d9/d8f/Fun4All__G4__Momentum_8C.html#afbd7a4eecd7792e9216ce80b5514123e" title="Fun4All_G4_Momentum" alt="" coords="263,1559,443,1587"/>
+<area shape="rect" id="node34" href="$db/d88/G4__Gem_8C.html#a5e349c07b00b3438ec3705c49b4a6424" title="Gem" alt="" coords="326,369,379,397"/>
+<area shape="rect" id="node35" href="$dc/dda/G4__HcalIn__ref_8C.html#a3d57117b35676ff1a0c5eb9efed9f101" title="HCalInner" alt="" coords="578,785,667,813"/>
+<area shape="rect" id="node36" href="$dc/dda/G4__HcalIn__ref_8C.html#a3b4780d0c8bf98a2dab85016a8181973" title="A rough version of the inner HCal support ring, from Richie&#39;s CAD drawing. &#45; Jin." alt="" coords="263,832,442,860"/>
+<area shape="rect" id="node37" href="$d8/d93/G4__HcalOut__ref_8C.html#a577e7fca33252e2679529c03012ed0db" title="HCalOuter" alt="" coords="577,848,669,876"/>
+<area shape="rect" id="node38" href="$dd/d4f/G4__JLDIRC_8C.html#afa40526afd7a98c60bca60ec5c3417f8" title="JLDIRC" alt="" coords="319,421,386,449"/>
+<area shape="rect" id="node39" href="$d4/d93/fun4all__g4jleic_2blob_2master_2macros_2G4__Magnet_8C.html#a69bf7334e75e61a59af0ef76c418b36a" title="Magnet" alt="" coords="316,525,389,553"/>
+<area shape="rect" id="node41" href="$d6/d41/G4Setup__fsPHENIX_8C.html#a5152c9ff3ef81a7dc81e9771b8ee6762" title="make_piston" alt="" coords="299,1611,406,1639"/>
+<area shape="rect" id="node42" href="$da/d98/fun4all__g4jleic_2blob_2master_2macros_2G4__Pipe_8C.html#a3288b3cd0aeeda385414ee0cd9a39635" title="Pipe" alt="" coords="328,473,377,501"/>
+<area shape="rect" id="node43" href="$d1/d56/G4__PlugDoor_8C.html#aac9c24f96824c585914f9bef5de9c790" title="PlugDoor" alt="" coords="581,923,665,951"/>
+<area shape="rect" id="node44" href="$d5/d17/G4__Svtx__maps__ladders_09intt__ladders_09tpc__KalmanPatRec__EIC_8C.html#ac4c82b429746ee57457304af3cebbc56" title="Svtx" alt="" coords="327,1663,378,1691"/>
+<area shape="rect" id="node45" href="$d3/d50/G4__TPC__EIC_8C.html#ad666d85e7ce2f606315664a993e1a86b" title="TPC" alt="" coords="329,1715,377,1743"/>
+<area shape="rect" id="node46" href="$da/d3c/G4__Tracking_8C.html#a29db7ba137ab6b448bd8200c192a0a50" title="Tracking" alt="" coords="313,1767,392,1795"/>
+<area shape="rect" id="node4" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="801,136,955,164"/>
+<area shape="rect" id="node5" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="785,188,971,216"/>
+<area shape="rect" id="node6" href="$da/d02/Fun4All__G4__EICDetector_8C.html#afbe82cefa1d1fd031d9a8586b7bb68c6" title="Fun4All_G4_EICDetector" alt="" coords="785,240,971,268"/>
+<area shape="rect" id="node7" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="795,292,961,320"/>
+<area shape="rect" id="node8" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a66e8fc0b01ee0a8e805c7b99c4698974" title="Fun4All_G4_JLeic" alt="" coords="811,344,945,372"/>
+<area shape="rect" id="node9" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="797,396,959,424"/>
+<area shape="rect" id="node11" href="$db/dde/extractor_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="595,5,650,33"/>
+<area shape="rect" id="node13" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="838,733,918,761"/>
+<area shape="rect" id="node16" href="$d7/ddc/G4__CEmc__Spacal_8C.html#a643b7748ae63dfed5f748e4707bbf1d3" title="EMCal main setup macro." alt="" coords="593,1013,653,1041"/>
+<area shape="rect" id="node40" href="$dd/dd0/classG4LmonDetector.html#af521f96ca537931d7c581098ed04d7fa" title="construct" alt="" coords="508,525,737,553"/>
+<area shape="rect" id="node47" href="$d6/d41/G4Setup__fsPHENIX_8C.html#a7e5551b9a5f36f2e1d6783242366e6a9" title="G4Setup" alt="" coords="583,1767,663,1795"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="PHG4DetectorSubsystem::InitializeParameters" name="PHG4DetectorSubsystem::InitializeParameters">
+<area shape="rect" id="node2" href="$db/d23/classAllSiliconTrackerSubsystem.html#ac73725f00372af73dfb0e44186c0959f" title="constructor" alt="" coords="274,5,489,49"/>
+<area shape="rect" id="node3" href="$dd/d2a/classBeamLineMagnetSubsystem.html#a45053fa0c1b36ae7412307418bda06f8" title="constructor" alt="" coords="270,73,493,117"/>
+<area shape="rect" id="node4" href="$d1/dfe/classBeastMagnetSubsystem.html#a48082f83f61112025894deb1661d1571" title="constructor" alt="" coords="285,141,478,185"/>
+<area shape="rect" id="node5" href="$d6/d2d/classG4Example02Subsystem.html#a0a3f3c14a23220e704f55fc0ef91bf47" title="constructor" alt="" coords="281,209,481,253"/>
+<area shape="rect" id="node6" href="$d3/d75/classG4Example03Subsystem.html#a3dcc6478e288c56e5841cc3d4c5403a5" title="constructor" alt="" coords="281,277,481,321"/>
+<area shape="rect" id="node7" href="$d8/d65/classG4JLeicBeamLineMagnetSubsystem.html#a3ca6f632c4615113a244d8d60bddaa6f" title="constructor" alt="" coords="245,345,517,389"/>
+<area shape="rect" id="node8" href="$d3/d23/classG4JLeicDIRCSubsystem.html#a392774df32c27b18e1d5b96ac73f952b" title="constructor" alt="" coords="288,413,475,457"/>
+<area shape="rect" id="node9" href="$db/d6c/classG4LBLVtxSubsystem.html#af438552cd255a4985cc960066566eb02" title="G4LBLVtxSubsystem::\lG4LBLVtxSubsystem" alt="" coords="297,481,465,525"/>
+<area shape="rect" id="node10" href="$d5/de1/classPHG4BeamlineMagnetSubsystem.html#af589434e966b2d1a190d32a888717f1e" title="constructor" alt="" coords="253,549,509,593"/>
+<area shape="rect" id="node11" href="$df/d14/classPHG4BlockSubsystem.html#a5232038071ac68ee3c35eeb9da0dc358" title="constructor" alt="" coords="292,617,471,661"/>
+<area shape="rect" id="node12" href="$db/dc5/classPHG4CylinderSubsystem.html#a23a72128ae220d7f889d4767d8987d86" title="constructor" alt="" coords="282,685,481,729"/>
+<area shape="rect" id="node13" href="$d8/dce/classPHG4ForwardEcalSubsystem.html#aa39d3d6e87f805a74e690ae6dcdb0c78" title="PHG4ForwardEcalSubsystem\l::PHG4ForwardEcalSubsystem" alt="" coords="269,753,493,797"/>
+<area shape="rect" id="node14" href="$df/db1/classPHG4GDMLSubsystem.html#aa8c9b5996710a4b8f062873a91bc8e40" title="PHG4GDMLSubsystem::\lPHG4GDMLSubsystem" alt="" coords="291,821,472,865"/>
+<area shape="rect" id="node15" href="$d3/d62/classPHG4InnerHcalSubsystem.html#a4fa155635357066023b6300e652fcf8c" title="constructor" alt="" coords="278,889,485,933"/>
+<area shape="rect" id="node16" href="$d7/d58/classPHG4mRICHSubsystem.html#a5e244162aefab57b08d3cf4a8ecb9582" title="constructor" alt="" coords="287,957,475,1001"/>
+<area shape="rect" id="node17" href="$da/d01/classPHG4OuterHcalSubsystem.html#ab6341979235b44da8b145fae2510ee11" title="constructor" alt="" coords="276,1025,487,1069"/>
+<area shape="rect" id="node18" href="$d6/dca/classPHG4SpacalSubsystem.html#a39749193513cd69cc159af92d7838206" title="constructor" alt="" coords="288,1093,475,1137"/>
+<area shape="rect" id="node19" href="$d7/d0d/classPHG4TpcSubsystem.html#a533793ce1b9a0b1b38e0902ca87b93a2" title="constructor" alt="" coords="267,1161,495,1205"/>
+</map>

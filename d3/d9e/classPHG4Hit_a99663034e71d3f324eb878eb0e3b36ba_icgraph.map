@@ -1,0 +1,12 @@
+<map id="PHG4Hit::get_avg_x" name="PHG4Hit::get_avg_x">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="487,16,675,60"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ad721402a78da571aef6cefac442d0fdf" title="SvtxEvaluator::LayerCluster\lG4Hits" alt="" coords="213,45,423,89"/>
+<area shape="rect" id="node5" href="$d5/dc4/PHG4Hit_8cc.html#afbcbcb188457ac445ab8006d1f886cca" title="operator\&lt;\&lt;" alt="" coords="267,113,369,141"/>
+<area shape="rect" id="node6" href="$d9/d91/classPHG4TrackFastSim.html#a8719b0f3dfc22c2f7f347acd248ef0e7" title="PHG4TrackFastSim::PHG4Hit\lToMeasurementCylinder" alt="" coords="211,165,425,209"/>
+<area shape="rect" id="node9" href="$d9/d91/classPHG4TrackFastSim.html#a90d412b56b86334f4d8d2f9f773f2773" title="PHG4TrackFastSim::PHG4Hit\lToMeasurementVerticalPlane" alt="" coords="209,233,427,277"/>
+<area shape="rect" id="node10" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="212,301,424,345"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="751,16,927,60"/>
+<area shape="rect" id="node7" href="$d9/d91/classPHG4TrackFastSim.html#ad97cb78cc954aa1cb5ee600795c2ce35" title="PHG4TrackFastSim::Pseudo\lPatternRecognition" alt="" coords="479,198,683,242"/>
+<area shape="rect" id="node8" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="735,198,943,242"/>
+<area shape="rect" id="node11" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="475,301,687,345"/>
+</map>

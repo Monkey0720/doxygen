@@ -1,0 +1,11 @@
+<map id="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/ePHENIXRICHConstruction.h" name="fun4all_coresoftware/blob/master/simulation/g4simulation/g4detectors/ePHENIXRICHConstruction.h">
+<area shape="rect" id="node2" href="$de/da1/ePHENIXRICHConstruction_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/ePHENIXRICHConstruction.cc" alt="" coords="5,129,228,205"/>
+<area shape="rect" id="node3" href="$d3/d61/PHG4RICHDetector_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4RICHDetector.h" alt="" coords="303,129,504,205"/>
+<area shape="rect" id="node5" href="$d4/d96/PHG4RICHSteppingAction_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4RICHSteppingAction.cc" alt="" coords="59,253,278,329"/>
+<area shape="rect" id="node7" href="$d4/dc9/PHG4RICHSubsystem_8h.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4RICHSubsystem.h" alt="" coords="528,129,729,205"/>
+<area shape="rect" id="node4" href="$db/d65/PHG4RICHDetector_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4RICHDetector.cc" alt="" coords="303,253,504,329"/>
+<area shape="rect" id="node6" href="$d6/de9/PHG4RICHSubsystem_8cc.html" title="fun4all_coresoftware\l/blob/master/simulation\l/g4simulation/g4detectors\l/PHG4RICHSubsystem.cc" alt="" coords="528,253,729,329"/>
+<area shape="rect" id="node8" href="$df/d24/G4__RICH_8C.html" title="Setup the gas RICH detector as designed in ePHENIX LOI." alt="" coords="753,261,981,321"/>
+<area shape="rect" id="node9" href="$d6/d6e/G4Setup__EICDetector_8C.html" title="fun4all_macros/blob\l/master/macros/g4simulations\l/G4Setup_EICDetector.C" alt="" coords="753,377,981,437"/>
+<area shape="rect" id="node10" href="$da/d02/Fun4All__G4__EICDetector_8C.html" title="fun4all_macros/blob\l/master/macros/g4simulations\l/Fun4All_G4_EICDetector.C" alt="" coords="753,485,981,545"/>
+</map>

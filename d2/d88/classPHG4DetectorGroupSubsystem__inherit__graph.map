@@ -1,0 +1,9 @@
+<map id="PHG4DetectorGroupSubsystem" name="PHG4DetectorGroupSubsystem">
+<area shape="rect" id="node5" href="$da/ded/classG4JLeicVTXSubsystem.html" title="Fun4All module to simulate the Barrel PSTOF detector." alt="" coords="5,309,177,337"/>
+<area shape="rect" id="node6" href="$d6/d09/classPHG4InttSubsystem.html" title="PHG4InttSubsystem" alt="" coords="201,309,357,337"/>
+<area shape="rect" id="node7" href="$d9/dbf/classPHG4MvtxSubsystem.html" title="PHG4MvtxSubsystem" alt="" coords="382,309,547,337"/>
+<area shape="rect" id="node8" href="$dd/d21/classPHG4PSTOFSubsystem.html" title="Fun4All module to simulate the Barrel PSTOF detector." alt="" coords="571,309,747,337"/>
+<area shape="rect" id="node2" href="$db/df7/classPHG4Subsystem.html" title="PHG4Subsystem" alt="" coords="305,157,438,185"/>
+<area shape="rect" id="node3" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="321,81,422,109"/>
+<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="319,5,423,33"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Acts::VectorHelpers::cross" name="Acts::VectorHelpers::cross">
+<area shape="rect" id="node2" href="$d5/d32/classCylindricalHough.html#a556448174113111603304a1845e6d90a" title="CylindricalHough::addHits" alt="" coords="246,5,443,33"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a97fe8e2b1f4910a25182959f4f3060b8" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="251,57,439,101"/>
+<area shape="rect" id="node4" href="$d0/d72/classHelixHoughFuncs__v1.html#aa30c87e6ec34d316f8eb15f13358883d" title="HelixHoughFuncs_v1\l::calculate_phi_range" alt="" coords="262,125,427,169"/>
+<area shape="rect" id="node5" href="$dc/d33/classActs_1_1Frustum.html#add99da10e046f79a0a00b66257ea0425" title="Acts::Frustum::draw" alt="" coords="266,193,423,221"/>
+<area shape="rect" id="node7" href="$de/d52/classkdfinder_1_1Helix.html#af70b4a8a95157c01c22a6a6ddadc654e" title="kdfinder::Helix::geometric\lSignedDistance" alt="" coords="246,245,443,289"/>
+<area shape="rect" id="node11" href="$d1/d30/classActs_1_1LineSurface.html#ac64bd6a6aa7dfd616f328f1e6e6423ea" title="Acts::LineSurface::\linitJacobianToGlobal" alt="" coords="266,313,423,357"/>
+<area shape="rect" id="node12" href="$d5/d2f/structActs_1_1DefaultExtension.html#ac09f716c487f25b96acdb8b93385b5b8" title="Evaluater of the k_i&#39;s of the RKN4. For the case of i = 0 this step sets up qop, too." alt="" coords="248,381,441,409"/>
+<area shape="rect" id="node13" href="$d8/d78/structActs_1_1DenseEnvironmentExtension.html#af3af5d06f0a066051469c6c1ad8958ce" title="Evaluater of the k_i&#39;s of the RKN4. For the case of i = 0 this step sets up member parameters..." alt="" coords="208,433,481,461"/>
+<area shape="rect" id="node14" href="$d6/d83/circlegen_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="317,485,372,513"/>
+<area shape="rect" id="node15" href="$dc/d33/classActs_1_1Frustum.html#ac9bca943f48a62333ae7716e01cf8634" title="Acts::Frustum::svg" alt="" coords="271,537,418,565"/>
+<area shape="rect" id="node16" href="$d5/d2f/structActs_1_1DefaultExtension.html#a93b88a0b8002b620bd602f943f7b0be9" title="Calculates the transport matrix D for the jacobian." alt="" coords="257,589,433,633"/>
+<area shape="rect" id="node18" href="$d8/d78/structActs_1_1DenseEnvironmentExtension.html#a298b96bbbde3c810c68199ae16463f6f" title="Evaluates the transport matrix D for the jacobian." alt="" coords="217,657,472,701"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#a63f00fa4a5faaa6e674f2a7293318bd3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="563,177,751,221"/>
+<area shape="rect" id="node8" href="$de/d52/classkdfinder_1_1Helix.html#aeec237486dbf2bb6412377364fafa2d3" title="kdfinder::Helix::curvature\lSignedDistance" alt="" coords="559,245,754,289"/>
+<area shape="rect" id="node10" href="$de/d52/classkdfinder_1_1Helix.html#a9032562bc551d1d02e264844510be15c" title="kdfinder::Helix::geometric\lSignedDistance" alt="" coords="558,313,755,357"/>
+<area shape="rect" id="node9" href="$de/d52/classkdfinder_1_1Helix.html#a1df9cbf3ecb114307941bd9a43b07a7f" title="kdfinder::Helix::curvature\lSignedDistance" alt="" coords="832,245,1027,289"/>
+<area shape="rect" id="node17" href="$d5/d2f/structActs_1_1DefaultExtension.html#a322ee10b0d648561b9a050938c664958" title="Veto function after a RKN4 step was accepted by judging on the error of the step. Since the textbook ..." alt="" coords="569,589,745,633"/>
+<area shape="rect" id="node19" href="$d8/d78/structActs_1_1DenseEnvironmentExtension.html#a2926f556f23b86646fedd39564376039" title="After a RKN4 step was accepted by the stepper this method has an additional veto on the quality of th..." alt="" coords="529,657,784,701"/>
+</map>

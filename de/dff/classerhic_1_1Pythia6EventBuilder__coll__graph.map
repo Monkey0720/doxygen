@@ -1,0 +1,9 @@
+<map id="erhic::Pythia6EventBuilder" name="erhic::Pythia6EventBuilder">
+<area shape="rect" id="node2" href="$da/d91/classerhic_1_1VirtualEventFactory.html" title="erhic::VirtualEventFactory" alt="" coords="5,135,201,163"/>
+<area shape="rect" id="node3" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="85,5,161,33"/>
+<area shape="rect" id="node7" href="$da/d46/classerhic_1_1VirtualEvent.html" title="Abstract base class for a physics event." alt="" coords="146,83,293,111"/>
+<area shape="rect" id="node4" href="$df/d77/classerhic_1_1EventPythia.html" title="Pythia 6 DIS event." alt="" coords="145,341,289,369"/>
+<area shape="rect" id="node5" href="$d6/dfb/classerhic_1_1EventMC.html" title="erhic::EventMC" alt="" coords="157,264,279,292"/>
+<area shape="rect" id="node6" href="$dc/db4/classerhic_1_1EventDis.html" title="erhic::EventDis" alt="" coords="159,187,283,215"/>
+<area shape="rect" id="node8" href="$d3/d7e/classerhic_1_1EventMCFilterABC.html" title="erhic::EventMCFilterABC" alt="" coords="313,341,497,369"/>
+</map>

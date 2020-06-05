@@ -1,0 +1,25 @@
+<map id="fun4all_acts/blob/master/Examples/Detectors/MagneticField/include/ACTFW/Plugins/BField/BFieldOptions.hpp" name="fun4all_acts/blob/master/Examples/Detectors/MagneticField/include/ACTFW/Plugins/BField/BFieldOptions.hpp">
+<area shape="rect" id="node2" href="$d4/d3b/FittingAlgorithm_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/include/ACTFW/Fitting/FittingAlgorithm.hpp" alt="" coords="285,137,603,197"/>
+<area shape="rect" id="node5" href="$de/dcb/RecTruthTracks_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Reconstruction\l/RecTruthTracks.cpp" alt="" coords="551,261,779,321"/>
+<area shape="rect" id="node6" href="$db/dc7/AlignedDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/AlignedDetector.cpp" alt="" coords="689,137,935,197"/>
+<area shape="rect" id="node7" href="$d4/de4/PayloadDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/Contextual\lDetector/src/PayloadDetector.cpp" alt="" coords="959,137,1206,197"/>
+<area shape="rect" id="node8" href="$dc/da8/BFieldOptions_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/src/BFieldOptions.cpp" alt="" coords="1230,137,1490,197"/>
+<area shape="rect" id="node9" href="$dc/da7/MaterialValidationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialValidationBase.cpp" alt="" coords="1514,137,1726,197"/>
+<area shape="rect" id="node10" href="$d3/d32/PropagationExampleBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/PropagationExampleBase.cpp" alt="" coords="1751,137,1980,197"/>
+<area shape="rect" id="node11" href="$d1/d71/FatrasMain_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasMain.cpp" alt="" coords="2005,137,2238,197"/>
+<area shape="rect" id="node12" href="$d8/d55/FatrasSimulationBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/Common\l/FatrasSimulationBase.cpp" alt="" coords="2262,137,2495,197"/>
+<area shape="rect" id="node13" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldAccessExample.cpp" alt="" coords="2519,137,2739,197"/>
+<area shape="rect" id="node14" href="$dc/d47/BFieldExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldExample.cpp" alt="" coords="2763,137,2983,197"/>
+<area shape="rect" id="node15" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="3110,129,3338,205"/>
+<area shape="rect" id="node19" href="$d2/dd7/PHActsTrkProp_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lProp.cc" alt="" coords="2957,377,3187,453"/>
+<area shape="rect" id="node20" href="$d1/dae/PHActsSourceLinks_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSource\lLinks.h" alt="" coords="3681,129,3937,205"/>
+<area shape="rect" id="node3" href="$d0/d51/FittingAlgorithm_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/src/FittingAlgorithm.cpp" alt="" coords="310,261,527,321"/>
+<area shape="rect" id="node4" href="$df/d53/FittingAlgorithmFitterFunction_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/src/FittingAlgorithmFitterFunction.cpp" alt="" coords="5,261,285,321"/>
+<area shape="rect" id="node16" href="$d4/df1/MakeActsGeometry_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/MakeActs\lGeometry.cc" alt="" coords="3110,253,3338,329"/>
+<area shape="rect" id="node17" href="$d8/d22/PHActsSourceLinks_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSource\lLinks.cc" alt="" coords="3413,253,3669,329"/>
+<area shape="rect" id="node18" href="$d5/d13/PHActsTrkFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lFitter.cc" alt="" coords="3603,377,3834,453"/>
+<area shape="rect" id="node21" href="$d5/d49/PHActsTracks_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTracks.h" alt="" coords="4204,261,4468,321"/>
+<area shape="rect" id="node23" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="3949,253,4179,329"/>
+<area shape="rect" id="node24" href="$df/d9f/PHActsTrkProp_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lProp.h" alt="" coords="3694,253,3925,329"/>
+<area shape="rect" id="node22" href="$dd/dd8/PHActsTracks_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTracks.cc" alt="" coords="4201,385,4471,445"/>
+</map>

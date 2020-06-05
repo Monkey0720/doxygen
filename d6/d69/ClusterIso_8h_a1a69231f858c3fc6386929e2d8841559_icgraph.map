@@ -1,0 +1,12 @@
+<map id="deltaR" name="deltaR">
+<area shape="rect" id="node2" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#ab67fb36925cff54e28aeede85549e7e6" title="Calculates 3D distance between a track and a 3D point." alt="" coords="141,5,347,49"/>
+<area shape="rect" id="node4" href="$dc/d44/classActs_1_1Seedfinder.html#ae3d4b7ce10e1c8326c34fc80cff9b13a" title="Acts::Seedfinder::create\lSeedsForGroup" alt="" coords="151,141,337,185"/>
+<area shape="rect" id="node6" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#aae67a291110d970c44021048b8bea918" title="Creates track parameters bound to plane at point of closest approach in 3d to given reference positio..." alt="" coords="128,73,360,117"/>
+<area shape="rect" id="node7" href="$d0/d25/classActs_1_1SeedFilter.html#a3a6a3f6933a53899e60a3239e25e9c26" title="Acts::SeedFilter::filter\lSeeds_2SpFixed" alt="" coords="160,209,328,253"/>
+<area shape="rect" id="node8" href="$de/d9b/namespaceFW_1_1Generic.html#afaa5cda4e6449ca7497b0c62a017731d" title="helper method for disc" alt="" coords="119,277,369,305"/>
+<area shape="rect" id="node10" href="$da/dda/classSubtractTowersCS.html#ab15f45c558239c3cf38797472457e361" title="SubtractTowersCS::process\l_event" alt="" coords="142,329,346,373"/>
+<area shape="rect" id="node11" href="$de/dcb/classClusterIso.html#a6aa03ee56ec17554e0603b71e741dfbd" title="ClusterIso::process\l_event" alt="" coords="169,397,319,441"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#ae0e8c35abfd86c233517325add7a66f5" title="Unit test for ImpactPointEstimator params and distance." alt="" coords="426,40,614,84"/>
+<area shape="rect" id="node5" href="$d2/d67/SeedfinderTest_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="493,149,547,177"/>
+<area shape="rect" id="node9" href="$de/d9b/namespaceFW_1_1Generic.html#ae44d0ffd2d79b410537700d640ed9177" title="FW::Generic::buildDetector" alt="" coords="417,277,623,305"/>
+</map>

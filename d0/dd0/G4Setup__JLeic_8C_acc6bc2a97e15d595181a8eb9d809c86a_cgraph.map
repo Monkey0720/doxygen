@@ -1,0 +1,12 @@
+<map id="G4Init" name="G4Init">
+<area shape="rect" id="node2" href="$dd/d5a/G4__Barrel__Hcal_8C.html#a21d52a7e3e06fdcaa4dd54eb69bfe59f" title="Barrel_HcalInit" alt="" coords="135,5,255,33"/>
+<area shape="rect" id="node3" href="$d7/dca/G4__BeamLine_8C.html#a72521f39dc1127a5ee93ae678df90d8b" title="BeamLineInit" alt="" coords="139,57,250,85"/>
+<area shape="rect" id="node4" href="$df/d7d/G4__CTD_8C.html#a3808e8a0b19fe41a94fe364408847085" title="CTDInit" alt="" coords="159,109,231,137"/>
+<area shape="rect" id="node5" href="$d6/daa/G4__DRich_8C.html#a1d57af3523ce4081dbecdd7619032337" title="DRichInit" alt="" coords="153,161,236,189"/>
+<area shape="rect" id="node6" href="$de/df4/G4__EndCap__Electron_8C.html#af232866b0eafe8d04f83951740a93fd9" title="EndCap_ElectronInit" alt="" coords="116,213,273,241"/>
+<area shape="rect" id="node7" href="$de/d43/G4__EndCap__Hadron_8C.html#a3371e3f844bf08f3addaa3138b6af339" title="EndCap_HadronInit" alt="" coords="119,265,271,293"/>
+<area shape="rect" id="node8" href="$db/d88/G4__Gem_8C.html#ad89aeb961e6735a06605e8ac1baa271d" title="GemInit" alt="" coords="157,317,233,345"/>
+<area shape="rect" id="node9" href="$dd/d4f/G4__JLDIRC_8C.html#ae34f275d275af14bad554cce3adab890" title="JLDIRCInit" alt="" coords="151,369,239,397"/>
+<area shape="rect" id="node10" href="$d4/d93/fun4all__g4jleic_2blob_2master_2macros_2G4__Magnet_8C.html#ab95d53454cdb41649376f8f9ff2a6291" title="MagnetInit" alt="" coords="147,421,242,449"/>
+<area shape="rect" id="node11" href="$da/d98/fun4all__g4jleic_2blob_2master_2macros_2G4__Pipe_8C.html#a2dbcf1a6263e72567cbc73a2cfb2bb60" title="PipeInit" alt="" coords="159,473,231,501"/>
+</map>

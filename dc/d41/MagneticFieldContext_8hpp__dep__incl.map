@@ -1,0 +1,51 @@
+<map id="fun4all_acts/blob/master/Core/include/Acts/MagneticField/MagneticFieldContext.hpp" name="fun4all_acts/blob/master/Core/include/Acts/MagneticField/MagneticFieldContext.hpp">
+<area shape="rect" id="node2" href="$d5/de4/KalmanFitter_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Fitter\l/KalmanFitter.hpp" alt="" coords="4061,245,4250,305"/>
+<area shape="rect" id="node5" href="$dc/d85/KalmanFitterTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Fitter\l/KalmanFitterTests.cpp" alt="" coords="3951,369,4152,429"/>
+<area shape="rect" id="node6" href="$de/d07/ConstantBField_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/MagneticField\l/ConstantBField.hpp" alt="" coords="1585,121,1828,181"/>
+<area shape="rect" id="node10" href="$d7/d3d/VertexFindingAlgorithm_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Vertexing\l/src/VertexFindingAlgorithm.cpp" alt="" coords="5868,369,6107,429"/>
+<area shape="rect" id="node11" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/MagneticField\l/BFieldAccessExample.cpp" alt="" coords="1820,245,2040,305"/>
+<area shape="rect" id="node12" href="$d3/d16/AtlasStepperBenchmark_8cpp.html" title="fun4all_acts/blob/master\l/Tests/Benchmarks/AtlasStepper\lBenchmark.cpp" alt="" coords="336,245,578,305"/>
+<area shape="rect" id="node13" href="$dc/d87/EigenStepperBenchmark_8cpp.html" title="fun4all_acts/blob/master\l/Tests/Benchmarks/EigenStepper\lBenchmark.cpp" alt="" coords="2065,245,2310,305"/>
+<area shape="rect" id="node14" href="$d0/d0a/ConstantBFieldTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/ConstantBFieldTests.cpp" alt="" coords="602,245,830,305"/>
+<area shape="rect" id="node15" href="$d8/d6f/MagneticFieldInterfaceConsistencyTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/MagneticFieldInterfaceConsistency\lTests.cpp" alt="" coords="3448,237,3740,313"/>
+<area shape="rect" id="node16" href="$db/d42/ExtrapolatorTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/ExtrapolatorTests.cpp" alt="" coords="2335,245,2576,305"/>
+<area shape="rect" id="node17" href="$d3/d90/JacobianTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/JacobianTests.cpp" alt="" coords="71,245,312,305"/>
+<area shape="rect" id="node18" href="$db/dc7/KalmanExtrapolatorTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/KalmanExtrapolatorTests.cpp" alt="" coords="2600,245,2842,305"/>
+<area shape="rect" id="node19" href="$d6/d4c/LoopProtectionTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/LoopProtectionTests.cpp" alt="" coords="2866,245,3107,305"/>
+<area shape="rect" id="node20" href="$d9/dfe/MaterialCollectionTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/MaterialCollectionTests.cpp" alt="" coords="2350,369,2591,429"/>
+<area shape="rect" id="node21" href="$d4/d31/PropagatorTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/PropagatorTests.cpp" alt="" coords="3131,245,3372,305"/>
+<area shape="rect" id="node22" href="$d9/d8c/StepperTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Propagator\l/StepperTests.cpp" alt="" coords="5195,369,5436,429"/>
+<area shape="rect" id="node23" href="$d5/d1b/CombinatorialKalmanFilterTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/TrackFinder\l/CombinatorialKalmanFilterTests.cpp" alt="" coords="4848,369,5117,429"/>
+<area shape="rect" id="node24" href="$d5/d5a/InterpolatedBFieldMap_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/MagneticField\l/InterpolatedBFieldMap.hpp" alt="" coords="3473,121,3716,181"/>
+<area shape="rect" id="node25" href="$d4/dfb/InterpolatedBFieldMapTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/InterpolatedBFieldMapTests.cpp" alt="" coords="3765,245,4037,305"/>
+<area shape="rect" id="node26" href="$df/d7f/NullBField_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/MagneticField\l/NullBField.hpp" alt="" coords="5957,121,6200,181"/>
+<area shape="rect" id="node27" href="$db/d9e/StraightLineStepper_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Propagator\l/StraightLineStepper.hpp" alt="" coords="6520,245,6744,305"/>
+<area shape="rect" id="node28" href="$d1/df0/SurfaceMaterialMapper_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Material\l/SurfaceMaterialMapper.hpp" alt="" coords="6497,369,6710,429"/>
+<area shape="rect" id="node29" href="$de/d20/MaterialMappingBase_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Common/src\l/MaterialMappingBase.cpp" alt="" coords="5651,485,5863,545"/>
+<area shape="rect" id="node30" href="$d3/df7/SurfaceMaterialMapperTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Material\l/SurfaceMaterialMapperTests.cpp" alt="" coords="6835,485,7082,545"/>
+<area shape="rect" id="node31" href="$dd/d6a/VolumeMaterialMapper_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Material\l/VolumeMaterialMapper.hpp" alt="" coords="6735,369,6947,429"/>
+<area shape="rect" id="node32" href="$da/ded/VolumeMaterialMapperTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Material\l/VolumeMaterialMapperTests.cpp" alt="" coords="6413,485,6658,545"/>
+<area shape="rect" id="node33" href="$d4/d08/HelicalTrackLinearizer_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Vertexing\l/HelicalTrackLinearizer.hpp" alt="" coords="5792,245,6005,305"/>
+<area shape="rect" id="node34" href="$d1/dd6/ImpactPointEstimator_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Vertexing\l/ImpactPointEstimator.hpp" alt="" coords="6282,245,6496,305"/>
+<area shape="rect" id="node35" href="$d0/dba/SolenoidBField_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/MagneticField\l/SolenoidBField.hpp" alt="" coords="4824,121,5066,181"/>
+<area shape="rect" id="node36" href="$d7/d5c/SolenoidBFieldTests_8cpp.html" title="fun4all_acts/blob/master\l/Tests/UnitTests/Core/Magnetic\lField/SolenoidBFieldTests.cpp" alt="" coords="6030,245,6258,305"/>
+<area shape="rect" id="node37" href="$dc/d0a/AtlasStepper_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Propagator\l/AtlasStepper.hpp" alt="" coords="345,121,569,181"/>
+<area shape="rect" id="node38" href="$d6/d44/DenseEnvironmentExtension_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Propagator\l/DenseEnvironmentExtension.hpp" alt="" coords="5192,245,5445,305"/>
+<area shape="rect" id="node39" href="$d5/d20/Propagator_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Propagator\l/Propagator.hpp" alt="" coords="4454,121,4678,181"/>
+<area shape="rect" id="node40" href="$de/dca/CombinatorialKalmanFilter_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/TrackFinder\l/CombinatorialKalmanFilter.hpp" alt="" coords="4882,245,5118,305"/>
+<area shape="rect" id="node41" href="$de/d43/Simulator_8hpp.html" title="fun4all_acts/blob/master\l/Fatras/include/ActsFatras\l/Kernel/Simulator.hpp" alt="" coords="5520,245,5716,305"/>
+<area shape="rect" id="node42" href="$d5/dca/LinearizerConcept_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Vertexing\l/LinearizerConcept.hpp" alt="" coords="6733,121,6946,181"/>
+<area shape="rect" id="node43" href="$d1/d75/VertexingOptions_8hpp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Vertexing\l/VertexingOptions.hpp" alt="" coords="6394,121,6608,181"/>
+<area shape="rect" id="node44" href="$dc/d88/ScalableBField_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/MagneticField\l/include/ACTFW/Plugins/BField\l/ScalableBField.hpp" alt="" coords="4176,361,4436,437"/>
+<area shape="rect" id="node45" href="$de/d37/AlgorithmContext_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Framework/include\l/ACTFW/Framework/AlgorithmContext.hpp" alt="" coords="7608,121,7914,181"/>
+<area shape="rect" id="node46" href="$d4/df1/MakeActsGeometry_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/MakeActs\lGeometry.cc" alt="" coords="7123,237,7351,313"/>
+<area shape="rect" id="node47" href="$d3/d32/PropagationTestHelper_8hpp.html" title="fun4all_acts/blob/master\l/Tests/IntegrationTests\l/PropagationTestHelper.hpp" alt="" coords="7376,121,7584,181"/>
+<area shape="rect" id="node48" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="7123,113,7351,189"/>
+<area shape="rect" id="node49" href="$d1/dae/PHActsSourceLinks_8h.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSource\lLinks.h" alt="" coords="7938,113,8194,189"/>
+<area shape="rect" id="node50" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="8034,237,8264,313"/>
+<area shape="rect" id="node3" href="$d4/d3b/FittingAlgorithm_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/include/ACTFW/Fitting/FittingAlgorithm.hpp" alt="" coords="3609,369,3926,429"/>
+<area shape="rect" id="node4" href="$df/d53/FittingAlgorithmFitterFunction_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/Fitting\l/src/FittingAlgorithmFitterFunction.cpp" alt="" coords="3628,485,3908,545"/>
+<area shape="rect" id="node7" href="$db/d26/FullBilloirVertexFitter_8ipp.html" title="fun4all_acts/blob/master\l/Core/include/Acts/Vertexing\l/FullBilloirVertexFitter.ipp" alt="" coords="1278,245,1492,305"/>
+<area shape="rect" id="node8" href="$d2/deb/TruthVerticesToTracks_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/TruthTracking\l/ACTFW/TruthTracking/TruthVerticesToTracks.cpp" alt="" coords="906,369,1254,429"/>
+<area shape="rect" id="node9" href="$d1/d72/TruthVerticesToTracks_8hpp.html" title="fun4all_acts/blob/master\l/Examples/Algorithms/TruthTracking\l/ACTFW/TruthTracking/TruthVerticesToTracks.hpp" alt="" coords="905,245,1254,305"/>
+</map>

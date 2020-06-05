@@ -1,0 +1,6 @@
+<map id="PHG4Sector::Sector_Geometry::AddLayers_HBD_GEM" name="PHG4Sector::Sector_Geometry::AddLayers_HBD_GEM">
+<area shape="rect" id="node2" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#ac44d1ef8dd3931eed6dd2ae0110ed8d1" title="FGEMSetup" alt="" coords="426,5,525,33"/>
+<area shape="rect" id="node4" href="$da/d9b/G4__FGEM__fsPHENIX_8C.html#a75ea364f15ac3286c935ec8dc4cc2830" title="make_GEM_station" alt="" coords="229,57,377,85"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="573,32,653,60"/>
+<area shape="rect" id="node5" href="$de/d55/G4__GEM__EIC_8C.html#a04d0a097375d8e3f53970b906caf0d75" title="EGEMSetup" alt="" coords="425,57,525,85"/>
+</map>

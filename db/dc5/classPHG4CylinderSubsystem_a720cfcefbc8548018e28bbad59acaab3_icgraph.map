@@ -1,0 +1,16 @@
+<map id="PHG4CylinderSubsystem::set_color" name="PHG4CylinderSubsystem::set_color">
+<area shape="rect" id="node2" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="281,32,369,60"/>
+<area shape="rect" id="node4" href="$df/d7d/G4__CTD_8C.html#a30aeb88f3fa339a14c99ec30731d9482" title="CTD" alt="" coords="300,84,349,112"/>
+<area shape="rect" id="node12" href="$d6/daa/G4__DRich_8C.html#aadf074c3b4ac13a79d99119537fdaa11" title="DRich" alt="" coords="295,136,355,164"/>
+<area shape="rect" id="node13" href="$de/d43/G4__EndCap__Hadron_8C.html#a1e15e0cd45d806eb1cbd809646973159" title="EndCap_Hadron" alt="" coords="260,188,389,216"/>
+<area shape="rect" id="node14" href="$d7/dc5/Fun4All__G4__FastMom_8C.html#ab9349be2377fe9e9a634a8607cff2555" title="Fun4All_G4_FastMom" alt="" coords="243,240,407,268"/>
+<area shape="rect" id="node15" href="$dd/d8d/Fun4All__G4__Magnet_8C.html#a375961511ba614ba387343e652ab0202" title="Fun4All_G4_Magnet" alt="" coords="247,292,402,320"/>
+<area shape="rect" id="node3" href="$d6/d6e/G4Setup__EICDetector_8C.html#af15ee6d4dd2044e228fb457a2ec81b4c" title="G4Setup" alt="" coords="455,32,535,60"/>
+<area shape="rect" id="node5" href="$d0/dd0/G4Setup__JLeic_8C.html#ae51ed477963c36fe17047cf934f36ef0" title="G4Setup" alt="" coords="455,136,535,164"/>
+<area shape="rect" id="node6" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="599,5,752,33"/>
+<area shape="rect" id="node7" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="583,57,768,85"/>
+<area shape="rect" id="node8" href="$da/d02/Fun4All__G4__EICDetector_8C.html#afbe82cefa1d1fd031d9a8586b7bb68c6" title="Fun4All_G4_EICDetector" alt="" coords="583,109,768,137"/>
+<area shape="rect" id="node9" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="593,161,758,189"/>
+<area shape="rect" id="node10" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a66e8fc0b01ee0a8e805c7b99c4698974" title="Fun4All_G4_JLeic" alt="" coords="608,213,743,241"/>
+<area shape="rect" id="node11" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="595,265,756,293"/>
+</map>

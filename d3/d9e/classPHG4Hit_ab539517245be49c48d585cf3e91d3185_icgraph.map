@@ -1,0 +1,11 @@
+<map id="PHG4Hit::identify" name="PHG4Hit::identify">
+<area shape="rect" id="node2" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="198,5,414,33"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="192,57,420,85"/>
+<area shape="rect" id="node5" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="200,109,412,153"/>
+<area shape="rect" id="node7" href="$d9/d91/classPHG4TrackFastSim.html#ad97cb78cc954aa1cb5ee600795c2ce35" title="PHG4TrackFastSim::Pseudo\lPatternRecognition" alt="" coords="204,177,408,221"/>
+<area shape="rect" id="node9" href="$db/d97/classPHG4HcalSteppingAction.html#a3b7e2152d047bd72e38f36b695351fc7" title="stepping action" alt="" coords="211,245,401,289"/>
+<area shape="rect" id="node10" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="203,313,409,357"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="486,20,662,64"/>
+<area shape="rect" id="node6" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="468,109,680,153"/>
+<area shape="rect" id="node8" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="470,177,678,221"/>
+</map>

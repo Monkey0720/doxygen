@@ -1,0 +1,26 @@
+<map id="FemcGeoParData" name="FemcGeoParData">
+<area shape="rect" id="node2" href="$da/d56/classEndcapGeoParData.html" title="EndcapGeoParData" alt="" coords="2876,652,3027,680"/>
+<area shape="rect" id="node3" href="$d0/d2c/classCalorimeterGeoParData.html" title="CalorimeterGeoParData" alt="" coords="2647,652,2827,680"/>
+<area shape="rect" id="node4" href="$df/de0/classEicGeoParData.html" title="EicGeoParData" alt="" coords="2476,652,2597,680"/>
+<area shape="rect" id="node5" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="53,693,129,721"/>
+<area shape="rect" id="node8" href="$dc/dc3/classFairGeoInterface.html" title="FairGeoInterface" alt="" coords="1524,541,1656,569"/>
+<area shape="rect" id="node9" href="$d4/db5/classFairGeoShapes.html" title="FairGeoShapes" alt="" coords="572,601,695,629"/>
+<area shape="rect" id="node12" href="$d3/d1b/classFairGeoIo.html" title="FairGeoIo" alt="" coords="976,493,1060,521"/>
+<area shape="rect" id="node14" href="$da/d86/classEicGeoMap.html" title="EicGeoMap" alt="" coords="1541,659,1639,687"/>
+<area shape="rect" id="node16" href="$d1/d24/classGeantVolumeLevel.html" title="GeantVolumeLevel" alt="" coords="761,719,909,747"/>
+<area shape="rect" id="node17" href="$dd/d20/classEicBitMask.html" title="EicBitMask\&lt; UGeantIndex_t \&gt;" alt="" coords="321,745,545,773"/>
+<area shape="rect" id="node19" href="$d7/dff/classLogicalVolumeGroup.html" title="LogicalVolumeGroup" alt="" coords="1509,801,1671,829"/>
+<area shape="rect" id="node21" href="$de/d4a/classLogicalVolumeGroupProjection.html" title="LogicalVolumeGroupProjection" alt="" coords="722,797,949,825"/>
+<area shape="rect" id="node22" href="$dd/d20/classEicBitMask.html" title="EicBitMask\&lt; ULogicalIndex_t \&gt;" alt="" coords="317,849,548,877"/>
+<area shape="rect" id="node23" href="$dd/db5/classLogicalVolumeLookupTableEntry.html" title="LogicalVolumeLookupTable\lEntry" alt="" coords="1086,865,1289,909"/>
+<area shape="rect" id="node27" href="$d0/d2f/classEicDetName.html" title="Detector name in all flavors like TPC, Tpc, tpc." alt="" coords="1348,995,1452,1023"/>
+<area shape="rect" id="node28" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Char_t \&gt;" alt="" coords="349,1055,516,1099"/>
+<area shape="rect" id="node31" href="$dd/d0b/classEicNamePatternHub.html" title="EicNamePatternHub\&lt;\l Color_t \&gt;" alt="" coords="349,192,516,236"/>
+<area shape="rect" id="node36" href="$dd/dc2/classTowerParData.html" title="TowerParData" alt="" coords="2287,1129,2402,1157"/>
+<area shape="rect" id="node37" href="$d7/d1e/classFiberParData.html" title="FiberParData" alt="" coords="1134,96,1241,124"/>
+<area shape="rect" id="node39" href="$dd/d31/classFiberTowerLayer.html" title="FiberTowerLayer" alt="" coords="367,140,499,168"/>
+<area shape="rect" id="node6" href="$d2/dc4/classFairGeoLoader.html" title="FairGeoLoader" alt="" coords="2048,444,2168,472"/>
+<area shape="rect" id="node10" href="$d9/d1e/classFairGeoMedia.html" title="FairGeoMedia" alt="" coords="1131,409,1243,437"/>
+<area shape="rect" id="node11" href="$de/d6a/classFairGeoBuilder.html" title="FairGeoBuilder" alt="" coords="1127,357,1248,385"/>
+<area shape="rect" id="node34" href="$de/d53/classSourceFile.html" title="SourceFile" alt="" coords="1545,1080,1635,1108"/>
+</map>

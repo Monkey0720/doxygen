@@ -1,0 +1,11 @@
+<map id="fun4all_acts/blob/master/Examples/Detectors/TGeoDetector/include/ACTFW/TGeoDetector/TGeoDetector.hpp" name="fun4all_acts/blob/master/Examples/Detectors/TGeoDetector/include/ACTFW/TGeoDetector/TGeoDetector.hpp">
+<area shape="rect" id="node2" href="$db/df1/TGeoDetector_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Detectors/TGeoDetector\l/src/TGeoDetector.cpp" alt="" coords="5,121,267,181"/>
+<area shape="rect" id="node3" href="$d7/d1f/TGeoFatrasExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Fatras/TGeoFatras\lExample.cpp" alt="" coords="290,121,539,181"/>
+<area shape="rect" id="node4" href="$da/df0/TGeoGeometryExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Geometry\l/TGeoGeometryExample.cpp" alt="" coords="563,121,781,181"/>
+<area shape="rect" id="node5" href="$d5/d41/TGeoPropagationExample_8cpp.html" title="fun4all_acts/blob/master\l/Examples/Run/Propagation\l/TGeoPropagationExample.cpp" alt="" coords="805,121,1037,181"/>
+<area shape="rect" id="node6" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="1062,113,1290,189"/>
+<area shape="rect" id="node7" href="$d4/df1/MakeActsGeometry_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/MakeActs\lGeometry.cc" alt="" coords="661,237,889,313"/>
+<area shape="rect" id="node8" href="$d8/d22/PHActsSourceLinks_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsSource\lLinks.cc" alt="" coords="913,237,1169,313"/>
+<area shape="rect" id="node9" href="$d5/d13/PHActsTrkFitter_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lFitter.cc" alt="" coords="1194,237,1425,313"/>
+<area shape="rect" id="node10" href="$d2/dd7/PHActsTrkProp_8cc.html" title="fun4all_coresoftware\l/blob/master/offline\l/packages/trackreco/PHActsTrk\lProp.cc" alt="" coords="1449,237,1679,313"/>
+</map>

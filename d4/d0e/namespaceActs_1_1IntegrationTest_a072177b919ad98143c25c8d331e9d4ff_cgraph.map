@@ -1,0 +1,12 @@
+<map id="Acts::IntegrationTest::makeFieldMap" name="Acts::IntegrationTest::makeFieldMap">
+<area shape="rect" id="node2" href="$d7/d91/g3Config_8C.html#aa58262e3cde23ab66e49f3acde7bec14" title="Config" alt="" coords="283,109,347,137"/>
+<area shape="rect" id="node7" href="$da/d7b/namespaceActs.html#a2fac1cc4b4b38f3f376ed8dc0e54ff26" title="Acts::solenoidFieldMapper" alt="" coords="215,243,415,271"/>
+<area shape="rect" id="node3" href="$dd/dbc/classFairRunSim.html#a5ec15ff0cc249b3a195299b6d3acb2a8" title="FairRunSim::GetGeoModel" alt="" coords="469,5,667,33"/>
+<area shape="rect" id="node4" href="$dd/dbc/classFairRunSim.html#a733dc616669bd5e542b5c05f6470c744" title="FairRunSim::Instance" alt="" coords="487,57,649,85"/>
+<area shape="rect" id="node5" href="$d5/dd2/classPndStack.html#af5a638783c0920ca02d1a6ce97772a3a" title="PndStack::SetMinPoints" alt="" coords="479,109,657,137"/>
+<area shape="rect" id="node6" href="$d5/dd2/classPndStack.html#aced4053f774b41193f74566acdc8d462" title="PndStack::StoreSecondaries" alt="" coords="463,161,673,189"/>
+<area shape="rect" id="node8" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="513,213,623,241"/>
+<area shape="rect" id="node10" href="$da/dec/classActs_1_1SolenoidBField.html#ac67caa2fb9ed8c7dab315a0c8c030b7d" title="retrieve magnetic field value" alt="" coords="489,265,647,309"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="732,295,887,339"/>
+<area shape="rect" id="node9" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="721,213,897,241"/>
+</map>

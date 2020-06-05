@@ -1,0 +1,9 @@
+<map id="QAHistManagerDef::useLogBins" name="QAHistManagerDef::useLogBins">
+<area shape="rect" id="node2" href="$da/d7d/classQAG4SimulationUpsilon.html#a83e9f8e695a72f12c7ccd02326366d4f" title="QAG4SimulationUpsilon\l::Init" alt="" coords="304,5,487,49"/>
+<area shape="rect" id="node3" href="$de/dbf/classQAG4SimulationTracking.html#abb68212e5ecaf6824756c6a3bf378123" title="QAG4SimulationTracking\l::Init" alt="" coords="301,73,489,117"/>
+<area shape="rect" id="node4" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a0d1bac5b22df6a22addd81a9684b46a8" title="QAG4SimulationCalorimeter\l::Init_G4Hit" alt="" coords="289,141,501,185"/>
+<area shape="rect" id="node6" href="$d4/d28/classQAG4SimulationJet.html#a71d3afa61febd84616aa9a46f544bdf4" title="QAG4SimulationJet::\lInit_Spectrum" alt="" coords="317,277,474,321"/>
+<area shape="rect" id="node8" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a2334a9feb6a9cdfda4d7c68fd518fb31" title="QAG4SimulationCalorimeter\l::Init_Tower" alt="" coords="289,209,501,253"/>
+<area shape="rect" id="node5" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a276946dc4f116dd16c91722d1693b48d" title="QAG4SimulationCalorimeter\l::Init" alt="" coords="549,176,761,220"/>
+<area shape="rect" id="node7" href="$d4/d28/classQAG4SimulationJet.html#a7738b8c330b20835aa469fdd59c108f8" title="QAG4SimulationJet::Init" alt="" coords="565,285,746,313"/>
+</map>

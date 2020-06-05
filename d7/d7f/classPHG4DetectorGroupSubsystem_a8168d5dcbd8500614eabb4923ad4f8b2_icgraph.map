@@ -1,0 +1,12 @@
+<map id="PHG4DetectorGroupSubsystem::SuperDetector" name="PHG4DetectorGroupSubsystem::SuperDetector">
+<area shape="rect" id="node2" href="$db/d28/G4__PSTOF_8C.html#a38460f24e46352ebb9feb5c24c530f3d" title="PSTOF" alt="" coords="287,84,352,112"/>
+<area shape="rect" id="node4" href="$d7/d57/G4__VTX_8C.html#a8d98a49efcd647a0222e444a5ab6d666" title="VTX" alt="" coords="295,136,344,164"/>
+<area shape="rect" id="node3" href="$d0/daa/G4Setup__sPHENIX_8C.html#a549705f8cf88e67b89a112e23135538f" title="G4Setup" alt="" coords="400,84,480,112"/>
+<area shape="rect" id="node5" href="$d0/dd0/G4Setup__JLeic_8C.html#ae51ed477963c36fe17047cf934f36ef0" title="G4Setup" alt="" coords="400,136,480,164"/>
+<area shape="rect" id="node6" href="$db/dc0/Fun4All__AnaTutorial_8C.html#a8c484ea6d7477278e981ef056b17eac9" title="Fun4All_AnaTutorial" alt="" coords="544,5,697,33"/>
+<area shape="rect" id="node7" href="$dd/d28/Fun4All__AnaTutorial__Jets_8C.html#a55eaaeb770a3177f917012de87877d28" title="Fun4All_AnaTutorial_Jets" alt="" coords="528,57,713,85"/>
+<area shape="rect" id="node8" href="$da/d02/Fun4All__G4__EICDetector_8C.html#afbe82cefa1d1fd031d9a8586b7bb68c6" title="Fun4All_G4_EICDetector" alt="" coords="528,109,713,137"/>
+<area shape="rect" id="node9" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html#a72c444217210a14ab1b4e66d9818b1ff" title="Fun4All_G4_fsPHENIX" alt="" coords="538,161,703,189"/>
+<area shape="rect" id="node10" href="$d0/d87/Fun4All__G4__JLeic_8C.html#a66e8fc0b01ee0a8e805c7b99c4698974" title="Fun4All_G4_JLeic" alt="" coords="553,213,688,241"/>
+<area shape="rect" id="node11" href="$d0/d13/Fun4All__G4__sPHENIX_8C.html#a536fa7366e3aeaf273cca94ced704c46" title="Fun4All_G4_sPHENIX" alt="" coords="540,265,701,293"/>
+</map>

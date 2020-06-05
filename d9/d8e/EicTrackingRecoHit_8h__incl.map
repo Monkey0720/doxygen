@@ -1,0 +1,26 @@
+<map id="EicRoot/blob/master/eic/tracking/EicTrackingRecoHit.h" name="EicRoot/blob/master/eic/tracking/EicTrackingRecoHit.h">
+<area shape="rect" id="node2" href="$dd/d4f/GFRecoHitIfc_8h.html" title="GFRecoHitIfc.h" alt="" coords="629,113,749,141"/>
+<area shape="rect" id="node14" href="$d6/d3f/GFPlanarHitPolicy_8h.html" title="GFPlanarHitPolicy.h" alt="" coords="778,265,929,293"/>
+<area shape="rect" id="node16" href="$de/d6f/GFSpacepointHitPolicy_8h.html" title="GFSpacepointHitPolicy.h" alt="" coords="417,265,601,293"/>
+<area shape="rect" id="node18" href="$d1/d0d/PndGeoHandling_8h.html" title="PndGeoHandling.h" alt="" coords="1351,265,1497,293"/>
+<area shape="rect" id="node38" href="$d5/d26/EicTrackingDigiHit_8h.html" title="EicTrackingDigiHit.h" alt="" coords="2347,265,2503,293"/>
+<area shape="rect" id="node4" href="$dc/dd4/GFAbsRecoHit_8h.html" title="GFAbsRecoHit.h" alt="" coords="575,189,703,217"/>
+<area shape="rect" id="node10" href="$db/d65/GFDetPlane_8h.html" title="GFDetPlane.h" alt="" coords="410,341,523,369"/>
+<area shape="rect" id="node7" href="$d5/da1/GFAbsTrackRep_8h.html" title="GFAbsTrackRep.h" alt="" coords="953,265,1089,293"/>
+<area shape="rect" id="node11" href="$d3/d26/GFAbsFinitePlane_8h.html" title="GFAbsFinitePlane.h" alt="" coords="48,417,197,445"/>
+<area shape="rect" id="node19" href="$d4/d03/PndSensorNamePar_8h.html" title="PndSensorNamePar.h" alt="" coords="1222,341,1386,369"/>
+<area shape="rect" id="node26" href="$df/d06/FairRun_8h.html" title="FairRun.h" alt="" coords="1399,417,1483,445"/>
+<area shape="rect" id="node31" href="$d9/dac/FairRuntimeDb_8h.html" title="FairRuntimeDb.h" alt="" coords="1140,417,1273,445"/>
+<area shape="rect" id="node32" href="$d8/d44/FairTask_8h.html" title="FairTask.h" alt="" coords="1721,341,1807,369"/>
+<area shape="rect" id="node20" href="$d1/d65/FairParGenericSet_8h.html" title="FairParGenericSet.h" alt="" coords="911,417,1065,445"/>
+<area shape="rect" id="node21" href="$da/de2/FairParamList_8h.html" title="FairParamList.h" alt="" coords="1826,417,1950,445"/>
+<area shape="rect" id="node27" href="$d5/de4/FairLogger_8h.html" title="FairLogger.h" alt="" coords="1374,493,1477,521"/>
+<area shape="rect" id="node33" href="$d4/d92/FairRootManager_8h.html" title="FairRootManager.h" alt="" coords="1655,417,1801,445"/>
+<area shape="rect" id="node40" href="$d4/d88/FairHit_8h.html" title="FairHit.h" alt="" coords="2121,341,2199,369"/>
+<area shape="rect" id="node42" href="$dc/dac/EicGeoParData_8h.html" title="EicGeoParData.h" alt="" coords="2624,341,2757,369"/>
+<area shape="rect" id="node50" href="$d0/db7/EicMoCaPoint_8h.html" title="EicMoCaPoint.h" alt="" coords="3386,493,3510,521"/>
+<area shape="rect" id="node41" href="$d4/dd4/FairTimeStamp_8h.html" title="FairTimeStamp.h" alt="" coords="2093,417,2227,445"/>
+<area shape="rect" id="node47" href="$d3/d52/FairGeoLoader_8h.html" title="FairGeoLoader.h" alt="" coords="2626,417,2755,445"/>
+<area shape="rect" id="node48" href="$d6/dd0/FairGeoInterface_8h.html" title="FairGeoInterface.h" alt="" coords="2405,417,2550,445"/>
+<area shape="rect" id="node49" href="$dc/d78/FairGeoMedia_8h.html" title="FairGeoMedia.h" alt="" coords="3088,417,3213,445"/>
+</map>
